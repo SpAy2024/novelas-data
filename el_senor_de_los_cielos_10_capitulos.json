@@ -1,18 +1,29 @@
 {
   "novela": "El Senor De Los Cielos 10",
   "url": "https://ww2.ojearnovelas.com/tunovela/el-senor-de-los-cielos-10/",
-  "fecha_extraccion": "2026-07-08T12:27:47.078Z",
-  "total_capitulos": 1,
+  "fecha_extraccion": "2026-07-09T12:30:50.935Z",
+  "total_capitulos": 2,
   "capitulos": [
     {
       "numero": 1,
       "titulo": "El Señor De Los Cielos 10 | Capítulo 1 | Ver Completo",
       "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-1/",
       "servidores": [
-        "https://filemoon.to/e/2r25r4j3hffz",
-        "https://iplayerhls.com/e/wfhh6l78bxqn",
-        "https://dooodster.com/e/qvk559tk2pi1",
-        "https://luluvdo.com/e/gtdbxxrc8jie"
+        "https://luluvdo.com/e/od55n60khnm6",
+        "https://dooodster.com/e/5cj9ae4o5s9y",
+        "https://iplayerhls.com/e/3y155509qo4i",
+        "https://filemoon.to/e/5do42ow69g7f"
+      ]
+    },
+    {
+      "numero": 2,
+      "titulo": "El Señor De Los Cielos 10 | Capítulo 2 | Ver Completo",
+      "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-2/",
+      "servidores": [
+        "https://filemoon.to/e/flc1ekr35ih4",
+        "https://iplayerhls.com/e/u515ect2j9m1",
+        "https://dooodster.com/e/je3nfaexskze",
+        "https://luluvdo.com/e/98exzfn2yt5j"
       ]
     }
   ]
