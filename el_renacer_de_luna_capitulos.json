@@ -1,8 +1,8 @@
 {
   "novela": "El Renacer De Luna",
   "url": "https://ww2.ojearnovelas.com/tunovela/el-renacer-de-luna/",
-  "fecha_extraccion": "2026-07-16T12:53:11.094Z",
-  "total_capitulos": 17,
+  "fecha_extraccion": "2026-07-17T13:34:44.624Z",
+  "total_capitulos": 19,
   "capitulos": [
     {
       "numero": 1,
@@ -188,6 +188,28 @@
         "https://iplayerhls.com/e/yf0v85xp0ufk",
         "https://dooodster.com/e/3xfm6hurrjc3",
         "https://luluvdo.com/e/b0gz6b5aaljr"
+      ]
+    },
+    {
+      "numero": 18,
+      "titulo": "El renacer de luna | Capítulo 18 | Ver Completo",
+      "url": "https://ww2.ojearnovelas.com/ojea/el-renacer-de-luna-capitulo-18/",
+      "servidores": [
+        "https://filemoon.to/e/3fwveja17xl4",
+        "https://iplayerhls.com/e/rzrcieqc3rj3",
+        "https://dooodster.com/e/dlfspwh7u9zy",
+        "https://luluvdo.com/e/nnv7jl2y6g3e"
+      ]
+    },
+    {
+      "numero": 19,
+      "titulo": "El renacer de luna | Capítulo 19 | Ver Completo",
+      "url": "https://ww2.ojearnovelas.com/ojea/el-renacer-de-luna-capitulo-19/",
+      "servidores": [
+        "https://filemoon.to/e/ktrfdldbwzyk",
+        "https://iplayerhls.com/e/38fo1hzp721c",
+        "https://dooodster.com/e/wryvmg424brk",
+        "https://luluvdo.com/e/py67atg3msje"
       ]
     }
   ]
