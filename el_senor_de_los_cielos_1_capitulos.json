@@ -1,13 +1,9 @@
 "serie": "El Señor de los Cielos",
   "url": "https://serieskao.top/serie/el-senor-de-los-cielos",
   "fecha_extraccion": "2026-08-03T12:47:53.328Z",
-  "total_temporadas": 8,
-  "temporadas": [
-    {
-      "temporada": 1,
-      "nombre": "Temporada 1",
-      "episodios": [
-        {
+  "total_capitulos": 74,
+  "capítulos": [
+     {
           "numero": 1,
           "titulo": "Arranca la balacera",
           "url": "https://serieskao.top/serie/el-senor-de-los-cielos/temporada/1/capitulo/1",
@@ -2874,7 +2870,7 @@
             {
               "nombre": "Servidor encontrado",
               "url": "https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496"
-            }
+            
           ]
         }
       ]
