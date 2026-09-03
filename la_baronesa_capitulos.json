@@ -1,8 +1,8 @@
 {
   "novela": "La Baronesa",
   "url": "https://ww2.ojearnovelas.com/tunovela/la-baronesa/",
-  "fecha_extraccion": "2026-08-31T16:24:29.569Z",
-  "total_capitulos": 10,
+  "fecha_extraccion": "2026-09-03T22:52:50.167Z",
+  "total_capitulos": 12,
   "capitulos": [
     {
       "numero": 1,
@@ -100,6 +100,26 @@
         "https://iplayerhls.com/e/m53gbkjpddbl",
         "https://dooodster.com/e/obep1cx1u9km",
         "https://luluvdo.com/e/iamn1420ysq2"
+      ]
+    },
+    {
+      "numero": 11,
+      "titulo": "La Baronesa | Capítulo 11 | Ver Completo",
+      "url": "https://ww2.ojearnovelas.com/ojea/la-baronesa-capitulo-11/",
+      "servidores": [
+        "https://iplayerhls.com/e/6va0h2u3jkdv",
+        "https://dooodster.com/e/sio59rc6jocu",
+        "https://luluvdo.com/e/h1jnef2i12i2"
+      ]
+    },
+    {
+      "numero": 12,
+      "titulo": "La Baronesa | Capítulo 12 | Ver Completo",
+      "url": "https://ww2.ojearnovelas.com/ojea/la-baronesa-capitulo-12/",
+      "servidores": [
+        "https://iplayerhls.com/e/fiowztui8isr",
+        "https://dooodster.com/e/59ylw2xi1b8u",
+        "https://luluvdo.com/e/ei5s2pwfwr8r"
       ]
     }
   ]
