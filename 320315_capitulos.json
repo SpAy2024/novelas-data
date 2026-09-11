@@ -1,0 +1,777 @@
+{
+  "novela": "Guardián de mi vida",
+  "tmdb_id": 320315,
+  "poster": "https://image.tmdb.org/t/p/w500/c6I7uk2V9EOC7rdqPH73xG7mJas.jpg",
+  "temporadas": {
+    "1": {
+      "titulo": "Guardián de mi vida",
+      "fecha_extraccion": "2026-09-11T20:25:22.711Z",
+      "total_capitulos": 77,
+      "url": "https://ww2.ojearnovelas.com/tunovela/guardian-de-mi-vida/",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Guardián de mi vida | Capítulo 1 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-1/",
+          "servidores": [
+            "https://iplayerhls.com/e/ba3j21rbm37x",
+            "https://dooodster.com/e/ovqf4bvg2s5l",
+            "https://luluvdo.com/e/3pg0k65wyd6w"
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Guardián de mi vida | Capítulo 2 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-2/",
+          "servidores": [
+            "https://iplayerhls.com/e/gwwx9l21bu49",
+            "https://dooodster.com/e/0d5kjv7dqsyt",
+            "https://luluvdo.com/e/69re8kcpx4om"
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Guardián de mi vida | Capítulo 3 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-3/",
+          "servidores": [
+            "https://iplayerhls.com/e/0dtqwi3kw3m6",
+            "https://dooodster.com/e/xzf2cqixqsqi",
+            "https://luluvdo.com/e/8149nv53d6ao"
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Guardián de mi vida | Capítulo 4 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-4/",
+          "servidores": [
+            "https://iplayerhls.com/e/zf42pg0t15ta",
+            "https://dooodster.com/e/evqkfabhkhhl",
+            "https://luluvdo.com/e/zfusm3gkgy1t"
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Guardián de mi vida | Capítulo 5 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-5/",
+          "servidores": [
+            "https://iplayerhls.com/e/p79yiv5jc6xn",
+            "https://dooodster.com/e/poza2k9hg0fh",
+            "https://luluvdo.com/e/ml1njmfed4ws"
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Guardián de mi vida | Capítulo 6 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-6/",
+          "servidores": [
+            "https://iplayerhls.com/e/yv5e5fhgszxz",
+            "https://dooodster.com/e/o6yo294mcz46",
+            "https://luluvdo.com/e/ijp7r1nxtavt"
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Guardián de mi vida | Capítulo 7 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-7/",
+          "servidores": [
+            "https://iplayerhls.com/e/dnwx7ammjd78",
+            "https://dooodster.com/e/yakqx7xygza9",
+            "https://luluvdo.com/e/uk9o2358xbh6"
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Guardián de mi vida | Capítulo 8 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-8/",
+          "servidores": [
+            "https://iplayerhls.com/e/trbrsb2a1vhq",
+            "https://dooodster.com/e/yxx6vc4uahsi",
+            "https://luluvdo.com/e/osus3kjqnthc"
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Guardián de mi vida | Capítulo 9 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-9/",
+          "servidores": [
+            "https://iplayerhls.com/e/93yik6sy1nnq",
+            "https://dooodster.com/e/a9m1juuz2acm",
+            "https://luluvdo.com/e/272hix03mfn4"
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Guardián de mi vida | Capítulo 10 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-10/",
+          "servidores": [
+            "https://iplayerhls.com/e/f5s370mv9alr",
+            "https://dooodster.com/e/6hw4u2cu81me",
+            "https://luluvdo.com/e/x8c2829rft93"
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Guardián de mi vida | Capítulo 11 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-11/",
+          "servidores": [
+            "https://iplayerhls.com/e/krx1ttiv3jkn",
+            "https://dooodster.com/e/7ppg8vgw03zd",
+            "https://luluvdo.com/e/b9zqg0niqbqz"
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Guardián de mi vida | Capítulo 12 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-12/",
+          "servidores": [
+            "https://iplayerhls.com/e/kovtsn8oiafi",
+            "https://dooodster.com/e/azii82w7rn8r",
+            "https://luluvdo.com/e/jtncywzqm3g1"
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Guardián de mi vida | Capítulo 13 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-13/",
+          "servidores": [
+            "https://iplayerhls.com/e/vw0wmid5ipnx",
+            "https://dooodster.com/e/tc1un2z2gys9",
+            "https://luluvdo.com/e/uu0t44n6k49d"
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Guardián de mi vida | Capítulo 14 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-14/",
+          "servidores": [
+            "https://iplayerhls.com/e/1vh4tvwxl4rx",
+            "https://luluvdo.com/e/69b4f35r8p7s"
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Guardián de mi vida | Capítulo 15 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-15/",
+          "servidores": [
+            "https://iplayerhls.com/e/wf8ksnvwxpav",
+            "https://dooodster.com/e/qgfpyrqsa3ci",
+            "https://luluvdo.com/e/f4g4pyscbj5r"
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Guardián de mi vida | Capítulo 16 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-16/",
+          "servidores": [
+            "https://iplayerhls.com/e/lsd3wryltng8",
+            "https://dooodster.com/e/dwh9e8ttgn43",
+            "https://luluvdo.com/e/kx3sr2z96mzj"
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Guardián de mi vida | Capítulo 17 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-17/",
+          "servidores": [
+            "https://iplayerhls.com/e/aiiaomr73q44",
+            "https://dooodster.com/e/ojlr71vxggqn",
+            "https://luluvdo.com/e/888yzl6teil6"
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Guardián de mi vida | Capítulo 18 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-18/",
+          "servidores": [
+            "https://iplayerhls.com/e/ismnbave0ay2",
+            "https://dooodster.com/e/n12629i3221u",
+            "https://luluvdo.com/e/5aevxn37k2h3"
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Guardián de mi vida | Capítulo 19 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-19/",
+          "servidores": [
+            "https://iplayerhls.com/e/x8if602xd4si",
+            "https://dooodster.com/e/1dww3046ilua",
+            "https://luluvdo.com/e/5qirfc2d1pcv"
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Guardián de mi vida | Capítulo 20 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-20/",
+          "servidores": [
+            "https://dooodster.com/e/kbqxc79cbgfa",
+            "https://luluvdo.com/e/2hcycpe1ln4d",
+            "https://iplayerhls.com/e/5bhs2jinachm"
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Guardián de mi vida | Capítulo 21 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-21/",
+          "servidores": [
+            "https://iplayerhls.com/e/s11uyh2yc3nt",
+            "https://dooodster.com/e/hwl2wncst0s2",
+            "https://luluvdo.com/e/bcaylob5z314"
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Guardián de mi vida | Capítulo 22 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-22/",
+          "servidores": [
+            "https://iplayerhls.com/e/vbbdml8jf0od",
+            "https://dooodster.com/e/0t35z12ith9x",
+            "https://luluvdo.com/e/2uu2vt75gd3w"
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Guardián de mi vida | Capítulo 23 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-23/",
+          "servidores": [
+            "https://iplayerhls.com/e/oyk2qc8jvlnm",
+            "https://dooodster.com/e/ohhr88zykauz",
+            "https://luluvdo.com/e/v2ex4sro296d"
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Guardián de mi vida | Capítulo 24 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-24/",
+          "servidores": [
+            "https://iplayerhls.com/e/4bwsialwjb21",
+            "https://dooodster.com/e/cpuxgl2tlo3t",
+            "https://luluvdo.com/e/wkgo0f0k5ics"
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Guardián de mi vida | Capítulo 25 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-25/",
+          "servidores": [
+            "https://iplayerhls.com/e/cklhqn63njus",
+            "https://dooodster.com/e/pn7yfv67gohq",
+            "https://luluvdo.com/e/vn38k5nieqcv"
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Guardián de mi vida | Capítulo 26 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-26/",
+          "servidores": [
+            "https://iplayerhls.com/e/wr84ldhg1iy0",
+            "https://dooodster.com/e/bgle6v2z4wd2",
+            "https://luluvdo.com/e/teo9a8rqpb88"
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Guardián de mi vida | Capítulo 27 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-27/",
+          "servidores": [
+            "https://iplayerhls.com/e/zcbamhydaw0c",
+            "https://dooodster.com/e/i2jleqh45iij",
+            "https://luluvdo.com/e/hxs5bno0wnhs"
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Guardián de mi vida | Capítulo 28 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-28/",
+          "servidores": [
+            "https://iplayerhls.com/e/mklzm3nvk979",
+            "https://dooodster.com/e/bexpyz4g76kg",
+            "https://luluvdo.com/e/1kgs1uzca50h"
+          ]
+        },
+        {
+          "numero": 29,
+          "titulo": "Guardián de mi vida | Capítulo 29 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-29/",
+          "servidores": [
+            "https://iplayerhls.com/e/3ajvd3qfpddt",
+            "https://dooodster.com/e/4mjlp82cm340",
+            "https://luluvdo.com/e/gp4uy5e8hlt4"
+          ]
+        },
+        {
+          "numero": 30,
+          "titulo": "Guardián de mi vida | Capítulo 30 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-30/",
+          "servidores": [
+            "https://iplayerhls.com/e/hv5nii7codis",
+            "https://dooodster.com/e/rsg01nuijo0j",
+            "https://luluvdo.com/e/c1u317ryomok"
+          ]
+        },
+        {
+          "numero": 31,
+          "titulo": "Guardián de mi vida | Capítulo 31 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-31/",
+          "servidores": [
+            "https://iplayerhls.com/e/gq0xqh3vut31",
+            "https://dooodster.com/e/7r8ymmhxax70",
+            "https://luluvdo.com/e/83ewkuqqcn5p"
+          ]
+        },
+        {
+          "numero": 32,
+          "titulo": "Guardián de mi vida | Capítulo 32 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-32/",
+          "servidores": [
+            "https://iplayerhls.com/e/297d1w0ndkjm",
+            "https://dooodster.com/e/86c5i2dhrnh6",
+            "https://luluvdo.com/e/ufyneqko8255"
+          ]
+        },
+        {
+          "numero": 33,
+          "titulo": "Guardián de mi vida | Capítulo 33 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-33/",
+          "servidores": [
+            "https://iplayerhls.com/e/cekbmje1f6f2",
+            "https://dooodster.com/e/v0rq7ca5qhgw",
+            "https://luluvdo.com/e/ohstkazvkrrd"
+          ]
+        },
+        {
+          "numero": 34,
+          "titulo": "Guardián de mi vida | Capítulo 34 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-34/",
+          "servidores": [
+            "https://iplayerhls.com/e/t3g8qngpphlm",
+            "https://dooodster.com/e/6zr1942a949i",
+            "https://luluvdo.com/e/pylg9uqcu2n7"
+          ]
+        },
+        {
+          "numero": 35,
+          "titulo": "Guardián de mi vida | Capítulo 35 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-35/",
+          "servidores": [
+            "https://iplayerhls.com/e/3mnnxsdzh1t2",
+            "https://dooodster.com/e/81shyejkopym",
+            "https://luluvdo.com/e/tc4fybjcgs2w"
+          ]
+        },
+        {
+          "numero": 36,
+          "titulo": "Guardián de mi vida | Capítulo 36 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-36/",
+          "servidores": [
+            "https://iplayerhls.com/e/ba1y3nvnxs8w",
+            "https://dooodster.com/e/n02fxeali15z",
+            "https://luluvdo.com/e/wcb3f94znmje"
+          ]
+        },
+        {
+          "numero": 37,
+          "titulo": "Guardián de mi vida | Capítulo 37 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-37/",
+          "servidores": [
+            "https://dooodster.com/e/3lxzk20wmn90",
+            "https://luluvdo.com/e/qtkgw6ysbcoc",
+            "https://iplayerhls.com/e/up0cmb8s7gbm"
+          ]
+        },
+        {
+          "numero": 38,
+          "titulo": "Guardián de mi vida | Capítulo 38 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-38/",
+          "servidores": [
+            "https://iplayerhls.com/e/9kz4p3fd8i5g",
+            "https://dooodster.com/e/zmvgrqpru4bn",
+            "https://luluvdo.com/e/xn81flwem4g6"
+          ]
+        },
+        {
+          "numero": 39,
+          "titulo": "Guardián de mi vida | Capítulo 39 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-39/",
+          "servidores": [
+            "https://iplayerhls.com/e/g8ce7hcym55r",
+            "https://dooodster.com/e/t9r4d7l0oijx",
+            "https://luluvdo.com/e/46p5mf5me1r2"
+          ]
+        },
+        {
+          "numero": 40,
+          "titulo": "Guardián de mi vida | Capítulo 40 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-40/",
+          "servidores": [
+            "https://iplayerhls.com/e/dzs3ydx1qy20",
+            "https://dooodster.com/e/o5hu3m6amjgj",
+            "https://luluvdo.com/e/f1mym5zsrng6"
+          ]
+        },
+        {
+          "numero": 41,
+          "titulo": "Guardián de mi vida | Capítulo 41 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-41/",
+          "servidores": [
+            "https://iplayerhls.com/e/3pg5px2x741w",
+            "https://dooodster.com/e/wvxl4yuljudg",
+            "https://luluvdo.com/e/0x51ppwfx5vr"
+          ]
+        },
+        {
+          "numero": 42,
+          "titulo": "Guardián de mi vida | Capítulo 42 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-42/",
+          "servidores": [
+            "https://iplayerhls.com/e/08krbmlt25ox",
+            "https://dooodster.com/e/aestmbkoedm2",
+            "https://luluvdo.com/e/zxrdlgurtwh2"
+          ]
+        },
+        {
+          "numero": 43,
+          "titulo": "Guardián de mi vida | Capítulo 43 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-43/",
+          "servidores": [
+            "https://iplayerhls.com/e/3ei60d1hbw5g",
+            "https://dooodster.com/e/fyx3l06r0pum",
+            "https://luluvdo.com/e/10qgpniid88m"
+          ]
+        },
+        {
+          "numero": 44,
+          "titulo": "Guardián de mi vida | Capítulo 44 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-44/",
+          "servidores": [
+            "https://iplayerhls.com/e/g2edb18d7t96",
+            "https://dooodster.com/e/hgiuq5sf2fzn",
+            "https://luluvdo.com/e/3bsajksemlot"
+          ]
+        },
+        {
+          "numero": 45,
+          "titulo": "Guardián de mi vida | Capítulo 45 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-45/",
+          "servidores": [
+            "https://iplayerhls.com/e/y20z61a1lxn0",
+            "https://dooodster.com/e/z4vxqvg2f3j5",
+            "https://luluvdo.com/e/7uz7cf9rdh9p"
+          ]
+        },
+        {
+          "numero": 46,
+          "titulo": "Guardián de mi vida | Capítulo 46 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-46/",
+          "servidores": [
+            "https://iplayerhls.com/e/naz533tf3hmq",
+            "https://dooodster.com/e/6umqcgkrb99q",
+            "https://luluvdo.com/e/a1lsmg44bpj2"
+          ]
+        },
+        {
+          "numero": 47,
+          "titulo": "Guardián de mi vida | Capítulo 47 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-47/",
+          "servidores": [
+            "https://iplayerhls.com/e/w1y66b0sxcp7",
+            "https://dooodster.com/e/1delgqbe4z5e",
+            "https://luluvdo.com/e/ej772fyovvcc"
+          ]
+        },
+        {
+          "numero": 48,
+          "titulo": "Guardián de mi vida | Capítulo 48 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-48/",
+          "servidores": [
+            "https://iplayerhls.com/e/jgeebesiioik",
+            "https://dooodster.com/e/x94fvihwn70i",
+            "https://luluvdo.com/e/kosna1klkbjz"
+          ]
+        },
+        {
+          "numero": 49,
+          "titulo": "Guardián de mi vida | Capítulo 49 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-49/",
+          "servidores": [
+            "https://iplayerhls.com/e/hwi9att5fitw",
+            "https://dooodster.com/e/xgsznkjkhwa6",
+            "https://luluvdo.com/e/2whaczkhw1pb"
+          ]
+        },
+        {
+          "numero": 50,
+          "titulo": "Guardián de mi vida | Capítulo 50 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-50/",
+          "servidores": [
+            "https://iplayerhls.com/e/kdp4udwu95jm",
+            "https://dooodster.com/e/ro96onljmri3",
+            "https://luluvdo.com/e/8088zxedwlzk"
+          ]
+        },
+        {
+          "numero": 51,
+          "titulo": "Guardián de mi vida | Capítulo 51 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-51/",
+          "servidores": [
+            "https://iplayerhls.com/e/h486zi3ch1am",
+            "https://dooodster.com/e/u4px4fd5ww1d",
+            "https://luluvdo.com/e/gcjgvrmq046x"
+          ]
+        },
+        {
+          "numero": 52,
+          "titulo": "Guardián de mi vida | Capítulo 52 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-52/",
+          "servidores": [
+            "https://iplayerhls.com/e/kdohero7yyqj",
+            "https://dooodster.com/e/x7muqvsrtw9s",
+            "https://luluvdo.com/e/yzplb5htudl4"
+          ]
+        },
+        {
+          "numero": 53,
+          "titulo": "Guardián de mi vida | Capítulo 53 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-53/",
+          "servidores": [
+            "https://iplayerhls.com/e/znkj47ccsgnf",
+            "https://dooodster.com/e/yisqw5vv7sxk",
+            "https://luluvdo.com/e/x7jcpv07agjf"
+          ]
+        },
+        {
+          "numero": 54,
+          "titulo": "Guardián de mi vida | Capítulo 54 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-54/",
+          "servidores": [
+            "https://iplayerhls.com/e/hrn9lsd5ymhi",
+            "https://luluvdo.com/e/81qie5ov88i8"
+          ]
+        },
+        {
+          "numero": 55,
+          "titulo": "Guardián de mi vida | Capítulo 55 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-55/",
+          "servidores": [
+            "https://iplayerhls.com/e/pvljdaxwtqs9",
+            "https://luluvdo.com/e/k8yt36sf3sgo"
+          ]
+        },
+        {
+          "numero": 56,
+          "titulo": "Guardián de mi vida | Capítulo 56 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-56/",
+          "servidores": [
+            "https://iplayerhls.com/e/wz32t0t473pz",
+            "https://dooodster.com/e/6izpv04zoejx",
+            "https://luluvdo.com/e/q3yxx7h57zab"
+          ]
+        },
+        {
+          "numero": 57,
+          "titulo": "Guardián de mi vida | Capítulo 57 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-57/",
+          "servidores": [
+            "https://iplayerhls.com/e/d7595b0rm7f5",
+            "https://dooodster.com/e/27zfx0y4acom",
+            "https://luluvdo.com/e/t22ry54ymhd2"
+          ]
+        },
+        {
+          "numero": 58,
+          "titulo": "Guardián de mi vida | Capítulo 58 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-58/",
+          "servidores": [
+            "https://iplayerhls.com/e/erbchd24padb",
+            "https://dooodster.com/e/4xylzcvevi9x",
+            "https://luluvdo.com/e/tqmy5yhlvthn"
+          ]
+        },
+        {
+          "numero": 59,
+          "titulo": "Guardián de mi vida | Capítulo 59 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-59/",
+          "servidores": [
+            "https://iplayerhls.com/e/jts1otey82ce",
+            "https://dooodster.com/e/yngus6goul2s",
+            "https://luluvdo.com/e/85oij2b2rr0o"
+          ]
+        },
+        {
+          "numero": 60,
+          "titulo": "Guardián de mi vida | Capítulo 60 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-60/",
+          "servidores": [
+            "https://iplayerhls.com/e/oiw82burwjql",
+            "https://luluvdo.com/e/z3tj55uk1gi1"
+          ]
+        },
+        {
+          "numero": 61,
+          "titulo": "Guardián de mi vida | Capítulo 61 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-61/",
+          "servidores": [
+            "https://iplayerhls.com/e/bpf4tt4krmzk",
+            "https://dooodster.com/e/4bmgq2hxghkm",
+            "https://luluvdo.com/e/gtj3drdlelej"
+          ]
+        },
+        {
+          "numero": 62,
+          "titulo": "Guardián de mi vida | Capítulo 62 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-62/",
+          "servidores": [
+            "https://iplayerhls.com/e/hyym7eje2l1s",
+            "https://dooodster.com/e/x83bx5mc1zmq",
+            "https://luluvdo.com/e/m5zzi2u6k70l"
+          ]
+        },
+        {
+          "numero": 63,
+          "titulo": "Guardián de mi vida | Capítulo 63 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-63/",
+          "servidores": [
+            "https://iplayerhls.com/e/zbf8eeszjt5u",
+            "https://dooodster.com/e/gb1ug9wm9yor",
+            "https://luluvdo.com/e/pkx6azl9urxn"
+          ]
+        },
+        {
+          "numero": 64,
+          "titulo": "Guardián de mi vida | Capítulo 64 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-64/",
+          "servidores": [
+            "https://iplayerhls.com/e/mgfh01fyxcqr",
+            "https://dooodster.com/e/hy6rdzniq57b",
+            "https://luluvdo.com/e/c0mvx55rpdgj"
+          ]
+        },
+        {
+          "numero": 65,
+          "titulo": "Guardián de mi vida | Capítulo 65 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-65/",
+          "servidores": [
+            "https://iplayerhls.com/e/br3bygy8pw6u",
+            "https://luluvdo.com/e/2usfiduzvkr7"
+          ]
+        },
+        {
+          "numero": 66,
+          "titulo": "Guardián de mi vida | Capítulo 66 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-66/",
+          "servidores": [
+            "https://luluvdo.com/e/u1tnj5ert5j1",
+            "https://iplayerhls.com/e/ge9hfkrt54fh"
+          ]
+        },
+        {
+          "numero": 67,
+          "titulo": "Guardián de mi vida | Capítulo 67 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-67/",
+          "servidores": [
+            "https://iplayerhls.com/e/6pv3cn14ufkf",
+            "https://luluvdo.com/e/v3iz6qxrlnrk"
+          ]
+        },
+        {
+          "numero": 68,
+          "titulo": "Guardián de mi vida | Capítulo 68 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-68/",
+          "servidores": [
+            "https://iplayerhls.com/e/jfty5puw53qu",
+            "https://dooodster.com/e/ccmvrt8chgym",
+            "https://luluvdo.com/e/cptt50o1hs68"
+          ]
+        },
+        {
+          "numero": 69,
+          "titulo": "Guardián de mi vida | Capítulo 69 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-69/",
+          "servidores": [
+            "https://iplayerhls.com/e/wfnh5d1chsfg",
+            "https://dooodster.com/e/n9gj8now8uv9",
+            "https://luluvdo.com/e/dgzhqpv8qecy"
+          ]
+        },
+        {
+          "numero": 70,
+          "titulo": "Guardián de mi vida | Capítulo 70 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-70/",
+          "servidores": [
+            "https://iplayerhls.com/e/qkd9vr89vylh",
+            "https://luluvdo.com/e/tcly3nmq7vkq"
+          ]
+        },
+        {
+          "numero": 71,
+          "titulo": "Guardián de mi vida | Capítulo 71 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-71/",
+          "servidores": [
+            "https://dooodster.com/e/3unl1xhnd43k",
+            "https://luluvdo.com/e/0ep1icznygkl"
+          ]
+        },
+        {
+          "numero": 72,
+          "titulo": "Guardián de mi vida | Capítulo 72 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-72/",
+          "servidores": [
+            "https://dooodster.com/e/5vdngkpn038k",
+            "https://luluvdo.com/e/iuirwlhgupt0"
+          ]
+        },
+        {
+          "numero": 73,
+          "titulo": "Guardián de mi vida | Capítulo 73 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-73/",
+          "servidores": [
+            "https://iplayerhls.com/e/38u0e0h82bll",
+            "https://dooodster.com/e/ee5q7q6kz71p",
+            "https://luluvdo.com/e/9pbstjnhgbdc"
+          ]
+        },
+        {
+          "numero": 74,
+          "titulo": "Guardián de mi vida | Capítulo 74 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-74/",
+          "servidores": [
+            "https://iplayerhls.com/e/6m9yx6xl8zga",
+            "https://dooodster.com/e/mv6f963gn5ak",
+            "https://luluvdo.com/e/q6uc69yz79zy"
+          ]
+        },
+        {
+          "numero": 75,
+          "titulo": "Guardián de mi vida | Capítulo 75 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-75/",
+          "servidores": [
+            "https://iplayerhls.com/e/986ve146xejf",
+            "https://dooodster.com/e/cub0xwwfx5n0",
+            "https://luluvdo.com/e/cuj9g7cq7wm3"
+          ]
+        },
+        {
+          "numero": 76,
+          "titulo": "Guardián de mi vida | Capítulo 76 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-76/",
+          "servidores": [
+            "https://iplayerhls.com/e/9ncv0vhsd9uv",
+            "https://dooodster.com/e/l1ofz9qrufou",
+            "https://luluvdo.com/e/tosvnda1ood2"
+          ]
+        },
+        {
+          "numero": 77,
+          "titulo": "Guardián de mi vida | Capítulo 77 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/guardian-de-mi-vida-capitulo-77/",
+          "servidores": [
+            "https://iplayerhls.com/e/72zxm7rrqbs4",
+            "https://dooodster.com/e/q6eayyjz9cdj",
+            "https://luluvdo.com/e/l05jf86l5oot"
+          ]
+        }
+      ]
+    }
+  },
+  "total_temporadas": 1,
+  "total_capitulos": 77
+}
