@@ -1,0 +1,36 @@
+{
+  "novela": "El Secreto",
+  "tmdb_id": 300388,
+  "poster": "https://image.tmdb.org/t/p/w500/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg",
+  "temporadas": {
+    "1": {
+      "titulo": "El Secreto",
+      "fecha_extraccion": "2026-09-11T22:37:26.451Z",
+      "total_capitulos": 2,
+      "url": "https://ww2.ojearnovelas.com/tunovela/el-secreto/",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "El Secreto | Capítulo 1 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-secreto-capitulo-1/",
+          "servidores": [
+            "https://iplayerhls.com/e/du673v08hfsj",
+            "https://luluvdo.com/e/pjtgzcmme63w"
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "El Secreto | Capítulo 2 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-secreto-capitulo-2/",
+          "servidores": [
+            "https://iplayerhls.com/e/hspor3904zg9",
+            "https://dooodster.com/e/za7g3gkaa4sm",
+            "https://luluvdo.com/e/ltpn2syp0ieo"
+          ]
+        }
+      ]
+    }
+  },
+  "total_temporadas": 1,
+  "total_capitulos": 2
+}
