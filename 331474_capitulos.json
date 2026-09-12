@@ -1,11 +1,11 @@
 {
   "novela": "La Baronesa",
+  "tmdb_id": 331474,
   "poster": "https://image.tmdb.org/t/p/w500/nQfSKph7B0Xj6jF75yIKNQln9XZ.jpg",
-  "temporadas": [
-    null,
-    {
+  "temporadas": {
+    "1": {
       "titulo": "La Baronesa",
-      "fecha_extraccion": "2026-09-12T15:16:35.587Z",
+      "fecha_extraccion": "2026-09-12T15:19:35.831Z",
       "total_capitulos": 16,
       "url": "https://ww2.ojearnovelas.com/tunovela/la-baronesa/",
       "capitulos": [
@@ -166,8 +166,7 @@
         }
       ]
     }
-  ],
-  "tmdb_id": 331474,
-  "total_capitulos": 16,
-  "total_temporadas": 1
+  },
+  "total_temporadas": 1,
+  "total_capitulos": 16
 }
