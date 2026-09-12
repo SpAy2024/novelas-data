@@ -1,12 +1,12 @@
 {
   "novela": "El Renacer De Luna",
-  "tmdb_id": 320089,
   "poster": "https://image.tmdb.org/t/p/w500/qIfgcveQ9Jmn6WsS7eZfawdtrWv.jpg",
-  "temporadas": {
-    "1": {
+  "temporadas": [
+    null,
+    {
       "titulo": "El Renacer De Luna",
-      "fecha_extraccion": "2026-09-11T22:23:27.332Z",
-      "total_capitulos": 59,
+      "fecha_extraccion": "2026-09-12T15:33:48.847Z",
+      "total_capitulos": 60,
       "url": "https://ww2.ojearnovelas.com/tunovela/el-renacer-de-luna/",
       "capitulos": [
         {
@@ -591,10 +591,20 @@
             "https://dooodster.com/e/875d5kkxl0hl",
             "https://luluvdo.com/e/ob2cu1gv3n9v"
           ]
+        },
+        {
+          "numero": 60,
+          "titulo": "El renacer de luna | Capítulo 60 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-renacer-de-luna-capitulo-60/",
+          "servidores": [
+            "https://iplayerhls.com/e/r77656msbc92",
+            "https://luluvdo.com/e/upl54v48ts0x"
+          ]
         }
       ]
     }
-  },
-  "total_temporadas": 1,
-  "total_capitulos": 59
+  ],
+  "tmdb_id": 320089,
+  "total_capitulos": 60,
+  "total_temporadas": 1
 }
