@@ -1,12 +1,12 @@
 {
   "novela": "La Baronesa",
-  "tmdb_id": 331474,
   "poster": "https://image.tmdb.org/t/p/w500/nQfSKph7B0Xj6jF75yIKNQln9XZ.jpg",
-  "temporadas": {
-    "1": {
+  "temporadas": [
+    null,
+    {
       "titulo": "La Baronesa",
-      "fecha_extraccion": "2026-09-11T22:29:16.135Z",
-      "total_capitulos": 15,
+      "fecha_extraccion": "2026-09-12T15:16:35.587Z",
+      "total_capitulos": 16,
       "url": "https://ww2.ojearnovelas.com/tunovela/la-baronesa/",
       "capitulos": [
         {
@@ -154,10 +154,20 @@
             "https://iplayerhls.com/e/9m1pdz3j1tbw",
             "https://luluvdo.com/e/b1k2gqpsmm5e"
           ]
+        },
+        {
+          "numero": 16,
+          "titulo": "La Baronesa | Capítulo 16 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-baronesa-capitulo-16/",
+          "servidores": [
+            "https://iplayerhls.com/e/iys9w7ukw75d",
+            "https://luluvdo.com/e/akscxz4eyl6b"
+          ]
         }
       ]
     }
-  },
-  "total_temporadas": 1,
-  "total_capitulos": 15
+  ],
+  "tmdb_id": 331474,
+  "total_capitulos": 16,
+  "total_temporadas": 1
 }
