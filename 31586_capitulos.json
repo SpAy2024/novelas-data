@@ -1,647 +1,1247 @@
 {
   "novela": "La Reina Del Sur",
-  "tmdb_id": 31586,
   "poster": "https://image.tmdb.org/t/p/w500/lADayXkcxSA5DXXDMBJLmvgAJH7.jpg",
-  "temporadas": {
-    "1": {
-      "titulo": "La Reina Del Sur",
-      "fecha_extraccion": "2026-09-13T20:09:54.462Z",
-      "total_capitulos": 63,
-      "url": "https://ww2.ojearnovelas.com/tunovela/la-reina-del-sur/",
+  "temporadas": [
+    null,
+    {
       "capitulos": [
         {
           "numero": 1,
-          "titulo": "La Reina del Sur | Capítulo 1 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-1/",
           "servidores": [
             "https://luluvdo.com/e/27guxhvoafkl",
             "https://iplayerhls.com/e/ufavknvw4wh2",
             "https://dooodster.com/e/eixsg9e2lg1m"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 1 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-1/"
         },
         {
           "numero": 2,
-          "titulo": "La Reina del Sur | Capítulo 2 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-2/",
           "servidores": [
             "https://luluvdo.com/e/warfcm72ck2u",
             "https://iplayerhls.com/e/5i8e4hgn5xcf",
             "https://dooodster.com/e/apomdc4qe9ac"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 2 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-2/"
         },
         {
           "numero": 3,
-          "titulo": "La Reina del Sur | Capítulo 3 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-3/",
           "servidores": [
             "https://luluvdo.com/e/y1yib8nja6ah",
             "https://iplayerhls.com/e/rtwk1rcpo3mu",
             "https://dooodster.com/e/ni7b8w3kjrwe"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 3 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-3/"
         },
         {
           "numero": 4,
-          "titulo": "La Reina del Sur | Capítulo 4 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-4/",
           "servidores": [
             "https://luluvdo.com/e/7lgnbketlyso",
             "https://iplayerhls.com/e/b12dwqfaw7ll",
             "https://dooodster.com/e/wjvsrpg8qenv"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 4 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-4/"
         },
         {
           "numero": 5,
-          "titulo": "La Reina del Sur | Capítulo 5 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-5/",
           "servidores": [
             "https://luluvdo.com/e/w82qdlmnvl2u",
             "https://iplayerhls.com/e/jogeqcm19c2d",
             "https://dooodster.com/e/bs6updh3zask"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 5 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-5/"
         },
         {
           "numero": 6,
-          "titulo": "La Reina del Sur | Capítulo 6 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-6/",
           "servidores": [
             "https://luluvdo.com/e/br72x8ossw0j",
             "https://iplayerhls.com/e/akbhkmi6bps3",
             "https://dooodster.com/e/ajt7byym012o"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 6 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-6/"
         },
         {
           "numero": 7,
-          "titulo": "La Reina del Sur | Capítulo 7 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-7/",
           "servidores": [
             "https://luluvdo.com/e/o6a5lmstxmmb",
             "https://iplayerhls.com/e/2gv2oao47r5g",
             "https://dooodster.com/e/hy7oz12lli8k"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 7 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-7/"
         },
         {
           "numero": 8,
-          "titulo": "La Reina del Sur | Capítulo 8 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-8/",
           "servidores": [
             "https://luluvdo.com/e/59ua3vofac27",
             "https://iplayerhls.com/e/9qgtqauscnz6",
             "https://dooodster.com/e/p2yu7f1906bo"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 8 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-8/"
         },
         {
           "numero": 9,
-          "titulo": "La Reina del Sur | Capítulo 9 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-9/",
           "servidores": [
             "https://luluvdo.com/e/4z0tsoxcwy16",
             "https://iplayerhls.com/e/b6cxh4d1mwz1",
             "https://dooodster.com/e/8ybkwof4crra"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 9 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-9/"
         },
         {
           "numero": 10,
-          "titulo": "La Reina del Sur | Capítulo 10 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-10/",
           "servidores": [
             "https://luluvdo.com/e/q5bhckzjtvz3",
             "https://iplayerhls.com/e/09hlofs0qfei",
             "https://dooodster.com/e/lkzesjz1pzwy"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 10 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-10/"
         },
         {
           "numero": 11,
-          "titulo": "La Reina del Sur | Capítulo 11 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-11/",
           "servidores": [
             "https://luluvdo.com/e/7o0t2i3gj4a8",
             "https://iplayerhls.com/e/dwm52ch50voc",
             "https://dooodster.com/e/u419nzhkzfev"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 11 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-11/"
         },
         {
           "numero": 12,
-          "titulo": "La Reina del Sur | Capítulo 12 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-12/",
           "servidores": [
             "https://luluvdo.com/e/y2sx4fp4z44f",
             "https://iplayerhls.com/e/inm4konelg7p",
             "https://dooodster.com/e/p1jxzlg2q1a0"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 12 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-12/"
         },
         {
           "numero": 13,
-          "titulo": "La Reina del Sur | Capítulo 13 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-13/",
           "servidores": [
             "https://luluvdo.com/e/jl0c9kbat3bv",
             "https://iplayerhls.com/e/3dqjwgbms9x2",
             "https://dooodster.com/e/9iwho1zeckhp"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 13 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-13/"
         },
         {
           "numero": 14,
-          "titulo": "La Reina del Sur | Capítulo 14 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-14/",
           "servidores": [
             "https://luluvdo.com/e/xn4jzz0qr43o",
             "https://iplayerhls.com/e/c9zh2brd6u7v",
             "https://dooodster.com/e/bmcnocikedun"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 14 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-14/"
         },
         {
           "numero": 15,
-          "titulo": "La Reina del Sur | Capítulo 15 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-15/",
           "servidores": [
             "https://luluvdo.com/e/3w9xit58lmz7",
             "https://iplayerhls.com/e/pb78vygcf6kh",
             "https://dooodster.com/e/hbm88av8nasy"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 15 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-15/"
         },
         {
           "numero": 16,
-          "titulo": "La Reina del Sur | Capítulo 16 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-16/",
           "servidores": [
             "https://luluvdo.com/e/2r1aidm06vgo",
             "https://iplayerhls.com/e/a5xknvyzfd05",
             "https://dooodster.com/e/2ta5m12im42m"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 16 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-16/"
         },
         {
           "numero": 17,
-          "titulo": "La Reina del Sur | Capítulo 17 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-17/",
           "servidores": [
             "https://luluvdo.com/e/dmm052zw4j9s",
             "https://iplayerhls.com/e/gc8zz1mkh3ii",
             "https://dooodster.com/e/t7g9w4p0shtp"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 17 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-17/"
         },
         {
           "numero": 18,
-          "titulo": "La Reina del Sur | Capítulo 18 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-18/",
           "servidores": [
             "https://luluvdo.com/e/n33m14hnet96",
             "https://iplayerhls.com/e/uxrtt5ao3nii",
             "https://dooodster.com/e/q6d0b2bcqtdr"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 18 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-18/"
         },
         {
           "numero": 19,
-          "titulo": "La Reina del Sur | Capítulo 19 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-19/",
           "servidores": [
             "https://luluvdo.com/e/waht60rbklmm",
             "https://iplayerhls.com/e/7x9jk4lafssz",
             "https://dooodster.com/e/nqilw5tdt5q4"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 19 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-19/"
         },
         {
           "numero": 20,
-          "titulo": "La Reina del Sur | Capítulo 20 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-20/",
           "servidores": [
             "https://luluvdo.com/e/xim0i72tneof",
             "https://iplayerhls.com/e/sw6v0juetf6g",
             "https://dooodster.com/e/ldmgw6vabh1c"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 20 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-20/"
         },
         {
           "numero": 21,
-          "titulo": "La Reina del Sur | Capítulo 21 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-21/",
           "servidores": [
             "https://luluvdo.com/e/s90g9hbsyivw",
             "https://iplayerhls.com/e/8xt9mj3itydg",
             "https://dooodster.com/e/7hzeexif1vnw"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 21 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-21/"
         },
         {
           "numero": 22,
-          "titulo": "La Reina del Sur | Capítulo 22 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-22/",
           "servidores": [
             "https://luluvdo.com/e/qar44thnlv53",
             "https://iplayerhls.com/e/juo812ld36sk",
             "https://dooodster.com/e/72fkpdoitn4s"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 22 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-22/"
         },
         {
           "numero": 23,
-          "titulo": "La Reina del Sur | Capítulo 23 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-23/",
           "servidores": [
             "https://luluvdo.com/e/6f75nol3rz78",
             "https://iplayerhls.com/e/z2z2lpkz6zfw",
             "https://dooodster.com/e/9lfdvx2zqeek"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 23 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-23/"
         },
         {
           "numero": 24,
-          "titulo": "La Reina del Sur | Capítulo 24 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-24/",
           "servidores": [
             "https://luluvdo.com/e/sxiq4t241y6o",
             "https://iplayerhls.com/e/44re44zokylr",
             "https://dooodster.com/e/2ohu73eejx33"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 24 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-24/"
         },
         {
           "numero": 25,
-          "titulo": "La Reina del Sur | Capítulo 25 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-25/",
           "servidores": [
             "https://dooodster.com/e/jiglv7cq2wac",
             "https://luluvdo.com/e/sn1a7csbslfe",
             "https://iplayerhls.com/e/zwh7scsfyj68"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 25 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-25/"
         },
         {
           "numero": 26,
-          "titulo": "La Reina del Sur | Capítulo 26 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-26/",
           "servidores": [
             "https://luluvdo.com/e/e1ge1a4tqxbq",
             "https://iplayerhls.com/e/5b0nvkr37rl3",
             "https://dooodster.com/e/dk11u7d2k9bo"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 26 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-26/"
         },
         {
           "numero": 27,
-          "titulo": "La Reina del Sur | Capítulo 27 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-27/",
           "servidores": [
             "https://luluvdo.com/e/zmie8t29pers",
             "https://iplayerhls.com/e/f925vsqpy41b",
             "https://dooodster.com/e/qhsvmtrzm2wz"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 27 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-27/"
         },
         {
           "numero": 28,
-          "titulo": "La Reina del Sur | Capítulo 28 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-28/",
           "servidores": [
             "https://luluvdo.com/e/jn2yckz7kfso",
             "https://iplayerhls.com/e/sl6ewmmv14rm",
             "https://dooodster.com/e/cjzquelt3uum"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 28 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-28/"
         },
         {
           "numero": 29,
-          "titulo": "La Reina del Sur | Capítulo 29 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-29/",
           "servidores": [
             "https://luluvdo.com/e/cpolnbilxyvw",
             "https://iplayerhls.com/e/99wsztoyp9ip",
             "https://dooodster.com/e/r5860xer4sww"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 29 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-29/"
         },
         {
           "numero": 30,
-          "titulo": "La Reina del Sur | Capítulo 30 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-30/",
           "servidores": [
             "https://luluvdo.com/e/233ifehb2csh",
             "https://iplayerhls.com/e/87d2cy4fwm8h",
             "https://dooodster.com/e/fjw3dpu2uhuy"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 30 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-30/"
         },
         {
           "numero": 31,
-          "titulo": "La Reina del Sur | Capítulo 31 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-31/",
           "servidores": [
             "https://luluvdo.com/e/0w649pczghx8",
             "https://iplayerhls.com/e/z1aaz1t1bcf0",
             "https://dooodster.com/e/9am9d939ny0m"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 31 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-31/"
         },
         {
           "numero": 32,
-          "titulo": "La Reina del Sur | Capítulo 32 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-32/",
           "servidores": [
             "https://luluvdo.com/e/smuq7aw4od2c",
             "https://iplayerhls.com/e/plcj5m0n0kjo",
             "https://dooodster.com/e/jgh4iadoy1wl"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 32 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-32/"
         },
         {
           "numero": 33,
-          "titulo": "La Reina del Sur | Capítulo 33 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-33/",
           "servidores": [
             "https://luluvdo.com/e/oie0m0vt56t1",
             "https://iplayerhls.com/e/f7xmmbveuwg5",
             "https://dooodster.com/e/cn8i7feobl8s"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 33 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-33/"
         },
         {
           "numero": 34,
-          "titulo": "La Reina del Sur | Capítulo 34 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-34/",
           "servidores": [
             "https://luluvdo.com/e/xit2790scsxx",
             "https://iplayerhls.com/e/q05xehe449d2",
             "https://dooodster.com/e/ja7kxw35dfv8"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 34 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-34/"
         },
         {
           "numero": 35,
-          "titulo": "La Reina del Sur | Capítulo 35 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-35/",
           "servidores": [
             "https://luluvdo.com/e/hfmtgdew117r",
             "https://iplayerhls.com/e/x7jzy7n03ls7",
             "https://dooodster.com/e/hq74u9w7jgzk"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 35 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-35/"
         },
         {
           "numero": 36,
-          "titulo": "La Reina del Sur | Capítulo 36 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-36/",
           "servidores": [
             "https://luluvdo.com/e/9mw3n7exthw2",
             "https://iplayerhls.com/e/ciut5zsun87c",
             "https://dooodster.com/e/62r2yj56g78d"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 36 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-36/"
         },
         {
           "numero": 37,
-          "titulo": "La Reina del Sur | Capítulo 37 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-37/",
           "servidores": [
             "https://luluvdo.com/e/fbe1e434gqb2",
             "https://iplayerhls.com/e/n1k9vnxnvv1p",
             "https://dooodster.com/e/wcn30jzc6upz"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 37 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-37/"
         },
         {
           "numero": 38,
-          "titulo": "La Reina del Sur | Capítulo 38 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-38/",
           "servidores": [
             "https://luluvdo.com/e/nengmwqlyw4c",
             "https://iplayerhls.com/e/n9z1llxvdtuw",
             "https://dooodster.com/e/4dhe55jg7w14"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 38 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-38/"
         },
         {
           "numero": 39,
-          "titulo": "La Reina del Sur | Capítulo 39 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-39/",
           "servidores": [
             "https://luluvdo.com/e/dujni5hu8vlg",
             "https://iplayerhls.com/e/e3gw632ou7nt",
             "https://dooodster.com/e/l2ot0tf5vyuw"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 39 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-39/"
         },
         {
           "numero": 40,
-          "titulo": "La Reina del Sur | Capítulo 40 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-40/",
           "servidores": [
             "https://luluvdo.com/e/tul7kfium47i",
             "https://iplayerhls.com/e/xtjmw1okpzra",
             "https://dooodster.com/e/12gd3i6l8pt8"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 40 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-40/"
         },
         {
           "numero": 41,
-          "titulo": "La Reina del Sur | Capítulo 41 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-41/",
           "servidores": [
             "https://luluvdo.com/e/uhratmfq9ldv",
             "https://iplayerhls.com/e/7a59v73pu74j",
             "https://dooodster.com/e/q3wmuqrktw96"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 41 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-41/"
         },
         {
           "numero": 42,
-          "titulo": "La Reina del Sur | Capítulo 42 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-42/",
           "servidores": [
             "https://dooodster.com/e/fsnc3bk4agpm",
             "https://iplayerhls.com/e/c6l3o8xp7j4a",
             "https://luluvdo.com/e/mifr8dal4t0y"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 42 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-42/"
         },
         {
           "numero": 43,
-          "titulo": "La Reina del Sur | Capítulo 43 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-43/",
           "servidores": [
             "https://dooodster.com/e/892u9wnks318",
             "https://iplayerhls.com/e/nof51llx2f33",
             "https://luluvdo.com/e/012544y8nnlf"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 43 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-43/"
         },
         {
           "numero": 44,
-          "titulo": "La Reina del Sur | Capítulo 44 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-44/",
           "servidores": [
             "https://dooodster.com/e/b038uvfmlgin",
             "https://iplayerhls.com/e/rpe91gofoi5p",
             "https://luluvdo.com/e/w1i02a6chdot"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 44 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-44/"
         },
         {
           "numero": 45,
-          "titulo": "La Reina del Sur | Capítulo 45 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-45/",
           "servidores": [
             "https://dooodster.com/e/56bocpedtw74",
             "https://iplayerhls.com/e/7crhhtr1bzs2",
             "https://luluvdo.com/e/kgwucuh21d3k"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 45 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-45/"
         },
         {
           "numero": 46,
-          "titulo": "La Reina del Sur | Capítulo 46 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-46/",
           "servidores": [
             "https://dooodster.com/e/v1s86e9lh6pp",
             "https://iplayerhls.com/e/tg4cz2pg40l9",
             "https://luluvdo.com/e/mn83w9jlyd2s"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 46 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-46/"
         },
         {
           "numero": 47,
-          "titulo": "La Reina del Sur | Capítulo 47 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-47/",
           "servidores": [
             "https://dooodster.com/e/kgd3aajrrmt4",
             "https://iplayerhls.com/e/nkpjcllvla6a",
             "https://luluvdo.com/e/57v9hn3sejzg"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 47 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-47/"
         },
         {
           "numero": 48,
-          "titulo": "La Reina del Sur | Capítulo 48 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-48/",
           "servidores": [
             "https://dooodster.com/e/ww44a1dnyjhi",
             "https://iplayerhls.com/e/mobqb9nb7kkx",
             "https://luluvdo.com/e/yejffn6uymb8"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 48 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-48/"
         },
         {
           "numero": 49,
-          "titulo": "La Reina del Sur | Capítulo 49 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-49/",
           "servidores": [
             "https://dooodster.com/e/wtiiitndk332",
             "https://iplayerhls.com/e/cjvggrquqfkj",
             "https://luluvdo.com/e/eyaypt5icilz"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 49 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-49/"
         },
         {
           "numero": 50,
-          "titulo": "La Reina del Sur | Capítulo 50 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-50/",
           "servidores": [
             "https://dooodster.com/e/j2a0nr4mdgfg",
             "https://iplayerhls.com/e/y8qwo0ten884",
             "https://luluvdo.com/e/rc47qzl0que1"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 50 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-50/"
         },
         {
           "numero": 51,
-          "titulo": "La Reina del Sur | Capítulo 51 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-51/",
           "servidores": [
             "https://dooodster.com/e/utvqs5au0upt",
             "https://iplayerhls.com/e/bmuobzzl7cf2",
             "https://luluvdo.com/e/6u8hymk5tkte"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 51 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-51/"
         },
         {
           "numero": 52,
-          "titulo": "La Reina del Sur | Capítulo 52 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-52/",
           "servidores": [
             "https://dooodster.com/e/3neh2p5sjz3o",
             "https://iplayerhls.com/e/t4zpwql4alku",
             "https://luluvdo.com/e/ylml17l4zckf"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 52 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-52/"
         },
         {
           "numero": 53,
-          "titulo": "La Reina del Sur | Capítulo 53 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-53/",
           "servidores": [
             "https://dooodster.com/e/jowt8xbq59ix",
             "https://iplayerhls.com/e/7eh0z40n6c68",
             "https://luluvdo.com/e/6nuyme9didr1"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 53 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-53/"
         },
         {
           "numero": 54,
-          "titulo": "La Reina del Sur | Capítulo 54 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-54/",
           "servidores": [
             "https://dooodster.com/e/241p5g6x6xpq",
             "https://iplayerhls.com/e/q4des4kwt40e",
             "https://luluvdo.com/e/hvoil9w4r502"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 54 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-54/"
         },
         {
           "numero": 55,
-          "titulo": "La Reina del Sur | Capítulo 55 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-55/",
           "servidores": [
             "https://dooodster.com/e/bj34pxngvlnd",
             "https://iplayerhls.com/e/azh21dynu6or",
             "https://luluvdo.com/e/6lnij5gu125h"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 55 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-55/"
         },
         {
           "numero": 56,
-          "titulo": "La Reina del Sur | Capítulo 56 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-56/",
           "servidores": [
             "https://dooodster.com/e/0vr3b9x1oix6",
             "https://iplayerhls.com/e/qmv8qmuywsxe",
             "https://luluvdo.com/e/48q69g71xpy3"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 56 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-56/"
         },
         {
           "numero": 57,
-          "titulo": "La Reina del Sur | Capítulo 57 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-57/",
           "servidores": [
             "https://dooodster.com/e/pffntriy5nso",
             "https://iplayerhls.com/e/9scz1pdi0ipj",
             "https://luluvdo.com/e/xff30q1aazxp"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 57 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-57/"
         },
         {
           "numero": 58,
-          "titulo": "La Reina del Sur | Capítulo 58 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-58/",
           "servidores": [
             "https://dooodster.com/e/o5tp1hkdods8",
             "https://iplayerhls.com/e/loao86k2lgy4",
             "https://luluvdo.com/e/jia1yr6apbry"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 58 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-58/"
         },
         {
           "numero": 59,
-          "titulo": "La Reina del Sur | Capítulo 59 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-59/",
           "servidores": [
             "https://dooodster.com/e/7mxqp2tbtmkp",
             "https://iplayerhls.com/e/m6zp5ryprvcb",
             "https://luluvdo.com/e/kw5mh4t74x6m"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 59 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-59/"
         },
         {
           "numero": 60,
-          "titulo": "La Reina del Sur | Capítulo 60 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-60/",
           "servidores": [
             "https://dooodster.com/e/5ggsu6rcpgk8",
             "https://iplayerhls.com/e/rrf4qw7gsu0e",
             "https://luluvdo.com/e/tatu5mxcdsft"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 60 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-60/"
         },
         {
           "numero": 61,
-          "titulo": "La Reina del Sur | Capítulo 61 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-61/",
           "servidores": [
             "https://dooodster.com/e/2xor3eapjy2e",
             "https://iplayerhls.com/e/omlv6ane9lvf",
             "https://luluvdo.com/e/zacn8wrxhqqy"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 61 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-61/"
         },
         {
           "numero": 62,
-          "titulo": "La Reina del Sur | Capítulo 62 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-62/",
           "servidores": [
             "https://dooodster.com/e/uih2bho15le8",
             "https://iplayerhls.com/e/ko6t6hr7yjer",
             "https://luluvdo.com/e/ja3ag0q3otdk"
-          ]
+          ],
+          "titulo": "La Reina del Sur | Capítulo 62 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-62/"
         },
         {
           "numero": 63,
-          "titulo": "La Reina del Sur | Capítulo 63 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-63/",
           "servidores": [
             "https://dooodster.com/e/pm4r34iwulvx",
             "https://iplayerhls.com/e/489inu4pzpb3",
             "https://luluvdo.com/e/45cu0a6655t1"
+          ],
+          "titulo": "La Reina del Sur | Capítulo 63 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-capitulo-63/"
+        }
+      ],
+      "fecha_extraccion": "2026-09-13T20:09:54.462Z",
+      "titulo": "La Reina Del Sur",
+      "total_capitulos": 63,
+      "url": "https://ww2.ojearnovelas.com/tunovela/la-reina-del-sur/"
+    },
+    {
+      "titulo": "La Reina Del Sur 2",
+      "fecha_extraccion": "2026-09-13T20:19:57.163Z",
+      "total_capitulos": 60,
+      "url": "https://ww2.ojearnovelas.com/tunovela/la-reina-del-sur-2/",
+      "capitulos": [
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 60 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-60/",
+          "servidores": [
+            "https://iplayerhls.com/e/ne17qbe6322p",
+            "https://luluvdo.com/e/xozw6lswp6qa",
+            "https://dooodster.com/e/yid5s13rbnwm"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 59 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-59/",
+          "servidores": [
+            "https://iplayerhls.com/e/k7zco57yos5p",
+            "https://luluvdo.com/e/mns71ffzx3ch",
+            "https://dooodster.com/e/q7yv3ywwwkdw"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 58 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-58/",
+          "servidores": [
+            "https://dooodster.com/e/686781fy9ej1",
+            "https://iplayerhls.com/e/no788542rqxq"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 57 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-57/",
+          "servidores": [
+            "https://dooodster.com/e/okdbk2050vi1",
+            "https://iplayerhls.com/e/fs2mfctj5ihg"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 56 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-56/",
+          "servidores": [
+            "https://iplayerhls.com/e/oskqosclk4nb",
+            "https://dooodster.com/e/wfthto3awue8"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 55 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-55/",
+          "servidores": [
+            "https://iplayerhls.com/e/72krt0y5wyg0",
+            "https://dooodster.com/e/958j1ypwmqx6"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 54 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-54/",
+          "servidores": [
+            "https://dooodster.com/e/havqo41v9p7a",
+            "https://iplayerhls.com/e/ilqpkesg10cn"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 53 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-53/",
+          "servidores": [
+            "https://dooodster.com/e/4lftpsu4kc9z",
+            "https://iplayerhls.com/e/xpad8cvuhljy"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 52 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-52/",
+          "servidores": [
+            "https://iplayerhls.com/e/xnt4qda42d3x",
+            "https://dooodster.com/e/ic3frnhjkwmk"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 51 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-51/",
+          "servidores": [
+            "https://iplayerhls.com/e/n3vxnnynfcdn",
+            "https://dooodster.com/e/4f4pdthqxb2i"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 50 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-50/",
+          "servidores": [
+            "https://dooodster.com/e/o80b83k1j0on",
+            "https://luluvdo.com/e/vwml7qbnjmdj",
+            "https://iplayerhls.com/e/464byhopyygz"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 49 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-49/",
+          "servidores": [
+            "https://dooodster.com/e/eo4flycjjk6r",
+            "https://iplayerhls.com/e/lcd50a3csxan"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 48 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-48/",
+          "servidores": [
+            "https://luluvdo.com/e/mb0wl1v15kuc",
+            "https://iplayerhls.com/e/lv5vvtudcwbe",
+            "https://dooodster.com/e/4nfprd8anp0q"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 47 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-47/",
+          "servidores": [
+            "https://luluvdo.com/e/mviwptn79ofy",
+            "https://dooodster.com/e/0udg3y50p5v9",
+            "https://iplayerhls.com/e/peglolqri03i"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 46 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-46/",
+          "servidores": [
+            "https://dooodster.com/e/vsfdesvfczeo",
+            "https://luluvdo.com/e/154oo60ovhpp",
+            "https://iplayerhls.com/e/e1ynzgwjmzcy"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 45 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-45/",
+          "servidores": [
+            "https://dooodster.com/e/kinduukmzy7b",
+            "https://luluvdo.com/e/z91j2jgds1j8",
+            "https://iplayerhls.com/e/xr0uulkexzo1"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 44 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-44/",
+          "servidores": [
+            "https://dooodster.com/e/lf662j3o32th",
+            "https://luluvdo.com/e/xnlqu4uq349h",
+            "https://iplayerhls.com/e/12u68xdii8x1"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 43 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-43/",
+          "servidores": [
+            "https://dooodster.com/e/41cxoqvqlj2n",
+            "https://luluvdo.com/e/bgf97evza68p",
+            "https://iplayerhls.com/e/9borz9o9i8sw"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 42 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-42/",
+          "servidores": [
+            "https://dooodster.com/e/21ittiv2ih9f",
+            "https://luluvdo.com/e/8khclpi6gshb",
+            "https://iplayerhls.com/e/d20cfabk7yf3"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 41 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-41/",
+          "servidores": [
+            "https://dooodster.com/e/4c9dihu6n3yz",
+            "https://luluvdo.com/e/2jnvrejalds6",
+            "https://iplayerhls.com/e/ssfyaquz60di"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 40 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-40/",
+          "servidores": [
+            "https://dooodster.com/e/uj9uh37ixvgf",
+            "https://luluvdo.com/e/8j57ua400oy1",
+            "https://iplayerhls.com/e/ek8w6nz7zl2w"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 39 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-39/",
+          "servidores": [
+            "https://dooodster.com/e/ul0yx6zwzrms",
+            "https://luluvdo.com/e/z7wbktcef39b",
+            "https://iplayerhls.com/e/wg2mndzgwb04"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 38 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-38/",
+          "servidores": [
+            "https://dooodster.com/e/zcfx4dp6yo91",
+            "https://luluvdo.com/e/d8jqhjxp1u9u",
+            "https://iplayerhls.com/e/u5f07scx9nye"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 37 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-37/",
+          "servidores": [
+            "https://dooodster.com/e/ijcb0wkatts7",
+            "https://luluvdo.com/e/3sa3d2vunds2",
+            "https://iplayerhls.com/e/fogsc2ykfa97"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 36 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-36/",
+          "servidores": [
+            "https://dooodster.com/e/i8rb1522izlb",
+            "https://luluvdo.com/e/catg72fn3a02",
+            "https://iplayerhls.com/e/25pzkxjyl6ug"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 35 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-35/",
+          "servidores": [
+            "https://dooodster.com/e/rotttk1pgp65",
+            "https://luluvdo.com/e/v3u3md9fvi0q",
+            "https://iplayerhls.com/e/jqqudxfps9a2"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 34 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-34/",
+          "servidores": [
+            "https://dooodster.com/e/367glhqsi72g",
+            "https://luluvdo.com/e/65hd11nxubt2",
+            "https://iplayerhls.com/e/bpoy3ed1quuy"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 33 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-33/",
+          "servidores": [
+            "https://dooodster.com/e/3jn8wsztk3dd",
+            "https://luluvdo.com/e/hjrzeb1fnanf",
+            "https://iplayerhls.com/e/kqpglcfcx6av"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 32 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-32/",
+          "servidores": [
+            "https://dooodster.com/e/n8filgzyb1nk",
+            "https://luluvdo.com/e/06b3k1wazhw1",
+            "https://iplayerhls.com/e/0ag7y43ge4as"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 31 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-31/",
+          "servidores": [
+            "https://dooodster.com/e/ms7q65q7w9bq",
+            "https://luluvdo.com/e/k2rok25y9ln2",
+            "https://iplayerhls.com/e/m4u6qyr8z56f"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 30 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-30/",
+          "servidores": [
+            "https://dooodster.com/e/senlndv0ctd1",
+            "https://luluvdo.com/e/49g3bwsssca1",
+            "https://iplayerhls.com/e/nb6kah27npos"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 29 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-29/",
+          "servidores": [
+            "https://luluvdo.com/e/p8ravelk4oi0",
+            "https://iplayerhls.com/e/2ggnd1xqn7a7",
+            "https://dooodster.com/e/6h97s9ljysbr"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 28 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-28/",
+          "servidores": [
+            "https://luluvdo.com/e/u5ryig8gr192",
+            "https://iplayerhls.com/e/j5b8vzlotriw",
+            "https://dooodster.com/e/p7uddjok7ojr"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 27 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-27/",
+          "servidores": [
+            "https://iplayerhls.com/e/2p7378ojaezc",
+            "https://luluvdo.com/e/w8tmhc3w591s",
+            "https://dooodster.com/e/w1ilozf15zoa"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 26 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-26/",
+          "servidores": [
+            "https://luluvdo.com/e/r4ejfe172nlu",
+            "https://iplayerhls.com/e/77689ckjc2bu",
+            "https://dooodster.com/e/k9526h1576b1"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 25 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-25/",
+          "servidores": [
+            "https://dooodster.com/e/hlcecnwjuwkz",
+            "https://luluvdo.com/e/cl1ydaxyxqs6",
+            "https://iplayerhls.com/e/454673h23rz8"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 24 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-24/",
+          "servidores": [
+            "https://dooodster.com/e/bq7fy127jy7x",
+            "https://luluvdo.com/e/8px1bf21lr79",
+            "https://iplayerhls.com/e/26lrrr9y5gek"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 23 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-23/",
+          "servidores": [
+            "https://dooodster.com/e/2h8kbhe5923w",
+            "https://luluvdo.com/e/se3q1t01c50y",
+            "https://iplayerhls.com/e/hhf12prcfcxd"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 22 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-22/",
+          "servidores": [
+            "https://dooodster.com/e/5rhm6ditn43n",
+            "https://luluvdo.com/e/byrunuh4xb3q",
+            "https://iplayerhls.com/e/r6zh3self3rd"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 21 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-21/",
+          "servidores": [
+            "https://dooodster.com/e/y0amrn83v4j7",
+            "https://luluvdo.com/e/bab3mbcn5kjw",
+            "https://iplayerhls.com/e/iq4dvlv6e7kf"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 20 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-20/",
+          "servidores": [
+            "https://dooodster.com/e/xdgbmla7zg1h",
+            "https://luluvdo.com/e/23dg86usv9h8",
+            "https://iplayerhls.com/e/kydffymzde01"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 19 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-19/",
+          "servidores": [
+            "https://dooodster.com/e/kcsogldthy6y",
+            "https://luluvdo.com/e/zf28csd3fba2",
+            "https://iplayerhls.com/e/3b9ftfd7ah65"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 18 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-18/",
+          "servidores": [
+            "https://dooodster.com/e/6i5x4b2rvlo4",
+            "https://luluvdo.com/e/5trbjgyb555p",
+            "https://iplayerhls.com/e/2k97u8xxqrh3"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 17 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-17/",
+          "servidores": [
+            "https://luluvdo.com/e/uaypjjne8ygp",
+            "https://iplayerhls.com/e/7z9fkwv2d90v",
+            "https://dooodster.com/e/0gkvkr22usyq"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 16 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-16/",
+          "servidores": [
+            "https://dooodster.com/e/jd8248fjd8ns",
+            "https://luluvdo.com/e/jn3aym97vq0y",
+            "https://iplayerhls.com/e/suhhsy6bfc5s"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 15 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-15/",
+          "servidores": [
+            "https://dooodster.com/e/u7127icrxuqr",
+            "https://luluvdo.com/e/7yphykjd9msz",
+            "https://iplayerhls.com/e/bc307jyfhy28"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 14 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-14/",
+          "servidores": [
+            "https://luluvdo.com/e/dfzo1md5ijhm",
+            "https://iplayerhls.com/e/9l49wfcaebuo",
+            "https://dooodster.com/e/kwuzktkes47j"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 13 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-13/",
+          "servidores": [
+            "https://luluvdo.com/e/majq3he8ul3w",
+            "https://dooodster.com/e/vh1hy7cr0ggq",
+            "https://iplayerhls.com/e/232mu1w5kxx1"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 12 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-12/",
+          "servidores": [
+            "https://luluvdo.com/e/h5o53bmlxmyk",
+            "https://iplayerhls.com/e/9v7eibgcyc8g",
+            "https://dooodster.com/e/apwzt9efo9dn"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 11 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-11/",
+          "servidores": [
+            "https://dooodster.com/e/8ho7l2e6t4tx",
+            "https://luluvdo.com/e/257krl4r7e0p",
+            "https://iplayerhls.com/e/rrujrzqubi0h"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 10 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-10/",
+          "servidores": [
+            "https://dooodster.com/e/d62iwzvogt5f",
+            "https://luluvdo.com/e/xui31wxtj1vj",
+            "https://iplayerhls.com/e/k7t7awrwf0j9"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 9 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-9/",
+          "servidores": [
+            "https://dooodster.com/e/v5bhplbnbe1e",
+            "https://luluvdo.com/e/kngvocyuoh7a",
+            "https://iplayerhls.com/e/6f34yczeob82"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 8 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-8/",
+          "servidores": [
+            "https://luluvdo.com/e/tuiwdbiv6hl5",
+            "https://iplayerhls.com/e/vv37x51cl3qq",
+            "https://dooodster.com/e/7jxlowz30njr"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 7 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-7/",
+          "servidores": [
+            "https://luluvdo.com/e/lrt1n9pyopx9",
+            "https://iplayerhls.com/e/qex7u58h2wlj",
+            "https://dooodster.com/e/549dslmcaqqx"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 6 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-6/",
+          "servidores": [
+            "https://luluvdo.com/e/z9je466n985p",
+            "https://dooodster.com/e/izv0xs19fwpd",
+            "https://iplayerhls.com/e/d5i94hz7pir5"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 5 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-5/",
+          "servidores": [
+            "https://dooodster.com/e/omkgls38h10q",
+            "https://luluvdo.com/e/s500dgjnbt7z",
+            "https://iplayerhls.com/e/t942j468gsi7"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 4 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-4/",
+          "servidores": [
+            "https://dooodster.com/e/gko49bra0op4",
+            "https://luluvdo.com/e/wyus3a6k640m",
+            "https://iplayerhls.com/e/19gqqqab8djm"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 3 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-3/",
+          "servidores": [
+            "https://dooodster.com/e/uvls6qrnddgc",
+            "https://luluvdo.com/e/zmtyv4tnvxeq",
+            "https://iplayerhls.com/e/pjmkovocnhkp"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 2 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-2/",
+          "servidores": [
+            "https://dooodster.com/e/83wrkpid0v4m",
+            "https://luluvdo.com/e/z27hrpca6lyz",
+            "https://iplayerhls.com/e/bqyr1cq1c3qc"
+          ]
+        },
+        {
+          "numero": 0,
+          "titulo": "La Reina del Sur 2 | Capítulo 1 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-reina-del-sur-2-capitulo-1/",
+          "servidores": [
+            "https://luluvdo.com/e/su2ktg8aet3d",
+            "https://iplayerhls.com/e/k1veo1w6rxrf",
+            "https://dooodster.com/e/lmvrfkfj5l58"
           ]
         }
       ]
     }
-  },
-  "total_temporadas": 1,
-  "total_capitulos": 63
+  ],
+  "tmdb_id": 31586,
+  "total_capitulos": 123,
+  "total_temporadas": 2
 }
