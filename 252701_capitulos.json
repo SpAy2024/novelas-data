@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-15T16:12:19.558Z",
+  "fecha_actualizacion": "2026-09-15T16:13:19.717Z",
   "fecha_creacion": "2026-09-15T15:51:56.880Z",
   "novela": "El extraño retorno de Diana Salazar",
   "poster": "https://image.tmdb.org/t/p/original/5GGBkTWM3TlyubGyTeptu1F0pVu.jpg",
@@ -25,19 +25,27 @@
         },
         {
           "numero": 3,
-          "titulo": "La llamada",
-          "url": "https://videoapp.zip/e/novel/252701/1/3",
           "servidores": [
             "https://videoapp.zip/e/novel/252701/1/3"
+          ],
+          "titulo": "La llamada",
+          "url": "https://videoapp.zip/e/novel/252701/1/3"
+        },
+        {
+          "numero": 4,
+          "titulo": "Camino sin retorno",
+          "url": "https://videoapp.zip/e/novel/252701/1/4",
+          "servidores": [
+            "https://videoapp.zip/e/novel/252701/1/4"
           ]
         }
       ],
       "fecha_extraccion": "2026-09-15T15:55:35.902Z",
       "titulo": "Temporada 1",
-      "total_capitulos": 3
+      "total_capitulos": 4
     }
   ],
   "tmdb_id": 252701,
-  "total_capitulos": 3,
+  "total_capitulos": 4,
   "total_temporadas": 1
 }
