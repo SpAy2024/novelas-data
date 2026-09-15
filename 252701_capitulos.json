@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-15T17:27:05.435Z",
+  "fecha_actualizacion": "2026-09-15T17:27:42.306Z",
   "fecha_creacion": "2026-09-15T15:51:56.880Z",
   "novela": "El extraño retorno de Diana Salazar",
   "poster": "https://image.tmdb.org/t/p/original/5GGBkTWM3TlyubGyTeptu1F0pVu.jpg",
@@ -96,19 +96,27 @@
         },
         {
           "numero": 3,
-          "titulo": "Despertares",
-          "url": "https://videoapp.zip/e/novel/252701/2/3",
           "servidores": [
             "https://videoapp.zip/e/novel/252701/2/3"
+          ],
+          "titulo": "Despertares",
+          "url": "https://videoapp.zip/e/novel/252701/2/3"
+        },
+        {
+          "numero": 4,
+          "titulo": "Señales",
+          "url": "https://videoapp.zip/e/novel/252701/2/4",
+          "servidores": [
+            "https://videoapp.zip/e/novel/252701/2/4"
           ]
         }
       ],
       "fecha_extraccion": "2026-09-15T17:15:30.061Z",
       "titulo": "Temporada 2",
-      "total_capitulos": 3
+      "total_capitulos": 4
     }
   ],
   "tmdb_id": 252701,
-  "total_capitulos": 11,
+  "total_capitulos": 12,
   "total_temporadas": 2
 }
