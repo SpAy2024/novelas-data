@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-15T17:39:02.268Z",
+  "fecha_actualizacion": "2026-09-15T17:39:16.673Z",
   "fecha_creacion": "2026-09-15T15:51:56.880Z",
   "novela": "El extraño retorno de Diana Salazar",
   "poster": "https://image.tmdb.org/t/p/original/5GGBkTWM3TlyubGyTeptu1F0pVu.jpg",
@@ -199,19 +199,27 @@
         },
         {
           "numero": 7,
-          "titulo": "Jugando con fuego",
-          "url": "https://videoapp.zip/e/novel/252701/3/7",
           "servidores": [
             "https://videoapp.zip/e/novel/252701/3/7"
+          ],
+          "titulo": "Jugando con fuego",
+          "url": "https://videoapp.zip/e/novel/252701/3/7"
+        },
+        {
+          "numero": 8,
+          "titulo": "Almas en pena",
+          "url": "https://videoapp.zip/e/novel/252701/3/8",
+          "servidores": [
+            "https://videoapp.zip/e/novel/252701/3/8"
           ]
         }
       ],
       "fecha_extraccion": "2026-09-15T17:35:27.785Z",
       "titulo": "Temporada 3",
-      "total_capitulos": 7
+      "total_capitulos": 8
     }
   ],
   "tmdb_id": 252701,
-  "total_capitulos": 23,
+  "total_capitulos": 24,
   "total_temporadas": 3
 }
