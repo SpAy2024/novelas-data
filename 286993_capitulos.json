@@ -6,7 +6,7 @@
   "temporadas": {
     "1": {
       "titulo": "Temporada 1",
-      "fecha_extraccion": "2026-09-15T19:59:33.573Z",
+      "fecha_extraccion": "2026-09-15T20:02:06.496Z",
       "total_capitulos": 8,
       "capitulos": [
         {
@@ -61,7 +61,7 @@
     },
     "2": {
       "titulo": "Temporada 2",
-      "fecha_extraccion": "2026-09-15T19:59:33.901Z",
+      "fecha_extraccion": "2026-09-15T20:02:06.728Z",
       "total_capitulos": 8,
       "capitulos": [
         {
@@ -116,7 +116,7 @@
     },
     "3": {
       "titulo": "Temporada 3",
-      "fecha_extraccion": "2026-09-15T19:59:34.184Z",
+      "fecha_extraccion": "2026-09-15T20:02:06.946Z",
       "total_capitulos": 8,
       "capitulos": [
         {
@@ -172,6 +172,6 @@
   },
   "total_temporadas": 3,
   "total_capitulos": 24,
-  "fecha_creacion": "2026-09-15T19:59:34.385Z",
-  "fecha_actualizacion": "2026-09-15T19:59:34.385Z"
+  "fecha_creacion": "2026-09-15T20:02:07.147Z",
+  "fecha_actualizacion": "2026-09-15T20:02:07.147Z"
 }
