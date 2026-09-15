@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-15T21:33:59.230Z",
+  "fecha_actualizacion": "2026-09-15T21:34:10.121Z",
   "fecha_creacion": "2026-09-15T20:43:18.167Z",
   "novela": "Con esa misma mirada",
   "poster": "https://image.tmdb.org/t/p/w500/mfANgQu57nijUALIfAgW8Lqozii.jpg",
@@ -184,16 +184,19 @@
         },
         {
           "numero": 5,
-          "titulo": "Episodio 5",
-          "url": "https://videoapp.zip/e/novel/286993/3/5",
           "servidores": [
             "https://videoapp.zip/e/novel/286993/3/5"
-          ]
+          ],
+          "titulo": "Episodio 5",
+          "url": "https://videoapp.zip/e/novel/286993/3/5"
         },
         {
           "numero": 6,
           "titulo": "Episodio 6",
-          "url": ""
+          "url": "https://videoapp.zip/e/novel/286993/3/6",
+          "servidores": [
+            "https://videoapp.zip/e/novel/286993/3/6"
+          ]
         },
         {
           "numero": 7,
