@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-15T17:33:16.796Z",
+  "fecha_actualizacion": "2026-09-15T17:34:34.594Z",
   "fecha_creacion": "2026-09-15T15:51:56.880Z",
   "novela": "El extraño retorno de Diana Salazar",
   "poster": "https://image.tmdb.org/t/p/original/5GGBkTWM3TlyubGyTeptu1F0pVu.jpg",
@@ -120,19 +120,27 @@
         },
         {
           "numero": 6,
-          "titulo": "Punto de convergencia",
-          "url": "https://videoapp.zip/e/novel/252701/2/6",
           "servidores": [
             "https://videoapp.zip/e/novel/252701/2/6"
+          ],
+          "titulo": "Punto de convergencia",
+          "url": "https://videoapp.zip/e/novel/252701/2/6"
+        },
+        {
+          "numero": 7,
+          "titulo": "Un talento peligroso",
+          "url": "https://videoapp.zip/e/novel/252701/2/7",
+          "servidores": [
+            "https://videoapp.zip/e/novel/252701/2/7"
           ]
         }
       ],
       "fecha_extraccion": "2026-09-15T17:15:30.061Z",
       "titulo": "Temporada 2",
-      "total_capitulos": 6
+      "total_capitulos": 7
     }
   ],
   "tmdb_id": 252701,
-  "total_capitulos": 14,
+  "total_capitulos": 15,
   "total_temporadas": 2
 }
