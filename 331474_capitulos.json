@@ -5,8 +5,8 @@
     null,
     {
       "titulo": "La Baronesa",
-      "fecha_extraccion": "2026-09-14T17:49:06.123Z",
-      "total_capitulos": 19,
+      "fecha_extraccion": "2026-09-15T13:43:08.672Z",
+      "total_capitulos": 20,
       "url": "https://ww2.ojearnovelas.com/tunovela/la-baronesa/",
       "capitulos": [
         {
@@ -193,11 +193,21 @@
             "https://dooodster.com/e/6whiq2zyop5z",
             "https://luluvdo.com/e/mm816jrdlnmp"
           ]
+        },
+        {
+          "numero": 20,
+          "titulo": "La Baronesa | Capítulo 20 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/la-baronesa-capitulo-20/",
+          "servidores": [
+            "https://iplayerhls.com/e/oo74dw2qhgqp",
+            "https://dooodster.com/e/c28x0vsgg9ub",
+            "https://luluvdo.com/e/hds60bfq58fb"
+          ]
         }
       ]
     }
   ],
   "tmdb_id": 331474,
-  "total_capitulos": 19,
+  "total_capitulos": 20,
   "total_temporadas": 1
 }
