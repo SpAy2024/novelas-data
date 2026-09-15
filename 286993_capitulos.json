@@ -1,180 +1,155 @@
 {
+  "fecha_actualizacion": "2026-09-15T20:44:42.647Z",
+  "fecha_creacion": "2026-09-15T20:43:18.167Z",
   "novela": "Con esa misma mirada",
-  "tmdb_id": 286993,
   "poster": "https://image.tmdb.org/t/p/w500/mfANgQu57nijUALIfAgW8Lqozii.jpg",
-  "url": null,
   "temporadas": {
     "temp_1": {
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Episodio 1",
+          "url": ""
+        },
+        {
+          "numero": 2,
+          "titulo": "Episodio 2",
+          "url": ""
+        },
+        {
+          "numero": 3,
+          "titulo": "Episodio 3",
+          "url": ""
+        },
+        {
+          "numero": 4,
+          "titulo": "Episodio 4",
+          "url": ""
+        },
+        {
+          "numero": 5,
+          "titulo": "Episodio 5",
+          "url": ""
+        },
+        {
+          "numero": 6,
+          "titulo": "Episodio 6",
+          "url": ""
+        },
+        {
+          "numero": 7,
+          "titulo": "Episodio 7",
+          "url": ""
+        },
+        {
+          "numero": 8,
+          "titulo": "Episodio 8",
+          "url": ""
+        }
+      ],
+      "fecha_extraccion": "2026-09-15T20:43:17.545Z",
       "numero": 1,
       "titulo": "Temporada 1",
-      "fecha_extraccion": "2026-09-15T20:43:17.545Z",
-      "total_capitulos": 8,
-      "capitulos": [
-        {
-          "numero": 1,
-          "titulo": "Episodio 1",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 2,
-          "titulo": "Episodio 2",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 3,
-          "titulo": "Episodio 3",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 4,
-          "titulo": "Episodio 4",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 5,
-          "titulo": "Episodio 5",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 6,
-          "titulo": "Episodio 6",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 7,
-          "titulo": "Episodio 7",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 8,
-          "titulo": "Episodio 8",
-          "url": "",
-          "servidores": []
-        }
-      ]
+      "total_capitulos": 8
     },
     "temp_2": {
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Episodio 1",
+          "url": ""
+        },
+        {
+          "numero": 2,
+          "titulo": "Episodio 2",
+          "url": ""
+        },
+        {
+          "numero": 3,
+          "titulo": "Episodio 3",
+          "url": ""
+        },
+        {
+          "numero": 4,
+          "titulo": "Episodio 4",
+          "url": ""
+        },
+        {
+          "numero": 5,
+          "titulo": "Episodio 5",
+          "url": ""
+        },
+        {
+          "numero": 6,
+          "titulo": "Episodio 6",
+          "url": ""
+        },
+        {
+          "numero": 7,
+          "titulo": "Episodio 7",
+          "url": ""
+        },
+        {
+          "numero": 8,
+          "titulo": "Episodio 8",
+          "url": ""
+        }
+      ],
+      "fecha_extraccion": "2026-09-15T20:43:17.756Z",
       "numero": 2,
       "titulo": "Temporada 2",
-      "fecha_extraccion": "2026-09-15T20:43:17.756Z",
-      "total_capitulos": 8,
-      "capitulos": [
-        {
-          "numero": 1,
-          "titulo": "Episodio 1",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 2,
-          "titulo": "Episodio 2",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 3,
-          "titulo": "Episodio 3",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 4,
-          "titulo": "Episodio 4",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 5,
-          "titulo": "Episodio 5",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 6,
-          "titulo": "Episodio 6",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 7,
-          "titulo": "Episodio 7",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 8,
-          "titulo": "Episodio 8",
-          "url": "",
-          "servidores": []
-        }
-      ]
+      "total_capitulos": 8
     },
     "temp_3": {
-      "numero": 3,
-      "titulo": "Temporada 3",
-      "fecha_extraccion": "2026-09-15T20:43:17.966Z",
-      "total_capitulos": 8,
       "capitulos": [
         {
           "numero": 1,
           "titulo": "Episodio 1",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 2,
           "titulo": "Episodio 2",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 3,
           "titulo": "Episodio 3",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 4,
           "titulo": "Episodio 4",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 5,
           "titulo": "Episodio 5",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 6,
           "titulo": "Episodio 6",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 7,
           "titulo": "Episodio 7",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 8,
           "titulo": "Episodio 8",
-          "url": "",
-          "servidores": []
+          "url": ""
         }
-      ]
+      ],
+      "fecha_extraccion": "2026-09-15T20:43:17.966Z",
+      "numero": 3,
+      "titulo": "Temporada 3",
+      "total_capitulos": 8
     }
   },
-  "total_temporadas": 3,
+  "tmdb_id": 286993,
   "total_capitulos": 24,
-  "fecha_creacion": "2026-09-15T20:43:18.167Z",
-  "fecha_actualizacion": "2026-09-15T20:43:18.167Z"
+  "total_temporadas": 3
 }
