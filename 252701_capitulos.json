@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-15T17:37:05.505Z",
+  "fecha_actualizacion": "2026-09-15T17:37:20.421Z",
   "fecha_creacion": "2026-09-15T15:51:56.880Z",
   "novela": "El extraño retorno de Diana Salazar",
   "poster": "https://image.tmdb.org/t/p/original/5GGBkTWM3TlyubGyTeptu1F0pVu.jpg",
@@ -159,19 +159,27 @@
         },
         {
           "numero": 2,
-          "titulo": "Reconciliaciones",
-          "url": "https://videoapp.zip/e/novel/252701/3/2",
           "servidores": [
             "https://videoapp.zip/e/novel/252701/3/2"
+          ],
+          "titulo": "Reconciliaciones",
+          "url": "https://videoapp.zip/e/novel/252701/3/2"
+        },
+        {
+          "numero": 3,
+          "titulo": "Sospecha",
+          "url": "https://videoapp.zip/e/novel/252701/3/3",
+          "servidores": [
+            "https://videoapp.zip/e/novel/252701/3/3"
           ]
         }
       ],
       "fecha_extraccion": "2026-09-15T17:35:27.785Z",
       "titulo": "Temporada 3",
-      "total_capitulos": 2
+      "total_capitulos": 3
     }
   ],
   "tmdb_id": 252701,
-  "total_capitulos": 18,
+  "total_capitulos": 19,
   "total_temporadas": 3
 }
