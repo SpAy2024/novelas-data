@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-15T16:08:44.181Z",
+  "fecha_actualizacion": "2026-09-15T16:12:19.558Z",
   "fecha_creacion": "2026-09-15T15:51:56.880Z",
   "novela": "El extraño retorno de Diana Salazar",
   "poster": "https://image.tmdb.org/t/p/original/5GGBkTWM3TlyubGyTeptu1F0pVu.jpg",
@@ -17,19 +17,27 @@
         },
         {
           "numero": 2,
-          "titulo": "Confesiones",
-          "url": "https://videoapp.zip/e/novel/252701/1/2",
           "servidores": [
             "https://videoapp.zip/e/novel/252701/1/2"
+          ],
+          "titulo": "Confesiones",
+          "url": "https://videoapp.zip/e/novel/252701/1/2"
+        },
+        {
+          "numero": 3,
+          "titulo": "La llamada",
+          "url": "https://videoapp.zip/e/novel/252701/1/3",
+          "servidores": [
+            "https://videoapp.zip/e/novel/252701/1/3"
           ]
         }
       ],
       "fecha_extraccion": "2026-09-15T15:55:35.902Z",
       "titulo": "Temporada 1",
-      "total_capitulos": 2
+      "total_capitulos": 3
     }
   ],
   "tmdb_id": 252701,
-  "total_capitulos": 2,
+  "total_capitulos": 3,
   "total_temporadas": 1
 }
