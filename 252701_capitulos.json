@@ -1,9 +1,26 @@
 {
-  "novela": "El extraño retorno de Diana Salazar",
-  "tmdb_id": 252701,
-  "poster": "https://image.tmdb.org/t/p/original/5GGBkTWM3TlyubGyTeptu1F0pVu.jpg",
-  "url": null,
-  "temporadas": {},
+  "fecha_actualizacion": "2026-09-15T15:55:35.902Z",
   "fecha_creacion": "2026-09-15T15:51:56.880Z",
-  "fecha_actualizacion": "2026-09-15T15:51:56.880Z"
+  "novela": "El extraño retorno de Diana Salazar",
+  "poster": "https://image.tmdb.org/t/p/original/5GGBkTWM3TlyubGyTeptu1F0pVu.jpg",
+  "tmdb_id": 252701,
+  "temporadas": {
+    "1": {
+      "titulo": "Temporada 1",
+      "fecha_extraccion": "2026-09-15T15:55:35.902Z",
+      "total_capitulos": 1,
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Encuentros",
+          "url": "",
+          "servidores": [
+            "https://videoapp.zip/e/novel/252701/1/1"
+          ]
+        }
+      ]
+    }
+  },
+  "total_temporadas": 1,
+  "total_capitulos": 1
 }
