@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-15T17:38:42.618Z",
+  "fecha_actualizacion": "2026-09-15T17:39:02.268Z",
   "fecha_creacion": "2026-09-15T15:51:56.880Z",
   "novela": "El extraño retorno de Diana Salazar",
   "poster": "https://image.tmdb.org/t/p/original/5GGBkTWM3TlyubGyTeptu1F0pVu.jpg",
@@ -191,19 +191,27 @@
         },
         {
           "numero": 6,
-          "titulo": "Miseria",
-          "url": "https://videoapp.zip/e/novel/252701/3/6",
           "servidores": [
             "https://videoapp.zip/e/novel/252701/3/6"
+          ],
+          "titulo": "Miseria",
+          "url": "https://videoapp.zip/e/novel/252701/3/6"
+        },
+        {
+          "numero": 7,
+          "titulo": "Jugando con fuego",
+          "url": "https://videoapp.zip/e/novel/252701/3/7",
+          "servidores": [
+            "https://videoapp.zip/e/novel/252701/3/7"
           ]
         }
       ],
       "fecha_extraccion": "2026-09-15T17:35:27.785Z",
       "titulo": "Temporada 3",
-      "total_capitulos": 6
+      "total_capitulos": 7
     }
   ],
   "tmdb_id": 252701,
-  "total_capitulos": 22,
+  "total_capitulos": 23,
   "total_temporadas": 3
 }
