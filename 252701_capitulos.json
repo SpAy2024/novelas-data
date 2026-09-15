@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-15T17:14:29.328Z",
+  "fecha_actualizacion": "2026-09-15T17:14:46.342Z",
   "fecha_creacion": "2026-09-15T15:51:56.880Z",
   "novela": "El extraño retorno de Diana Salazar",
   "poster": "https://image.tmdb.org/t/p/original/5GGBkTWM3TlyubGyTeptu1F0pVu.jpg",
@@ -57,19 +57,27 @@
         },
         {
           "numero": 7,
-          "titulo": "¿Verdad o locura?",
-          "url": "https://videoapp.zip/e/novel/252701/1/7",
           "servidores": [
             "https://videoapp.zip/e/novel/252701/1/7"
+          ],
+          "titulo": "¿Verdad o locura?",
+          "url": "https://videoapp.zip/e/novel/252701/1/7"
+        },
+        {
+          "numero": 8,
+          "titulo": "El vientre de la ballena",
+          "url": "https://videoapp.zip/e/novel/252701/1/8",
+          "servidores": [
+            "https://videoapp.zip/e/novel/252701/1/8"
           ]
         }
       ],
       "fecha_extraccion": "2026-09-15T15:55:35.902Z",
       "titulo": "Temporada 1",
-      "total_capitulos": 7
+      "total_capitulos": 8
     }
   ],
   "tmdb_id": 252701,
-  "total_capitulos": 7,
+  "total_capitulos": 8,
   "total_temporadas": 1
 }
