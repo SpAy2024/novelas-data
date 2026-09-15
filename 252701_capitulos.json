@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-15T17:38:07.750Z",
+  "fecha_actualizacion": "2026-09-15T17:38:22.563Z",
   "fecha_creacion": "2026-09-15T15:51:56.880Z",
   "novela": "El extraño retorno de Diana Salazar",
   "poster": "https://image.tmdb.org/t/p/original/5GGBkTWM3TlyubGyTeptu1F0pVu.jpg",
@@ -175,19 +175,27 @@
         },
         {
           "numero": 4,
-          "titulo": "Falsa libertad",
-          "url": "https://videoapp.zip/e/novel/252701/3/4",
           "servidores": [
             "https://videoapp.zip/e/novel/252701/3/4"
+          ],
+          "titulo": "Falsa libertad",
+          "url": "https://videoapp.zip/e/novel/252701/3/4"
+        },
+        {
+          "numero": 5,
+          "titulo": "Punto de quiebre",
+          "url": "https://videoapp.zip/e/novel/252701/3/5",
+          "servidores": [
+            "https://videoapp.zip/e/novel/252701/3/5"
           ]
         }
       ],
       "fecha_extraccion": "2026-09-15T17:35:27.785Z",
       "titulo": "Temporada 3",
-      "total_capitulos": 4
+      "total_capitulos": 5
     }
   ],
   "tmdb_id": 252701,
-  "total_capitulos": 20,
+  "total_capitulos": 21,
   "total_temporadas": 3
 }
