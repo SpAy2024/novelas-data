@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-15T17:15:30.061Z",
+  "fecha_actualizacion": "2026-09-15T17:21:38.464Z",
   "fecha_creacion": "2026-09-15T15:51:56.880Z",
   "novela": "El extraño retorno de Diana Salazar",
   "poster": "https://image.tmdb.org/t/p/original/5GGBkTWM3TlyubGyTeptu1F0pVu.jpg",
@@ -77,22 +77,30 @@
       "total_capitulos": 8
     },
     {
-      "titulo": "Temporada 2",
-      "fecha_extraccion": "2026-09-15T17:15:30.061Z",
-      "total_capitulos": 1,
       "capitulos": [
         {
           "numero": 1,
-          "titulo": "Desencuentros",
-          "url": "https://videoapp.zip/e/novel/252701/2/1",
           "servidores": [
             "https://videoapp.zip/e/novel/252701/2/1"
+          ],
+          "titulo": "Desencuentros",
+          "url": "https://videoapp.zip/e/novel/252701/2/1"
+        },
+        {
+          "numero": 2,
+          "titulo": "Revelaciones",
+          "url": "https://videoapp.zip/e/novel/252701/2/2",
+          "servidores": [
+            "https://videoapp.zip/e/novel/252701/2/2"
           ]
         }
-      ]
+      ],
+      "fecha_extraccion": "2026-09-15T17:15:30.061Z",
+      "titulo": "Temporada 2",
+      "total_capitulos": 2
     }
   ],
   "tmdb_id": 252701,
-  "total_capitulos": 9,
+  "total_capitulos": 10,
   "total_temporadas": 2
 }
