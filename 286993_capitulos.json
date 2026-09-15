@@ -1,0 +1,177 @@
+{
+  "novela": "Con esa misma mirada",
+  "tmdb_id": 286993,
+  "poster": "https://image.tmdb.org/t/p/w500/mfANgQu57nijUALIfAgW8Lqozii.jpg",
+  "url": null,
+  "temporadas": {
+    "1": {
+      "titulo": "Temporada 1",
+      "fecha_extraccion": "2026-09-15T19:59:33.573Z",
+      "total_capitulos": 8,
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Episodio 1",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Episodio 2",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Episodio 3",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 4,
+          "titulo": "Episodio 4",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Episodio 5",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 6,
+          "titulo": "Episodio 6",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 7,
+          "titulo": "Episodio 7",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 8,
+          "titulo": "Episodio 8",
+          "url": "",
+          "servidores": []
+        }
+      ]
+    },
+    "2": {
+      "titulo": "Temporada 2",
+      "fecha_extraccion": "2026-09-15T19:59:33.901Z",
+      "total_capitulos": 8,
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Episodio 1",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Episodio 2",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Episodio 3",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 4,
+          "titulo": "Episodio 4",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Episodio 5",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 6,
+          "titulo": "Episodio 6",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 7,
+          "titulo": "Episodio 7",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 8,
+          "titulo": "Episodio 8",
+          "url": "",
+          "servidores": []
+        }
+      ]
+    },
+    "3": {
+      "titulo": "Temporada 3",
+      "fecha_extraccion": "2026-09-15T19:59:34.184Z",
+      "total_capitulos": 8,
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Episodio 1",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Episodio 2",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Episodio 3",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 4,
+          "titulo": "Episodio 4",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Episodio 5",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 6,
+          "titulo": "Episodio 6",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 7,
+          "titulo": "Episodio 7",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 8,
+          "titulo": "Episodio 8",
+          "url": "",
+          "servidores": []
+        }
+      ]
+    }
+  },
+  "total_temporadas": 3,
+  "total_capitulos": 24,
+  "fecha_creacion": "2026-09-15T19:59:34.385Z",
+  "fecha_actualizacion": "2026-09-15T19:59:34.385Z"
+}
