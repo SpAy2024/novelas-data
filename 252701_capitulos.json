@@ -1,225 +1,180 @@
 {
-  "fecha_actualizacion": "2026-09-15T17:39:16.673Z",
-  "fecha_creacion": "2026-09-15T15:51:56.880Z",
   "novela": "El extraño retorno de Diana Salazar",
-  "poster": "https://image.tmdb.org/t/p/original/5GGBkTWM3TlyubGyTeptu1F0pVu.jpg",
-  "temporadas": [
-    null,
-    {
-      "capitulos": [
-        {
-          "numero": 1,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/1/1"
-          ],
-          "titulo": "Encuentros",
-          "url": "https://videoapp.zip/e/novel/252701/1/1"
-        },
-        {
-          "numero": 2,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/1/2"
-          ],
-          "titulo": "Confesiones",
-          "url": "https://videoapp.zip/e/novel/252701/1/2"
-        },
-        {
-          "numero": 3,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/1/3"
-          ],
-          "titulo": "La llamada",
-          "url": "https://videoapp.zip/e/novel/252701/1/3"
-        },
-        {
-          "numero": 4,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/1/4"
-          ],
-          "titulo": "Camino sin retorno",
-          "url": "https://videoapp.zip/e/novel/252701/1/4"
-        },
-        {
-          "numero": 5,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/1/5"
-          ],
-          "titulo": "Almas viejas",
-          "url": "https://videoapp.zip/e/novel/252701/1/5"
-        },
-        {
-          "numero": 6,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/1/6"
-          ],
-          "titulo": "Entre temblores",
-          "url": "https://videoapp.zip/e/novel/252701/1/6"
-        },
-        {
-          "numero": 7,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/1/7"
-          ],
-          "titulo": "¿Verdad o locura?",
-          "url": "https://videoapp.zip/e/novel/252701/1/7"
-        },
-        {
-          "numero": 8,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/1/8"
-          ],
-          "titulo": "El vientre de la ballena",
-          "url": "https://videoapp.zip/e/novel/252701/1/8"
-        }
-      ],
-      "fecha_extraccion": "2026-09-15T15:55:35.902Z",
+  "tmdb_id": 252701,
+  "poster": "https://image.tmdb.org/t/p/w500/5GGBkTWM3TlyubGyTeptu1F0pVu.jpg",
+  "url": null,
+  "temporadas": {
+    "temp_1": {
+      "numero": 1,
       "titulo": "Temporada 1",
-      "total_capitulos": 8
-    },
-    {
+      "fecha_extraccion": "2026-09-16T19:53:09.128Z",
+      "total_capitulos": 8,
       "capitulos": [
         {
           "numero": 1,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/2/1"
-          ],
-          "titulo": "Desencuentros",
-          "url": "https://videoapp.zip/e/novel/252701/2/1"
+          "titulo": "Encuentros",
+          "url": "",
+          "servidores": []
         },
         {
           "numero": 2,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/2/2"
-          ],
-          "titulo": "Revelaciones",
-          "url": "https://videoapp.zip/e/novel/252701/2/2"
+          "titulo": "Confesiones",
+          "url": "",
+          "servidores": []
         },
         {
           "numero": 3,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/2/3"
-          ],
-          "titulo": "Despertares",
-          "url": "https://videoapp.zip/e/novel/252701/2/3"
+          "titulo": "La llamada",
+          "url": "",
+          "servidores": []
         },
         {
           "numero": 4,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/2/4"
-          ],
-          "titulo": "Señales",
-          "url": "https://videoapp.zip/e/novel/252701/2/4"
+          "titulo": "Camino sin retorno",
+          "url": "",
+          "servidores": []
         },
         {
           "numero": 5,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/2/5"
-          ],
-          "titulo": "Recluidos",
-          "url": "https://videoapp.zip/e/novel/252701/2/5"
+          "titulo": "Almas viejas",
+          "url": "",
+          "servidores": []
         },
         {
           "numero": 6,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/2/6"
-          ],
-          "titulo": "Punto de convergencia",
-          "url": "https://videoapp.zip/e/novel/252701/2/6"
+          "titulo": "Entre temblores",
+          "url": "",
+          "servidores": []
         },
         {
           "numero": 7,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/2/7"
-          ],
-          "titulo": "Un talento peligroso",
-          "url": "https://videoapp.zip/e/novel/252701/2/7"
+          "titulo": "¿Verdad o locura?",
+          "url": "",
+          "servidores": []
         },
         {
           "numero": 8,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/2/8"
-          ],
-          "titulo": "Consecuencias",
-          "url": "https://videoapp.zip/e/novel/252701/2/8"
+          "titulo": "El vientre de la ballena",
+          "url": "",
+          "servidores": []
         }
-      ],
-      "fecha_extraccion": "2026-09-15T17:15:30.061Z",
-      "titulo": "Temporada 2",
-      "total_capitulos": 8
+      ]
     },
-    {
+    "temp_2": {
+      "numero": 2,
+      "titulo": "Temporada 2",
+      "fecha_extraccion": "2026-09-16T19:53:09.414Z",
+      "total_capitulos": 8,
       "capitulos": [
         {
           "numero": 1,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/3/1"
-          ],
-          "titulo": "Fuera de control",
-          "url": "https://videoapp.zip/e/novel/252701/3/1"
+          "titulo": "Desencuentros",
+          "url": "",
+          "servidores": []
         },
         {
           "numero": 2,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/3/2"
-          ],
-          "titulo": "Reconciliaciones",
-          "url": "https://videoapp.zip/e/novel/252701/3/2"
+          "titulo": "Revelaciones",
+          "url": "",
+          "servidores": []
         },
         {
           "numero": 3,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/3/3"
-          ],
-          "titulo": "Sospecha",
-          "url": "https://videoapp.zip/e/novel/252701/3/3"
+          "titulo": "Despertares",
+          "url": "",
+          "servidores": []
         },
         {
           "numero": 4,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/3/4"
-          ],
-          "titulo": "Falsa libertad",
-          "url": "https://videoapp.zip/e/novel/252701/3/4"
+          "titulo": "Señales",
+          "url": "",
+          "servidores": []
         },
         {
           "numero": 5,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/3/5"
-          ],
-          "titulo": "Punto de quiebre",
-          "url": "https://videoapp.zip/e/novel/252701/3/5"
+          "titulo": "Recluidos",
+          "url": "",
+          "servidores": []
         },
         {
           "numero": 6,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/3/6"
-          ],
-          "titulo": "Miseria",
-          "url": "https://videoapp.zip/e/novel/252701/3/6"
+          "titulo": "Punto de convergencia",
+          "url": "",
+          "servidores": []
         },
         {
           "numero": 7,
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/3/7"
-          ],
+          "titulo": "Un talento peligroso",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 8,
+          "titulo": "Consecuencias",
+          "url": "",
+          "servidores": []
+        }
+      ]
+    },
+    "temp_3": {
+      "numero": 3,
+      "titulo": "Temporada 3",
+      "fecha_extraccion": "2026-09-16T19:53:09.706Z",
+      "total_capitulos": 8,
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Fuera de control",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Reconciliaciones",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Sospecha",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 4,
+          "titulo": "Falsa libertad",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Punto de quiebre",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 6,
+          "titulo": "Miseria",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 7,
           "titulo": "Jugando con fuego",
-          "url": "https://videoapp.zip/e/novel/252701/3/7"
+          "url": "",
+          "servidores": []
         },
         {
           "numero": 8,
           "titulo": "Almas en pena",
-          "url": "https://videoapp.zip/e/novel/252701/3/8",
-          "servidores": [
-            "https://videoapp.zip/e/novel/252701/3/8"
-          ]
+          "url": "",
+          "servidores": []
         }
-      ],
-      "fecha_extraccion": "2026-09-15T17:35:27.785Z",
-      "titulo": "Temporada 3",
-      "total_capitulos": 8
+      ]
     }
-  ],
-  "tmdb_id": 252701,
+  },
+  "total_temporadas": 3,
   "total_capitulos": 24,
-  "total_temporadas": 3
+  "fecha_creacion": "2026-09-16T19:53:09.906Z",
+  "fecha_actualizacion": "2026-09-16T19:53:09.906Z"
 }
