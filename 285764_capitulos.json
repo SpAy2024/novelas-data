@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-17T18:31:31.932Z",
+  "fecha_actualizacion": "2026-09-17T18:32:14.615Z",
   "fecha_creacion": "2026-09-17T16:14:39.962Z",
   "novela": "Juegos de amor y poder",
   "poster": "https://image.tmdb.org/t/p/w500/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg",
@@ -27,7 +27,8 @@
         {
           "numero": 3,
           "servidores": [
-            "https://playmogo.com/e/3b790mzoz400"
+            "https://playmogo.com/e/3b790mzoz400",
+            "https://vidmoly.me/v/zim4yb0eee7h"
           ],
           "titulo": "Episodio 3",
           "url": ""
