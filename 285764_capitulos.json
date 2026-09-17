@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-17T17:09:48.797Z",
+  "fecha_actualizacion": "2026-09-17T17:12:32.181Z",
   "fecha_creacion": "2026-09-17T16:14:39.962Z",
   "novela": "Juegos de amor y poder",
   "poster": "https://image.tmdb.org/t/p/w500/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg",
@@ -48,16 +48,19 @@
         },
         {
           "numero": 6,
-          "titulo": "Episodio 6",
-          "url": "",
           "servidores": [
             "https://playmogo.com/e/5c9weruuxjgl"
-          ]
+          ],
+          "titulo": "Episodio 6",
+          "url": ""
         },
         {
           "numero": 7,
           "titulo": "Episodio 7",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://playmogo.com/e/oqyxwn0v1my1"
+          ]
         },
         {
           "numero": 8,
