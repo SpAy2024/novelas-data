@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-17T18:43:00.294Z",
+  "fecha_actualizacion": "2026-09-17T18:43:32.154Z",
   "fecha_creacion": "2026-09-17T16:14:39.962Z",
   "novela": "Juegos de amor y poder",
   "poster": "https://image.tmdb.org/t/p/w500/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg",
@@ -135,7 +135,8 @@
         {
           "numero": 15,
           "servidores": [
-            "https://playmogo.com/e/bpog7mhufj72"
+            "https://playmogo.com/e/bpog7mhufj72",
+            "https://vidmoly.me/v/38j1sz6pki7m"
           ],
           "titulo": "Episodio 15",
           "url": ""
