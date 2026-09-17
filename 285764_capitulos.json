@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-17T18:33:54.841Z",
+  "fecha_actualizacion": "2026-09-17T18:34:52.737Z",
   "fecha_creacion": "2026-09-17T16:14:39.962Z",
   "novela": "Juegos de amor y poder",
   "poster": "https://image.tmdb.org/t/p/w500/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg",
@@ -54,7 +54,8 @@
         {
           "numero": 6,
           "servidores": [
-            "https://playmogo.com/e/5c9weruuxjgl"
+            "https://playmogo.com/e/5c9weruuxjgl",
+            "https://vidmoly.me/v/gty5di34tjh4"
           ],
           "titulo": "Episodio 6",
           "url": ""
