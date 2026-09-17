@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-17T18:38:23.070Z",
+  "fecha_actualizacion": "2026-09-17T18:41:46.931Z",
   "fecha_creacion": "2026-09-17T16:14:39.962Z",
   "novela": "Juegos de amor y poder",
   "poster": "https://image.tmdb.org/t/p/w500/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg",
@@ -108,7 +108,8 @@
         {
           "numero": 12,
           "servidores": [
-            "https://playmogo.com/e/2i84e8gms0fx"
+            "https://playmogo.com/e/2i84e8gms0fx",
+            "https://vidmoly.me/v/75a53u9v2gce"
           ],
           "titulo": "Episodio 12",
           "url": ""
