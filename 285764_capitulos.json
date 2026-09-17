@@ -1,0 +1,440 @@
+{
+  "novela": "Juegos de amor y poder",
+  "tmdb_id": 285764,
+  "poster": "https://image.tmdb.org/t/p/w500/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg",
+  "url": null,
+  "temporadas": {
+    "temp_1": {
+      "numero": 1,
+      "titulo": "Temporada 1",
+      "fecha_extraccion": "2026-09-17T16:14:39.761Z",
+      "total_capitulos": 70,
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Episodio 1",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Episodio 2",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Episodio 3",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 4,
+          "titulo": "Episodio 4",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Episodio 5",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 6,
+          "titulo": "Episodio 6",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 7,
+          "titulo": "Episodio 7",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 8,
+          "titulo": "Episodio 8",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 9,
+          "titulo": "Episodio 9",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 10,
+          "titulo": "Episodio 10",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 11,
+          "titulo": "Episodio 11",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 12,
+          "titulo": "Episodio 12",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 13,
+          "titulo": "Episodio 13",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 14,
+          "titulo": "Episodio 14",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 15,
+          "titulo": "Episodio 15",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 16,
+          "titulo": "Episodio 16",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 17,
+          "titulo": "Episodio 17",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 18,
+          "titulo": "Episodio 18",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 19,
+          "titulo": "Episodio 19",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 20,
+          "titulo": "Episodio 20",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 21,
+          "titulo": "Episodio 21",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 22,
+          "titulo": "Episodio 22",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 23,
+          "titulo": "Episodio 23",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 24,
+          "titulo": "Episodio 24",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 25,
+          "titulo": "Episodio 25",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 26,
+          "titulo": "Episodio 26",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 27,
+          "titulo": "Episodio 27",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 28,
+          "titulo": "Episodio 28",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 29,
+          "titulo": "Episodio 29",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 30,
+          "titulo": "Episodio 30",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 31,
+          "titulo": "Episodio 31",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 32,
+          "titulo": "Episodio 32",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 33,
+          "titulo": "Episodio 33",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 34,
+          "titulo": "Episodio 34",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 35,
+          "titulo": "Episodio 35",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 36,
+          "titulo": "Episodio 36",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 37,
+          "titulo": "Episodio 37",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 38,
+          "titulo": "Episodio 38",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 39,
+          "titulo": "Episodio 39",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 40,
+          "titulo": "Episodio 40",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 41,
+          "titulo": "Episodio 41",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 42,
+          "titulo": "Episodio 42",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 43,
+          "titulo": "Episodio 43",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 44,
+          "titulo": "Episodio 44",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 45,
+          "titulo": "Episodio 45",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 46,
+          "titulo": "Episodio 46",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 47,
+          "titulo": "Episodio 47",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 48,
+          "titulo": "Episodio 48",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 49,
+          "titulo": "Episodio 49",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 50,
+          "titulo": "Episodio 50",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 51,
+          "titulo": "Episodio 51",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 52,
+          "titulo": "Episodio 52",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 53,
+          "titulo": "Episodio 53",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 54,
+          "titulo": "Episodio 54",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 55,
+          "titulo": "Episodio 55",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 56,
+          "titulo": "Episodio 56",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 57,
+          "titulo": "Episodio 57",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 58,
+          "titulo": "Episodio 58",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 59,
+          "titulo": "Episodio 59",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 60,
+          "titulo": "Episodio 60",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 61,
+          "titulo": "Episodio 61",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 62,
+          "titulo": "Episodio 62",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 63,
+          "titulo": "Episodio 63",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 64,
+          "titulo": "Episodio 64",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 65,
+          "titulo": "Episodio 65",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 66,
+          "titulo": "Episodio 66",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 67,
+          "titulo": "Episodio 67",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 68,
+          "titulo": "Episodio 68",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 69,
+          "titulo": "Episodio 69",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 70,
+          "titulo": "Episodio 70",
+          "url": "",
+          "servidores": []
+        }
+      ]
+    }
+  },
+  "total_temporadas": 1,
+  "total_capitulos": 70,
+  "fecha_creacion": "2026-09-17T16:14:39.962Z",
+  "fecha_actualizacion": "2026-09-17T16:14:39.962Z"
+}
