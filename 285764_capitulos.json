@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-17T18:33:02.234Z",
+  "fecha_actualizacion": "2026-09-17T18:33:54.841Z",
   "fecha_creacion": "2026-09-17T16:14:39.962Z",
   "novela": "Juegos de amor y poder",
   "poster": "https://image.tmdb.org/t/p/w500/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg",
@@ -45,7 +45,8 @@
         {
           "numero": 5,
           "servidores": [
-            "https://playmogo.com/e/tetfufmmb82y"
+            "https://playmogo.com/e/tetfufmmb82y",
+            "https://vidmoly.me/v/2sdm94fs3a62"
           ],
           "titulo": "Episodio 5",
           "url": ""
