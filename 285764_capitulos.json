@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-17T17:54:33.616Z",
+  "fecha_actualizacion": "2026-09-17T18:31:31.932Z",
   "fecha_creacion": "2026-09-17T16:14:39.962Z",
   "novela": "Juegos de amor y poder",
   "poster": "https://image.tmdb.org/t/p/w500/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg",
@@ -18,7 +18,8 @@
         {
           "numero": 2,
           "servidores": [
-            "https://playmogo.com/e/daimfiwu5unw"
+            "https://playmogo.com/e/daimfiwu5unw",
+            "https://vidmoly.me/v/zexm804gnj28"
           ],
           "titulo": "Episodio 2",
           "url": ""
