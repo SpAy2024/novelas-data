@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-17T18:32:14.615Z",
+  "fecha_actualizacion": "2026-09-17T18:33:02.234Z",
   "fecha_creacion": "2026-09-17T16:14:39.962Z",
   "novela": "Juegos de amor y poder",
   "poster": "https://image.tmdb.org/t/p/w500/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg",
@@ -36,7 +36,8 @@
         {
           "numero": 4,
           "servidores": [
-            "https://playmogo.com/d/fjx5l5m8jrkp"
+            "https://playmogo.com/d/fjx5l5m8jrkp",
+            "https://vidmoly.me/v/7cb484gn743i"
           ],
           "titulo": "Episodio 4",
           "url": ""
