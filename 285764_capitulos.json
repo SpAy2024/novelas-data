@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-17T18:37:36.387Z",
+  "fecha_actualizacion": "2026-09-17T18:38:23.070Z",
   "fecha_creacion": "2026-09-17T16:14:39.962Z",
   "novela": "Juegos de amor y poder",
   "poster": "https://image.tmdb.org/t/p/w500/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg",
@@ -99,7 +99,8 @@
         {
           "numero": 11,
           "servidores": [
-            "https://playmogo.com/e/sxrpxh5m6ghy"
+            "https://playmogo.com/e/sxrpxh5m6ghy",
+            "https://vidmoly.me/v/ebppsa7j9yii"
           ],
           "titulo": "Episodio 11",
           "url": ""
