@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-17T18:34:52.737Z",
+  "fecha_actualizacion": "2026-09-17T18:35:32.840Z",
   "fecha_creacion": "2026-09-17T16:14:39.962Z",
   "novela": "Juegos de amor y poder",
   "poster": "https://image.tmdb.org/t/p/w500/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg",
@@ -63,7 +63,8 @@
         {
           "numero": 7,
           "servidores": [
-            "https://playmogo.com/e/oqyxwn0v1my1"
+            "https://playmogo.com/e/oqyxwn0v1my1",
+            "https://vidmoly.me/v/xx4aunrczokx"
           ],
           "titulo": "Episodio 7",
           "url": ""
