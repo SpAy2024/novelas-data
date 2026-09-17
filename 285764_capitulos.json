@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-17T17:29:58.112Z",
+  "fecha_actualizacion": "2026-09-17T17:54:33.616Z",
   "fecha_creacion": "2026-09-17T16:14:39.962Z",
   "novela": "Juegos de amor y poder",
   "poster": "https://image.tmdb.org/t/p/w500/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg",
@@ -9,7 +9,8 @@
         {
           "numero": 1,
           "servidores": [
-            "https://playmogo.com/e/h2trl3zuucra"
+            "https://playmogo.com/e/h2trl3zuucra",
+            "https://vidmoly.me/v/alr8270p9xa9"
           ],
           "titulo": "Episodio 1",
           "url": ""
@@ -120,11 +121,11 @@
         },
         {
           "numero": 15,
-          "titulo": "Episodio 15",
-          "url": "",
           "servidores": [
             "https://playmogo.com/e/bpog7mhufj72"
-          ]
+          ],
+          "titulo": "Episodio 15",
+          "url": ""
         },
         {
           "numero": 16,
