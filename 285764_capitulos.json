@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-17T18:41:46.931Z",
+  "fecha_actualizacion": "2026-09-17T18:42:22.197Z",
   "fecha_creacion": "2026-09-17T16:14:39.962Z",
   "novela": "Juegos de amor y poder",
   "poster": "https://image.tmdb.org/t/p/w500/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg",
@@ -117,7 +117,8 @@
         {
           "numero": 13,
           "servidores": [
-            "https://playmogo.com/e/lltpam7kln3a"
+            "https://playmogo.com/e/lltpam7kln3a",
+            "https://vidmoly.me/v/wugri14k0gqn"
           ],
           "titulo": "Episodio 13",
           "url": ""
