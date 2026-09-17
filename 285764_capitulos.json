@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-17T18:36:55.117Z",
+  "fecha_actualizacion": "2026-09-17T18:37:36.387Z",
   "fecha_creacion": "2026-09-17T16:14:39.962Z",
   "novela": "Juegos de amor y poder",
   "poster": "https://image.tmdb.org/t/p/w500/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg",
@@ -90,7 +90,8 @@
         {
           "numero": 10,
           "servidores": [
-            "https://playmogo.com/e/sx05rf076mr1"
+            "https://playmogo.com/e/sx05rf076mr1",
+            "https://vidmoly.me/v/5pcspb3nv5fb"
           ],
           "titulo": "Episodio 10",
           "url": ""
