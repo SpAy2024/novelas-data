@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-17T18:42:22.197Z",
+  "fecha_actualizacion": "2026-09-17T18:43:00.294Z",
   "fecha_creacion": "2026-09-17T16:14:39.962Z",
   "novela": "Juegos de amor y poder",
   "poster": "https://image.tmdb.org/t/p/w500/fVubci6XgZnlVLkqhtS3vnkYWQH.jpg",
@@ -126,7 +126,8 @@
         {
           "numero": 14,
           "servidores": [
-            "https://playmogo.com/e/i1pj84ljq722"
+            "https://playmogo.com/e/i1pj84ljq722",
+            "https://vidmoly.me/v/9k2tsw3pfe5o"
           ],
           "titulo": "Episodio 14",
           "url": ""
