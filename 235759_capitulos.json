@@ -1,0 +1,48 @@
+{
+  "novela": "El Senor De Los Cielos Sus Comienzos",
+  "tmdb_id": 235759,
+  "poster": "https://image.tmdb.org/t/p/w500/xHZoRguXWBA7ObQGG37KAg0h2Ds.jpg",
+  "temporadas": {
+    "temp_1": {
+      "numero": 1,
+      "titulo": "El Senor De Los Cielos Sus Comienzos",
+      "fecha_extraccion": "2026-09-19T13:22:38.636Z",
+      "total_capitulos": 3,
+      "url": "https://ww2.ojearnovelas.com/tunovela/el-senor-de-los-cielos-sus-comienzos/",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "El Señor De Los Cielos: Sus Comienzos | Capítulo 1 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-sus-comienzos-capitulo-1/",
+          "servidores": [
+            "https://iplayerhls.com/e/proi0e1mo7kq",
+            "https://luluvdo.com/e/jsjx8wa4kwas",
+            "https://dooodster.com/e/1g6leg5i0xku"
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "El Señor De Los Cielos: Sus Comienzos | Capítulo 2 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-sus-comienzos-capitulo-2/",
+          "servidores": [
+            "https://dooodster.com/e/cxv8f4u8gmi8",
+            "https://luluvdo.com/e/h5gedhsqauhf",
+            "https://iplayerhls.com/e/d7149r69dt0l"
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "El Señor De Los Cielos: Sus Comienzos | Capítulo 3 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-sus-comienzos-capitulo-3/",
+          "servidores": [
+            "https://dooodster.com/e/1kdby1pb2vey",
+            "https://luluvdo.com/e/k93balsuksnm",
+            "https://iplayerhls.com/e/423g3605humv"
+          ]
+        }
+      ]
+    }
+  },
+  "total_temporadas": 1,
+  "total_capitulos": 3
+}
