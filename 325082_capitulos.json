@@ -263,8 +263,8 @@
     "temp_1": {
       "numero": 1,
       "titulo": "Tierra De Amor Y Coraje",
-      "fecha_extraccion": "2026-09-16T21:20:05.692Z",
-      "total_capitulos": 30,
+      "fecha_extraccion": "2026-09-19T13:25:50.841Z",
+      "total_capitulos": 31,
       "url": "https://ww2.ojearnovelas.com/tunovela/tierra-de-amor-y-coraje/",
       "capitulos": [
         {
@@ -566,11 +566,21 @@
             "https://luluvdo.com/e/tql1vycl5j2a",
             "https://iplayerhls.com/e/4sfielomhk8u"
           ]
+        },
+        {
+          "numero": 31,
+          "titulo": "Tierra de Amor y Coraje | Capítulo 31 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/tierra-de-amor-y-coraje-capitulo-31/",
+          "servidores": [
+            "https://iplayerhls.com/e/kdsih5b4kdqh",
+            "https://dooodster.com/e/08syx3kk3mwa",
+            "https://luluvdo.com/e/ja45puktxmpx"
+          ]
         }
       ]
     }
   },
   "tmdb_id": 325082,
-  "total_capitulos": 55,
+  "total_capitulos": 56,
   "total_temporadas": 2
 }
