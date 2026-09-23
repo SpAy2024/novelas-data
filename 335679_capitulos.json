@@ -1,0 +1,27 @@
+{
+  "novela": "Sabor A Ti",
+  "tmdb_id": 335679,
+  "poster": "https://image.tmdb.org/t/p/w500/1kILvRCn7p2mmIMJpzZNraafPed.jpg",
+  "temporadas": {
+    "temp_1": {
+      "numero": 1,
+      "titulo": "Sabor A Ti",
+      "fecha_extraccion": "2026-09-23T23:54:51.549Z",
+      "total_capitulos": 1,
+      "url": "https://ww2.ojearnovelas.com/tunovela/sabor-a-ti/",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Sabor a ti | Capítulo 1 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/sabor-a-ti-capitulo-1/",
+          "servidores": [
+            "https://dooodster.com/e/ioxlzx15m2yw",
+            "https://luluvdo.com/e/6nf1v2nrmprc"
+          ]
+        }
+      ]
+    }
+  },
+  "total_temporadas": 1,
+  "total_capitulos": 1
+}
