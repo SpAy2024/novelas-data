@@ -1,5198 +1,570 @@
 {
-  "novela": "El señor de los cielos",
+  "novela": "El Senor De Los Cielos",
   "tmdb_id": 44953,
   "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
-  "url": null,
   "temporadas": {
-    "temp_1": {
-      "numero": 1,
-      "titulo": "Temporada 1",
-      "fecha_extraccion": "2026-09-24T21:01:48.351Z",
-      "total_capitulos": 74,
-      "capitulos": [
-        {
-          "numero": 1,
-          "titulo": "Arranca la balacera",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 2,
-          "titulo": "No quiero acabar como Escobar",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 3,
-          "titulo": "Aurelio es capturado por Mejía",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 4,
-          "titulo": "Intentan matar a Aurelio Casillas en la cárcel",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 5,
-          "titulo": "Aurelio le pide a Ximena que se casen",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 6,
-          "titulo": "Aurelio y Ximena se casan",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 7,
-          "titulo": "El narco Isidro Robles muere envenenado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 8,
-          "titulo": "Aurelio jura quedarse con la coca de los colombianos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 9,
-          "titulo": "El Cabo le propone a Aurelio que eliminen a Mónica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 10,
-          "titulo": "Aurelio y el Cabo intentan rescatar a Mónica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 11,
-          "titulo": "Aurelio se deja seducir por la ardiente Mónica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 12,
-          "titulo": "El Letrudo traiciona a Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 13,
-          "titulo": "Aurelio sentencia la vida de El Letrudo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 14,
-          "titulo": "Aurelio y Socorro son retenidos por la guerrilla",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 15,
-          "titulo": "Chacorta y sus hombres liberan a Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 16,
-          "titulo": "Mónica le dispara a la amante de Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 17,
-          "titulo": "Leonor recibe un disparo en la cabeza",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 18,
-          "titulo": "Matilde se desnuda enfrente de su sobrino",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 19,
-          "titulo": "El Letrudo se enfrenta a Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 20,
-          "titulo": "Aurelio sella un pacto con Irina",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 21,
-          "titulo": "Leonor besa sorpresivamente a Marco",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 22,
-          "titulo": "Chacorta sentencia a sus socios de muerte",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 23,
-          "titulo": "Denuncian el rostro de Aurelio Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 24,
-          "titulo": "Aurelio le ordena a sus sicarios acribillar a los repartidores del periódico",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 25,
-          "titulo": "Aurelio ordena asesinar a la periodista Eugenia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 26,
-          "titulo": "Matilde seduce a Heriberto y hacen al amor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 27,
-          "titulo": "Ximena se escapa",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 28,
-          "titulo": "Ximena es secuestrada por Los Villalobos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 29,
-          "titulo": "Intentan violar a la mujer de Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 30,
-          "titulo": "El Cabo le confiesa a Aurelio que lo quieren traicionar",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 31,
-          "titulo": "Juan le pega un tiro a Ximena",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 32,
-          "titulo": "Aurelio libera a su esposa Ximena",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 33,
-          "titulo": "Don Cleto ajusticia a los Villalobos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 34,
-          "titulo": "Aurelio se enfrenta a Don Cleto",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 35,
-          "titulo": "Marco y Leonor se dejan llevar por la pasión",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 36,
-          "titulo": "Leonor se infiltra en la organización de Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 37,
-          "titulo": "Piden a Aurelio asesina al Cardenal Pastrana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 38,
-          "titulo": "Ximena le confiesa al Turco que no es feliz con Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 39,
-          "titulo": "Chacorta elimina al Cardenal y los Villalobos a Guadalupe",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 40,
-          "titulo": "Mónica jura vengar la muerte de Guadalupe",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 41,
-          "titulo": "Casillas se la juega toda para ocultar la muerte de Guadalupe",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 42,
-          "titulo": "Mónica prepara su venganza contra Chacorta",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 43,
-          "titulo": "El Turco le confiesa a Ximena su amor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 44,
-          "titulo": "Marcos arresta a Don Cleto por tráfico de droga",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 45,
-          "titulo": "Aurelio le ordena a los colombianos matar a Marcos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 46,
-          "titulo": "Ximena se escapa de la casa de Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 47,
-          "titulo": "Mónica elimina a la mujer que mató a Isidro",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 48,
-          "titulo": "Aurelio le pega a Ximena por intentar abandonarlo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 49,
-          "titulo": "Leonor seduce a Aurelio para atraparlo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 50,
-          "titulo": "Leonor descubre la identidad de el Letrudo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 51,
-          "titulo": "Aurelio enfrenta a Marcos para liberar a Don Cleto",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 52,
-          "titulo": "Aurelio asesina a Don Cleto",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 53,
-          "titulo": "El Cabo y Mónica planean asesinar a Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 54,
-          "titulo": "Marcos captura al Letrudo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 55,
-          "titulo": "Mónica sella una alianza mortal con el Topo contra Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 56,
-          "titulo": "Mónica le prepara una trampa a Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 57,
-          "titulo": "Aurelio amenaza de muerte al Turco",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 58,
-          "titulo": "Casillas y sus hombres secuestran a Eugenia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 59,
-          "titulo": "Aurelio asesina a la periodista Eugenia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 60,
-          "titulo": "Aurelio le ordena al Cabo matar a Tijeras",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 61,
-          "titulo": "Chacorta sorprende a Ximena y al Turco juntos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 62,
-          "titulo": "Mónica sentencia de muerte a Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 63,
-          "titulo": "Aurelio asesina a su amante Mónica Robles",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 64,
-          "titulo": "El Cabo planea asesina a Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 65,
-          "titulo": "Ximena hace el amor con el Turco",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 66,
-          "titulo": "El Cabo asesina al Tijeras",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 67,
-          "titulo": "Chacorta y sus hombres asesinan a Colmenares",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 68,
-          "titulo": "El Cabo es amenazado de muerte",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 69,
-          "titulo": "Aurelio asesina al Turco por traicionarlo con su esposa",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 70,
-          "titulo": "Furioso en la mira",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 71,
-          "titulo": "Atentan contra Aurelio Casillas y su familia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 72,
-          "titulo": "Ximena le dice a Aurelio que lo traicionó con la policía",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 73,
-          "titulo": "Aurelio Casillas planea su venganza contra sus enemigos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 74,
-          "titulo": "Un nuevo Rostro",
-          "url": "",
-          "servidores": []
-        }
-      ]
-    },
-    "temp_2": {
-      "numero": 2,
-      "titulo": "Temporada 2",
-      "fecha_extraccion": "2026-09-24T21:01:48.631Z",
-      "total_capitulos": 84,
-      "capitulos": [
-        {
-          "numero": 1,
-          "titulo": "Sorpresa y venganza",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 2,
-          "titulo": "Rescate y Emboscada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 3,
-          "titulo": "Escape",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 4,
-          "titulo": "Nuevos Horizontes",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 5,
-          "titulo": "Trampa",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 6,
-          "titulo": "Reencuentro",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 7,
-          "titulo": "Detención",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 8,
-          "titulo": "Propuestas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 9,
-          "titulo": "Mónica y Aurelio se encuentran y Mónica apuñala a Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 10,
-          "titulo": "La Colombiana es arrestada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 11,
-          "titulo": "Aurelio atrapa al Turco",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 12,
-          "titulo": "Aurelio y Chacorta pelean por el negocio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 13,
-          "titulo": "El asesinato de la reclusa",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 14,
-          "titulo": "Atentado peligroso",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 15,
-          "titulo": "Muerte inocente",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 16,
-          "titulo": "El Cabo es capturado por Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 17,
-          "titulo": "Leo es Condenada por Homicidio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 18,
-          "titulo": "5 Años Despues",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 19,
-          "titulo": "Mónica amenaza a Lai",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 20,
-          "titulo": "La guerrilla intenta secuestrar a Francisco",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 21,
-          "titulo": "Leo sale libre de la cárcel",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 22,
-          "titulo": "Aurelio le jura amor eterno a Mónica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 23,
-          "titulo": "Visita a la Carcel",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 24,
-          "titulo": "Mónica embarazada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 25,
-          "titulo": "Mónica se desnuda frente a Pantaleón",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 26,
-          "titulo": "El amor de Lai",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 27,
-          "titulo": "Leo se casa con Ignacio Miravalle",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 28,
-          "titulo": "El Tijeras quiere traicionar al Chema Venegas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 29,
-          "titulo": "Chema Venegas golpea a Matilde",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 30,
-          "titulo": "El Chema y sus hombres golpean a Mónica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 31,
-          "titulo": "Chacorta libera a Mónica del Chema Venegas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 32,
-          "titulo": "El Chema es capturado por la DEA",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 33,
-          "titulo": "Fuego en el laboratorio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 34,
-          "titulo": "Mónica esta a punto de perder a su hijo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 35,
-          "titulo": "El Chema amenaza de muerte al hijo de Matilde",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 36,
-          "titulo": "Tostado le Dispara a Victor Jr.",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 37,
-          "titulo": "Mónica se entera que perdió a su bebé",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 38,
-          "titulo": "Venganza",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 39,
-          "titulo": "Aurelio le cobra a Pantaleón su traición",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 40,
-          "titulo": "Matilde traiciona a los Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 41,
-          "titulo": "Orden",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 42,
-          "titulo": "Chacorta ordena asesinar a la protagonista de la novela",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 43,
-          "titulo": "Aurelio secuestra a Danilo Ferro",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 44,
-          "titulo": "Pobre Victoria",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 45,
-          "titulo": "Don Pedro Nevarez muere en manos de su hija, Victoria Nevarez",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 46,
-          "titulo": "Monica sorprende a Aurelio con su amante",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 47,
-          "titulo": "Matilde seduce a Ernesto",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 48,
-          "titulo": "El Chema Venegas se fuga de la cárcel",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 49,
-          "titulo": "Victoria Nevarez conoce a Danilo Ferro",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 50,
-          "titulo": "Matilde entrega a Chacorta",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 51,
-          "titulo": "Danilo Ferro es torturado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 52,
-          "titulo": "Danilo y Victoria se besan",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 53,
-          "titulo": "Mónica le dice a Aurelio que está embarazada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 54,
-          "titulo": "El Chema interesado en Rutila",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 55,
-          "titulo": "Matilde va a secuestrar a su propio hijo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 56,
-          "titulo": "Doña Alba es víctima de varios balazos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 57,
-          "titulo": "Ximena condenada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 58,
-          "titulo": "Matilde le confiesa a Aurelio su traición",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 59,
-          "titulo": "La muerte de Matilde",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 60,
-          "titulo": "Ximena vs las presas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 61,
-          "titulo": "Heriberto se enfrenta a Leonor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 62,
-          "titulo": "Leonor mata a Heriberto Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 63,
-          "titulo": "Aurelio sufre la muerte de su hijo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 64,
-          "titulo": "Leo es víctima de un atentado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 65,
-          "titulo": "Ernesto confiesa la verdad",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 66,
-          "titulo": "El Chema asesina a Elsa Marín",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 67,
-          "titulo": "Ernesto y Rutila escapan",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 68,
-          "titulo": "Rutila frente al Chema Venegas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 69,
-          "titulo": "Chema Venegas seduce a Rutila",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 70,
-          "titulo": "Aurelio amenaza de muerte a Santiago",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 71,
-          "titulo": "El Chema le dice a Lai que tiene a Rutila",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 72,
-          "titulo": "La Gober",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 73,
-          "titulo": "Danilo Ferro",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 74,
-          "titulo": "Andrews fotografia a Garnica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 75,
-          "titulo": "Ignacio del escuadrón de la muerte",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 76,
-          "titulo": "Liberacion de Rutila",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 77,
-          "titulo": "Rutila es entregada a Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 78,
-          "titulo": "Victoria ordena detener al General Garnica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 79,
-          "titulo": "Ximena es baleada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 80,
-          "titulo": "Muerte de Ximena",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 81,
-          "titulo": "Aurelio echa a Mónica de su vida",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 82,
-          "titulo": "Victoria Engañada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 83,
-          "titulo": "El Chema Venegas es atacado por Aurelio y Chacorta.",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 84,
-          "titulo": "Leonor Ballesteros captura a Aurelio Casillas.",
-          "url": "",
-          "servidores": []
-        }
-      ]
-    },
-    "temp_3": {
-      "numero": 3,
-      "titulo": "Temporada 3",
-      "fecha_extraccion": "2026-09-24T21:01:48.918Z",
-      "total_capitulos": 104,
-      "capitulos": [
-        {
-          "numero": 1,
-          "titulo": "Odio sin fin",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 2,
-          "titulo": "Casillas conoce a su hijo.",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 3,
-          "titulo": "Casillas y Ballesteros intentan escapar de los militares",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 4,
-          "titulo": "Casillas y Ballesteros se libran de sus enemigos.",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 5,
-          "titulo": "La exente Ballesteros se deja seducir por Casillas.",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 6,
-          "titulo": "Adiós Chacorta",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 7,
-          "titulo": "Aurelio Casillas es víctima de un intento de asesinato",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 8,
-          "titulo": "Asalto mortal",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 9,
-          "titulo": "Escurridizo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 10,
-          "titulo": "La sentencia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 11,
-          "titulo": "Intransigente",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 12,
-          "titulo": "Reclamo doloroso",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 13,
-          "titulo": "Inversiones",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 14,
-          "titulo": "Viuda culpada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 15,
-          "titulo": "Todo sale mal",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 16,
-          "titulo": "Destrozados",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 17,
-          "titulo": "Nuevo Chacorta",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 18,
-          "titulo": "Casillas no resiste a la belleza de La Condesa",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 19,
-          "titulo": "Los Casillas se preparan para acabar con sus enemigos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 20,
-          "titulo": "Por venganza Venegas se lleva a Humbertico",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 21,
-          "titulo": "Rutila está desesperada por no poder tener al Chemita",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 22,
-          "titulo": "Don Feyo decide ayudarle a Casillas a matar a Venegas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 23,
-          "titulo": "Casillas da la orden de acabar con su peor enemigo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 24,
-          "titulo": "Sacrificio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 25,
-          "titulo": "Mónica cae de nuevo en los brazos de Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 26,
-          "titulo": "Garnica deja que Marcado se meta con la hija de Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 27,
-          "titulo": "Venegas furioso porque se metieron con su mujer",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 28,
-          "titulo": "Casillas le dice a Venegas que le devuelva a su nieto",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 29,
-          "titulo": "Casillas convence a Rawlings de matar a Jack Melendez",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 30,
-          "titulo": "Casillas enfurece y le jura que los que se metieron con ella van a pagar con sangre",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 31,
-          "titulo": "Casillas le revela sus secretos a la periodista en una entrevista exclusiva",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 32,
-          "titulo": "Casillas es atacado por las tropas de la marina",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 33,
-          "titulo": "Venegas pone en riesgo su vida para liberar a Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 34,
-          "titulo": "Casillas y Venegas se unen para levantar el negocio y derrotar a sus enemigos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 35,
-          "titulo": "Casillas lo llama para notificarle que ya no recibirá más sus órdenes",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 36,
-          "titulo": "Le dice que él no es un soplón porque es un Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 37,
-          "titulo": "La ex de Casillas se convierte en representante del narco colombiano",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 38,
-          "titulo": "Intermediaria",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 39,
-          "titulo": "Casillas se siente frustrado porque no lo reconocen como líder de los narcos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 40,
-          "titulo": "Tras sufrir un infarto. Casillas recibe el apoyo de sus familiares",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 41,
-          "titulo": "Robles le pide cuentas porque está segura que alguien la traicionó",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 42,
-          "titulo": "Belén recibe con agrado el beso de Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 43,
-          "titulo": "Casillas le dice a su hija que lamenta la muerte de su madre y su hermano",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 44,
-          "titulo": "Celos asesinos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 45,
-          "titulo": "Pactó de amor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 46,
-          "titulo": "Mi hombre",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 47,
-          "titulo": "Irresistible",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 48,
-          "titulo": "Tu calvario",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 49,
-          "titulo": "Acercamiento",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 50,
-          "titulo": "Socia de infarto",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 51,
-          "titulo": "Las cuentas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 52,
-          "titulo": "Por puro placer",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 53,
-          "titulo": "De tal palo...",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 54,
-          "titulo": "Cambio de rubo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 55,
-          "titulo": "Bajo fuego",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 56,
-          "titulo": "El güero",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 57,
-          "titulo": "Belen y Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 58,
-          "titulo": "De nuevo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 59,
-          "titulo": "Sana y salva",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 60,
-          "titulo": "Sospechoza",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 61,
-          "titulo": "Mi papá",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 62,
-          "titulo": "Entre bandidos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 63,
-          "titulo": "Acá te espero",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 64,
-          "titulo": "A salvo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 65,
-          "titulo": "Pasión",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 66,
-          "titulo": "En sus brazos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 67,
-          "titulo": "Intento",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 68,
-          "titulo": "Cornudo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 69,
-          "titulo": "Todo estalla",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 70,
-          "titulo": "Degollada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 71,
-          "titulo": "Despedida",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 72,
-          "titulo": "Otro whisky",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 73,
-          "titulo": "La tía Mónica 73",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 74,
-          "titulo": "Sorprendida",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 75,
-          "titulo": "Huir de la furia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 76,
-          "titulo": "Dolor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 77,
-          "titulo": "Sin control",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 78,
-          "titulo": "La señora",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 79,
-          "titulo": "De una vez",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 80,
-          "titulo": "Choque de trenes",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 81,
-          "titulo": "Fue su tío",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 82,
-          "titulo": "A golpes",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 83,
-          "titulo": "Lavado de dinero",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 84,
-          "titulo": "Planes en grande",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 85,
-          "titulo": "Madriguera",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 86,
-          "titulo": "Comprando",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 87,
-          "titulo": "Aurelio cede al negocio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 88,
-          "titulo": "Pago con sangre",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 89,
-          "titulo": "Leonor muere",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 90,
-          "titulo": "Bajo ataque",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 91,
-          "titulo": "Ojo por ojo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 92,
-          "titulo": "Un riñón",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 93,
-          "titulo": "El oficial",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 94,
-          "titulo": "De la selva",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 95,
-          "titulo": "La lista",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 96,
-          "titulo": "La era",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 97,
-          "titulo": "Explotacion",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 98,
-          "titulo": "Perdido",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 99,
-          "titulo": "El trofeo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 100,
-          "titulo": "La caída",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 101,
-          "titulo": "Los hijos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 102,
-          "titulo": "Un nuevo negocio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 103,
-          "titulo": "En la mira",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 104,
-          "titulo": "El diablo soy yo",
-          "url": "",
-          "servidores": []
-        }
-      ]
-    },
-    "temp_4": {
-      "numero": 4,
-      "titulo": "Temporada 4",
-      "fecha_extraccion": "2026-09-24T21:01:49.205Z",
-      "total_capitulos": 80,
-      "capitulos": [
-        {
-          "numero": 1,
-          "titulo": "Rutila sobrevive al atentado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 2,
-          "titulo": "Aurelio conoce a su hijo Ismael",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 3,
-          "titulo": "Aurelio presenta a su huerco",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 4,
-          "titulo": "Casillas tras el Feyo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 5,
-          "titulo": "El Feyo se escapa",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 6,
-          "titulo": "Aurelio seduce a La Tata",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 7,
-          "titulo": "Mónica en una encrucijada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 8,
-          "titulo": "Misión para Esperanza",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 9,
-          "titulo": "Mónica pierde el bebé",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 10,
-          "titulo": "Aurelio reprende a Víctor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 11,
-          "titulo": "Aurelio tortura al Chatarrero",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 12,
-          "titulo": "Amenaza de La Tata",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 13,
-          "titulo": "Amparo desea a Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 14,
-          "titulo": "Victor elimina a Eleazar",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 15,
-          "titulo": "Elisa y Monteverde secuestrados",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 16,
-          "titulo": "Aurelio pide perdón a Rutila",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 17,
-          "titulo": "Aurelio besa a Amparo a la fuerza",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 18,
-          "titulo": "Casillas golpea a Marcado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 19,
-          "titulo": "Amor imposible",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 20,
-          "titulo": "Casillas vulnerable",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 21,
-          "titulo": "Amparo se confiesa",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 22,
-          "titulo": "Amparo y Aurelio hacen el amor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 23,
-          "titulo": "Tim es eliminado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 24,
-          "titulo": "Rutila es vengada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 25,
-          "titulo": "Mónica abofetea a Rutila",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 26,
-          "titulo": "Nicargo está arrepentido",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 27,
-          "titulo": "El Tijeras se queda sin su merca",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 28,
-          "titulo": "El Feyo carga con el muerto",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 29,
-          "titulo": "Advertencia a Esperanza",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 30,
-          "titulo": "Riñón millonario",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 31,
-          "titulo": "Mónica enfrenta al soplon de Feyo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 32,
-          "titulo": "Adiós riñón de Niki",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 33,
-          "titulo": "Aurelio desespera por un riñón",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 34,
-          "titulo": "Mónica salva a Luzma",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 35,
-          "titulo": "En busca de Nazareno",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 36,
-          "titulo": "Connie ama a Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 37,
-          "titulo": "Connie se vuelve un estorbo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 38,
-          "titulo": "Aurelio seduce a Mónica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 39,
-          "titulo": "Rutila juega con fuego",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 40,
-          "titulo": "Nazareno acorralado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 41,
-          "titulo": "Aurelio rescata a Luzma",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 42,
-          "titulo": "Casillas aleja a Luzma",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 43,
-          "titulo": "Listo para la cirugía",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 44,
-          "titulo": "Nuevo peligro para Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 45,
-          "titulo": "Ataque a sangre y fuego",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 46,
-          "titulo": "Victor celoso de Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 47,
-          "titulo": "La cabeza del embajador",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 48,
-          "titulo": "Tras La Felina",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 49,
-          "titulo": "Mónica se alia con La Felina",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 50,
-          "titulo": "Dalvio desenmascarado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 51,
-          "titulo": "Mónica sospecha de La Felina",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 52,
-          "titulo": "Ataque en marcha",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 53,
-          "titulo": "La Tata defiende a su novio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 54,
-          "titulo": "La Tata enfrenta al ingeniero",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 55,
-          "titulo": "Chacortica se siente traicionado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 56,
-          "titulo": "Pedido especial de Mónica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 57,
-          "titulo": "Narcotraficantes hacen negocios",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 58,
-          "titulo": "Aurelio y Victor pelean por Mónica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 59,
-          "titulo": "Amor confesado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 60,
-          "titulo": "Aurelio muere de celos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 61,
-          "titulo": "Dolorosa despedida",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 62,
-          "titulo": "Aurelio despechado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 63,
-          "titulo": "Chacortica planta cara",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 64,
-          "titulo": "Ismael la mano derecha",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 65,
-          "titulo": "La periodista suelta la sopa",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 66,
-          "titulo": "Pedido matrimonial",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 67,
-          "titulo": "Aliados problemáticos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 68,
-          "titulo": "Aurelio ordena al presidente",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 69,
-          "titulo": "Eva Ernestina sentenciada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 70,
-          "titulo": "Lencho en la mira",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 71,
-          "titulo": "El turno de Garnica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 72,
-          "titulo": "Humillación cobrada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 73,
-          "titulo": "Juramento de hija",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 74,
-          "titulo": "Aurelio conoce a Emiliana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 75,
-          "titulo": "Nueva conquista",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 76,
-          "titulo": "El Feyo pasa a la acción",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 77,
-          "titulo": "Fin de un enemigo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 78,
-          "titulo": "Casillas seduce a Emiliana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 79,
-          "titulo": "Aurelio cazado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 80,
-          "titulo": "Trampa burlada",
-          "url": "",
-          "servidores": []
-        }
-      ]
-    },
-    "temp_5": {
-      "numero": 5,
-      "titulo": "Temporada 5",
-      "fecha_extraccion": "2026-09-24T21:01:49.484Z",
-      "total_capitulos": 95,
-      "capitulos": [
-        {
-          "numero": 1,
-          "titulo": "Aurelio Casillas comienza a cazar a sus enemigos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 2,
-          "titulo": "Aurelio le salva la vida al presidente de México",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 3,
-          "titulo": "Aurelio rescata a Doña Alba de sus secuestradores",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 4,
-          "titulo": "Emiliana le pide a Aurelio que mate a Mónica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 5,
-          "titulo": "Aurelio le pide a Mónica que regresen",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 6,
-          "titulo": "Aurelio le confiesa a su madre sus muertos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 7,
-          "titulo": "Mónica se despide de su hijo Isidro y de Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 8,
-          "titulo": "Aurelio descubre que Emiliana lo traicionó",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 9,
-          "titulo": "Aurelio mata a Lourdes la nana de Emiliana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 10,
-          "titulo": "Aurelio y Mónica se encuentran en la selva",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 11,
-          "titulo": "Aurelio y Mónica se dejan llevar por la pasión y hacen el amor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 12,
-          "titulo": "Aurelio sufre porque Mónica lo rechaza",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 13,
-          "titulo": "Aurelio amenaza de muerte a Esperanza",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 14,
-          "titulo": "Aurelio se prepara para atacar a Víctor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 15,
-          "titulo": "Aurelio se prepara para dar la vida por su familia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 16,
-          "titulo": "Aurelio le ordena a las Felina que le entregue a Emiliana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 17,
-          "titulo": "Aurelio atrapa a Emiliana para cobrarle su traición",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 18,
-          "titulo": "Aurelio cobra venganza y mata a Emiliana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 19,
-          "titulo": "Aurelio sentencia de muerte a su sobrino Víctor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 20,
-          "titulo": "Aurelio ataca a Víctor y le dispara en la espalda",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 21,
-          "titulo": "Aurelio descubre que no tiene dinero",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 22,
-          "titulo": "Aurelio amenaza a la guerrilla para que le den merca",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 23,
-          "titulo": "Aurelio ordena robarle el dinero a su hija Rutila",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 24,
-          "titulo": "Aurelio le advierte a Ismael que no se atreva a enfrentarlo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 25,
-          "titulo": "Aurelio le roba dinero a su hija Rutila",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 26,
-          "titulo": "Víctor secuestra a Mónica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 27,
-          "titulo": "Aurelio pelea con Rutila por robarla",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 28,
-          "titulo": "Aurelio se enfrenta a Doble 30",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 29,
-          "titulo": "Aurelio negocia con Doble 30 para comprar merca",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 30,
-          "titulo": "Aurelio jura vengar la muerte de su hijo Nazareno",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 31,
-          "titulo": "Mónica Robles intenta escapar de los hombres de Víctor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 32,
-          "titulo": "Aurelio consigue el dinero para levantar el negocio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 33,
-          "titulo": "Aurelio se prepara para enfrentarse con su sobrino Víctor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 34,
-          "titulo": "Aurelio y Víctor hacen las paces y terminan la guerra",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 35,
-          "titulo": "Víctor Casillas es asesinado por Tony Pastrana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 36,
-          "titulo": "Aurelio le declara la guerra a Mónica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 37,
-          "titulo": "Rutila le dice a Doña Alba que mataron a Víctor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 38,
-          "titulo": "Aurelio enfurece al saber que mataron a Víctor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 39,
-          "titulo": "Aurelio jura vengar la muerte de su sobrino Víctor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 40,
-          "titulo": "Aurelio negocia con el presidente de Venezuela",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 41,
-          "titulo": "Aurelio elimina a un soplón de la DEA",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 42,
-          "titulo": "Aurelio amenaza de muerte a Mónica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 43,
-          "titulo": "Aurelio recibe a la DEA con puro plomo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 44,
-          "titulo": "Doña Alba decide alejarse de la familia Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 45,
-          "titulo": "Aurelio le declara la guerra a Mónica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 46,
-          "titulo": "Rutila amenaza de muerte a Sebastián",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 47,
-          "titulo": "Aurelio Casillas seduce a la española y se quiere casar con ella",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 48,
-          "titulo": "Rutila se salva del atentado de los matones de Pastrana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 49,
-          "titulo": "Aurelio da la orden de matar a Rivero",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 50,
-          "titulo": "Rivero y García son atacados por los narcos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 51,
-          "titulo": "Rivero es eliminado por orden de Aurelio Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 52,
-          "titulo": "Aurelio se prepara para enfrentar a Pastrana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 53,
-          "titulo": "Mónica se deja seducir por Pastrana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 54,
-          "titulo": "Aurelio Casillas conoce a la sexy Mabel Castaño",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 55,
-          "titulo": "Mabel Castaño intenta seducir a Aurelio Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 56,
-          "titulo": "Mabel usa sus encantos para seducir a Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 57,
-          "titulo": "Aurelio jura cazar a Esperanza Salvatierra",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 58,
-          "titulo": "Aurelio quiere cobrarle a Esperanza su traición",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 59,
-          "titulo": "Aurelio sufre por la muerte de Pilar",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 60,
-          "titulo": "Aurelio se salva de un atentado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 61,
-          "titulo": "Mónica se enfurece con Tony por usarla para atrapar a Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 62,
-          "titulo": "Aurelio no le perdona a Mónica traicionarlo con Pastrana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 63,
-          "titulo": "Mónica piensa negociar con Aurelio para ver a su hijo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 64,
-          "titulo": "Aurelio y Mónica se confiesan que se aman",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 65,
-          "titulo": "Mónica recuerda los momentos de pasión que vivió con Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 66,
-          "titulo": "Aurelio le hace un atentado a Tony Pastrana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 67,
-          "titulo": "Aurelio tortura a Salazar para encontrar a Esperanza",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 68,
-          "titulo": "Aurelio descubre que Super Javi y Rutila son amantes",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 69,
-          "titulo": "Mónica y Aurelio hacen las paces",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 70,
-          "titulo": "Mónica y Aurelio se besan",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 71,
-          "titulo": "Mónica tiene otros planes para sacar a Aurelio del camino",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 72,
-          "titulo": "Pastrana refuerza sus planes de seducción para dominar a Mónica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 73,
-          "titulo": "Aurelio hace una jugada inesperada en el puerto",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 74,
-          "titulo": "Mónica se va con Tony Pastrana para Colombia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 75,
-          "titulo": "Aurelio asegura que rescatará al hijo del Chema",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 76,
-          "titulo": "Tony Pastrana busca aliados en Colombia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 77,
-          "titulo": "Aurelio tiene otra estrategia para el rescate",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 78,
-          "titulo": "El operativo de rescate del hijo del Chema se complica",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 79,
-          "titulo": "Aurelio se la juega en el rescate",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 80,
-          "titulo": "La DEA y la marina atacan a Ismael",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 81,
-          "titulo": "Ninon seduce bailando a Casillas antes de hacer el amor",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 82,
-          "titulo": "Aurelio dice a Ninon que matará a quien drogó a Pilar",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 83,
-          "titulo": "Investigan desaparición de Sebastián Almagro",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 84,
-          "titulo": "Aurelio exige las evidencias de que Mabel mató a Pilar",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 85,
-          "titulo": "Tony Pastrana le dispara a La Niña",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 86,
-          "titulo": "Mónica confronta a Ninon",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 87,
-          "titulo": "Ismael teme por su novia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 88,
-          "titulo": "Esperanza suplica a Casillas que deje ir a sus padres",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 89,
-          "titulo": "La DEA y la marina entra a la casa de Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 90,
-          "titulo": "Ahmed acaba con la vida de Suta Marchan",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 91,
-          "titulo": "Aurelio logra cazar a Esperanza Salvatierra",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 92,
-          "titulo": "La calaca se lleva a Esperanza, Salazar y Pina",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 93,
-          "titulo": "Comienza la guerra por el negocio en Colombia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 94,
-          "titulo": "Casillas ataca la casa de Leandro Quezada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 95,
-          "titulo": "El Cabo mata a Mónica Robles y a la Felina",
-          "url": "",
-          "servidores": []
-        }
-      ]
-    },
-    "temp_6": {
-      "numero": 6,
-      "titulo": "Temporada 6",
-      "fecha_extraccion": "2026-09-24T21:01:49.776Z",
-      "total_capitulos": 99,
-      "capitulos": [
-        {
-          "numero": 1,
-          "titulo": "Inicia la cacería contra Aurelio Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 2,
-          "titulo": "Casillas declara la guerra y estremece a la nación",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 3,
-          "titulo": "Casillas encierra a su amante por traicionarlo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 4,
-          "titulo": "Atacan a Casillas y a Rutila por sorpresa",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 5,
-          "titulo": "Casillas y El Cabo forjan nuevas alianzas para ir a la guerra",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 6,
-          "titulo": "El imperio Casillas se viene abajo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 7,
-          "titulo": "El Cabo se lo buscó y Casillas reparte plomo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 8,
-          "titulo": "Corina prueba su lealtad a Casillas y cumple con su oferta",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 9,
-          "titulo": "La cena está servida para Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 10,
-          "titulo": "Todos los poderes en contra de Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 11,
-          "titulo": "Casillas emprende la conquista de un nuevo territorio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 12,
-          "titulo": "Quezada destrona a El Cabo y estalla la guerra entre los colombianos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 13,
-          "titulo": "La ambición de Ámbar arrastra a Casillas al infierno turco",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 14,
-          "titulo": "Ámbar conoce el lado siniestro del Señor de Los Cielos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 15,
-          "titulo": "La huida misteriosa de Ámbar molesta a Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 16,
-          "titulo": "Ámbar sorprende a Casillas con un detonador nuclear",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 17,
-          "titulo": "Casillas y Maldonado se mueven por placer",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 18,
-          "titulo": "La extraña muerte de Quezada acorrala a Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 19,
-          "titulo": "Sueltan la sopa o Casillas mata a los rebeldes",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 20,
-          "titulo": "La DEA está tras la pista de El Cabo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 21,
-          "titulo": "Casillas llega a Cuba a enfrentar a Raúl Castro",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 22,
-          "titulo": "Casillas provoca al diablo en Cuba",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 23,
-          "titulo": "El Cabo se enamora a primera vista",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 24,
-          "titulo": "Casillas descubre las maléficas maniobras de El Cabo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 25,
-          "titulo": "Rutila se entera que Súper Javi está vivo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 26,
-          "titulo": "Rutila se reencuentra con Súper Javi",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 27,
-          "titulo": "El Cabo marca terreno y se apodera de Ciudad de México",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 28,
-          "titulo": "Rutila seduce a Súper Javi para refrescar su memoria",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 29,
-          "titulo": "Casillas mueve su ficha del cuarto poder",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 30,
-          "titulo": "El Cabo es mejor amigo que enemigo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 31,
-          "titulo": "Casillas se burla de la Revolución cubana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 32,
-          "titulo": "Súper Javi y Rutila se exponen con la guerrilla",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 33,
-          "titulo": "Casillas evalúa a los presidenciables a su manera",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 34,
-          "titulo": "Casillas ve una salida en legalizar las drogas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 35,
-          "titulo": "Casillas exige a Ámbar que se entregue a la DEA",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 36,
-          "titulo": "Rutila enfurece con Súper Javi",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 37,
-          "titulo": "Casillas rapta a otro candidato presidencial",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 38,
-          "titulo": "Casillas manda y las mujeres obedecen",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 39,
-          "titulo": "Ámbar y Corina se enfrentan como leonas en celo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 40,
-          "titulo": "Estalla la guerra entre El Cabo y Diana Ahumada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 41,
-          "titulo": "Diana desafía a El Cabo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 42,
-          "titulo": "Diana tiene a El Cabo en la mira",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 43,
-          "titulo": "Ámbar activa el plan y negocia con la DEA",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 44,
-          "titulo": "El Cabo se desquita con Diana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 45,
-          "titulo": "La DEA va detrás de Casillas y de Águila Azul",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 46,
-          "titulo": "El Rojo se une a los Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 47,
-          "titulo": "Casillas le pone el ojo a la mujer de El Cabo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 48,
-          "titulo": "El Cabo está listo para aniquilar a Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 49,
-          "titulo": "Diana revela a su familia que trafica cocaína",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 50,
-          "titulo": "Casillas decide acabar con el presidente",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 51,
-          "titulo": "Casillas mata en las narices del presidente",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 52,
-          "titulo": "Casillas y El Cabo se baten a duelo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 53,
-          "titulo": "El Cabo le da un balazo en la cabeza a Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 54,
-          "titulo": "Aurelio lucha entre la vida y la muerte",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 55,
-          "titulo": "Águila Azul revela su identidad y mata otra vez",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 56,
-          "titulo": "Intensifican la búsqueda detrás de Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 57,
-          "titulo": "Águila Azul y Corina van al refugio de Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 58,
-          "titulo": "Corina oye que Aurelio y Amado son hermanos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 59,
-          "titulo": "El Cabo ataca la guarida de Casillas y enfrenta a Águila Azul",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 60,
-          "titulo": "Secuestran a Diana Ahumada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 61,
-          "titulo": "Evelina sospecha que El Cabo mató a su padre",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 62,
-          "titulo": "Salvar a Casillas es una misión contra reloj",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 63,
-          "titulo": "Diana pelea a golpes con su secuestrador",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 64,
-          "titulo": "Águila Azul rescata a Diana Ahumada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 65,
-          "titulo": "A Diana le atrae Águila Azul",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 66,
-          "titulo": "El Cabo provoca un atentado contra El Chivo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 67,
-          "titulo": "Rutila sufre porque a Javi lo atrapan",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 68,
-          "titulo": "Amado Casillas le declara la guerra a El Cabo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 69,
-          "titulo": "Diana y El Cabo se amenazan de muerte",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 70,
-          "titulo": "El presidente denuncia que Casillas mató al Chivo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 71,
-          "titulo": "Diana y Amado se besan por primera vez",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 72,
-          "titulo": "Amado saca de prisión a Súper Javi y al Rojo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 73,
-          "titulo": "Sospechan que Ámbar es una traidora",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 74,
-          "titulo": "Diana y Amado viven  una noche de pasión",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 75,
-          "titulo": "La madre de Diana amenaza con detenerla",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 76,
-          "titulo": "Diana destapa su botín millonario",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 77,
-          "titulo": "La DEA ofrece recompensa por Casillas y El Cabo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 78,
-          "titulo": "El hijo mayor de El Chema sorprende a los Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 79,
-          "titulo": "Amado le tiende una emboscada al Cabo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 80,
-          "titulo": "El Rojo debe elegir entre Casillas y El Chema",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 81,
-          "titulo": "El Chema va por su hijo al Distrito Federal",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 82,
-          "titulo": "Amado consigue el nuevo escondite para Aurelio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 83,
-          "titulo": "El Chema se lleva a Corina a la fuerza",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 84,
-          "titulo": "Diana y Amado viven un reencuentro apasionado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 85,
-          "titulo": "Aurelio reacciona del coma",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 86,
-          "titulo": "Amado tiene pistas del atentado a EE.UU",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 87,
-          "titulo": "El Cabo condiciona su ayuda al presidente",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 88,
-          "titulo": "Amado evita el ataque terrorista a EE.UU",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 89,
-          "titulo": "La Doña y Amado aliados contra el enemigo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 90,
-          "titulo": "Diana muere de celos con La Doña",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 91,
-          "titulo": "La Doña besa a Amado como en el pasado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 92,
-          "titulo": "Amado y Ojeda se baten a duelo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 93,
-          "titulo": "El Chema confiesa que sigue enamorado de Rutila",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 94,
-          "titulo": "Diana y Amado contraatacan a los colombianos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 95,
-          "titulo": "La Doña cierra un trato con los Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 96,
-          "titulo": "Javi y los Casillas molestos con Rutila",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 97,
-          "titulo": "El Cabo debe salir de México vivo o muerto",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 98,
-          "titulo": "Castillo arresta al presidente Terán",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 99,
-          "titulo": "Amado se entrega a las autoridades",
-          "url": "",
-          "servidores": []
-        }
-      ]
-    },
-    "temp_7": {
-      "numero": 7,
-      "titulo": "Temporada 7",
-      "fecha_extraccion": "2026-09-24T21:01:50.058Z",
-      "total_capitulos": 75,
-      "capitulos": [
-        {
-          "numero": 1,
-          "titulo": "Nace una leyenda",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 2,
-          "titulo": "Amor y guerra",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 3,
-          "titulo": "La liberación",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 4,
-          "titulo": "La sombra del pasado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 5,
-          "titulo": "Negocios en Grecia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 6,
-          "titulo": "El cartel de Los Balcanes",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 7,
-          "titulo": "Los Casillas de luto",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 8,
-          "titulo": "Nace el cartel Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 9,
-          "titulo": "La noticia bomba",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 10,
-          "titulo": "Un tesoro en el fondo del mar",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 11,
-          "titulo": "Desacuerdo peligroso",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 12,
-          "titulo": "Los Casillas en alerta",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 13,
-          "titulo": "El Chema contra la DEA",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 14,
-          "titulo": "Un regalo mortífero",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 15,
-          "titulo": "Un mensaje de Los Balcanes",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 16,
-          "titulo": "Ojo por ojo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 17,
-          "titulo": "Hija de tigre pintita",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 18,
-          "titulo": "Los Casillas no perdonan",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 19,
-          "titulo": "La caricia de la serpiente",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 20,
-          "titulo": "Los Balcanes en México",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 21,
-          "titulo": "Peligrosa alianza",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 22,
-          "titulo": "Caen las máscaras",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 23,
-          "titulo": "El Chema contra Amado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 24,
-          "titulo": "Con el diablo no se juega",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 25,
-          "titulo": "El arte de la guerra",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 26,
-          "titulo": "La DEA detras de El Chema",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 27,
-          "titulo": "Provocación directa",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 28,
-          "titulo": "Con el enemigo en la mira",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 29,
-          "titulo": "La venganza de Pio Valdivia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 30,
-          "titulo": "Cara a cara",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 31,
-          "titulo": "La muerte acecha",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 32,
-          "titulo": "La furia de Diana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 33,
-          "titulo": "El indetenible Pio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 34,
-          "titulo": "Nuevas reglas del juego",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 35,
-          "titulo": "Empieza la cacería del Chema",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 36,
-          "titulo": "Venegas acorralado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 37,
-          "titulo": "Unos ganan y otros pierden",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 38,
-          "titulo": "Una enemiga poderosa",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 39,
-          "titulo": "Rebelión en familia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 40,
-          "titulo": "La revancha",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 41,
-          "titulo": "Una pista de La Coronela",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 42,
-          "titulo": "Una fuerte lección",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 43,
-          "titulo": "La ocacion perfecta",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 44,
-          "titulo": "Masacre en la condesa",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 45,
-          "titulo": "Rey muerto, rey puesto",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 46,
-          "titulo": "Los siguientes en la lista",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 47,
-          "titulo": "Fiesta de narcos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 48,
-          "titulo": "Muerte o carcel",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 49,
-          "titulo": "Lucha contra el narco",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 50,
-          "titulo": "Los tienen bien puestos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 51,
-          "titulo": "Con los Casillas nadie se mete",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 52,
-          "titulo": "Vivo o muerto",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 53,
-          "titulo": "La suerte de Evelina",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 54,
-          "titulo": "Terror y melancolia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 55,
-          "titulo": "Los Casillas al asecho",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 56,
-          "titulo": "Amenazas y alianzas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 57,
-          "titulo": "Demencia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 58,
-          "titulo": "Víctima de abuso",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 59,
-          "titulo": "Dalila en la mira",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 60,
-          "titulo": "Prueba de fuego",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 61,
-          "titulo": "Plan estrategia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 62,
-          "titulo": "Amor o prueba",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 63,
-          "titulo": "Junta de enemigos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 64,
-          "titulo": "Traición entre socios",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 65,
-          "titulo": "Lluvia de fuego",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 66,
-          "titulo": "Nadie perdona a nadie",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 67,
-          "titulo": "Contraataque mortal",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 68,
-          "titulo": "Sin piedad",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 69,
-          "titulo": "La dura verdad",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 70,
-          "titulo": "Las estrategias de los Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 71,
-          "titulo": "Al ataque",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 72,
-          "titulo": "Cinco minutos para salir",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 73,
-          "titulo": "Acorralado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 74,
-          "titulo": "El dolor de los Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 75,
-          "titulo": "Ver la muerte",
-          "url": "",
-          "servidores": []
-        }
-      ]
-    },
-    "temp_8": {
-      "numero": 8,
-      "titulo": "Temporada 8",
-      "fecha_extraccion": "2026-09-24T21:01:50.363Z",
-      "total_capitulos": 88,
-      "capitulos": [
-        {
-          "numero": 1,
-          "titulo": "Resurrección",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 2,
-          "titulo": "Por compasión",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 3,
-          "titulo": "Debilidades",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 4,
-          "titulo": "El tiempo se agota",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 5,
-          "titulo": "Muerte en el funeral",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 6,
-          "titulo": "Tragedia familiar",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 7,
-          "titulo": "Desde ultratumba",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 8,
-          "titulo": "Sobrenatural",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 9,
-          "titulo": "Código Lázaro",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 10,
-          "titulo": "La leyenda que camina",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 11,
-          "titulo": "Doble agente",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 12,
-          "titulo": "Caras vemos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 13,
-          "titulo": "La mejor defensa es el ataque",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 14,
-          "titulo": "Borrar el pasado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 15,
-          "titulo": "Por la familia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 16,
-          "titulo": "¿Mujer decente o traficante?",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 17,
-          "titulo": "No te equivoques",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 18,
-          "titulo": "Yo Soy el Señor de los Cielos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 19,
-          "titulo": "Sed de venganza",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 20,
-          "titulo": "Territorio ajeno",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 21,
-          "titulo": "Ni una bala más",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 22,
-          "titulo": "Deber de padre",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 23,
-          "titulo": "No le entro",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 24,
-          "titulo": "Todopoderoso",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 25,
-          "titulo": "Peligro inminente",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 26,
-          "titulo": "El rastro",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 27,
-          "titulo": "Amor en llamas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 28,
-          "titulo": "Esto no es para mí",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 29,
-          "titulo": "Tú propones, yo dispongo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 30,
-          "titulo": "La Jugada Perfecta",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 31,
-          "titulo": "Lo vas a pagar con sangre",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 32,
-          "titulo": "Soberana esencia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 33,
-          "titulo": "Sexto sentido",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 34,
-          "titulo": "Dormir con el enemigo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 35,
-          "titulo": "Por la boca muere el pez",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 36,
-          "titulo": "Viejas conocidas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 37,
-          "titulo": "Consejos maternales",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 38,
-          "titulo": "La despedida",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 39,
-          "titulo": "Cubrir necesidades",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 40,
-          "titulo": "Cambio de planes",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 41,
-          "titulo": "Contra reloj",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 42,
-          "titulo": "No te vayas Corina",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 43,
-          "titulo": "Emergencia en el aire",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 44,
-          "titulo": "Aprender a volar",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 45,
-          "titulo": "Más que un deseo, una realidad",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 46,
-          "titulo": "Silencio a cualquier precio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 47,
-          "titulo": "Amor sin fronteras",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 48,
-          "titulo": "El punto débil de Casillas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 49,
-          "titulo": "Lejos de la realidad",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 50,
-          "titulo": "Propuesta en el paraiso",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 51,
-          "titulo": "Esta es la vida Real",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 52,
-          "titulo": "Instinto asesino",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 53,
-          "titulo": "Aurelio sale a cazar",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 54,
-          "titulo": "Todo apunta a Ismael",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 55,
-          "titulo": "Presión al más alto nivel",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 56,
-          "titulo": "Seré tu protector",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 57,
-          "titulo": "Ajuste de cuentas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 58,
-          "titulo": "Infiltrado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 59,
-          "titulo": "La venganza de Super Javi",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 60,
-          "titulo": "A mí no me engañas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 61,
-          "titulo": "Doble cara",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 62,
-          "titulo": "Cabos sueltos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 63,
-          "titulo": "Una nueva ilusión",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 64,
-          "titulo": "A mí manera",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 65,
-          "titulo": "Javi alboroto el avispero",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 66,
-          "titulo": "Visita sorpresa en Miraflores",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 67,
-          "titulo": "Dónde manda capitan",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 68,
-          "titulo": "Urge el silencio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 69,
-          "titulo": "Con el último aliento",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 70,
-          "titulo": "La elegida",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 71,
-          "titulo": "El milagrito",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 72,
-          "titulo": "La sangre llama",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 73,
-          "titulo": "Sube y baja el telón",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 74,
-          "titulo": "Enemigo compartido",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 75,
-          "titulo": "Refuerzos para Tijuana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 76,
-          "titulo": "Viviré en tus sueños",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 77,
-          "titulo": "Complices a la fuerza",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 78,
-          "titulo": "Nada es imposible",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 79,
-          "titulo": "Fuera de control",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 80,
-          "titulo": "La mejor carnada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 81,
-          "titulo": "La trampa",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 82,
-          "titulo": "Ojos por todos lados",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 83,
-          "titulo": "La fiera que hay en ti",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 84,
-          "titulo": "Una mentira tras otra",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 85,
-          "titulo": "En bandeja de plata",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 86,
-          "titulo": "Interceptada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 87,
-          "titulo": "El titere de Zambrana",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 88,
-          "titulo": "Batalla frontal",
-          "url": "",
-          "servidores": []
-        }
-      ]
-    },
-    "temp_9": {
-      "numero": 9,
-      "titulo": "Temporada 9",
-      "fecha_extraccion": "2026-09-24T21:01:50.640Z",
-      "total_capitulos": 94,
-      "capitulos": [
-        {
-          "numero": 1,
-          "titulo": "La Bestia despierta",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 2,
-          "titulo": "Aquí mando yo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 3,
-          "titulo": "Eterno enemigo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 4,
-          "titulo": "Ilusiones perdidas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 5,
-          "titulo": "Geografía de una traición",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 6,
-          "titulo": "Padre no entierra hijos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 7,
-          "titulo": "La ambición tiene cara de mujer",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 8,
-          "titulo": "Palabra de hombre",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 9,
-          "titulo": "Señor de los infiernos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 10,
-          "titulo": "Después de una tempestad viene otra",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 11,
-          "titulo": "La guerra cambia de país",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 12,
-          "titulo": "Un mundo nuevo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 13,
-          "titulo": "Alba Marina",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 14,
-          "titulo": "De alianzas y venganzas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 15,
-          "titulo": "Una dulce enemiga",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 16,
-          "titulo": "El último latido",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 17,
-          "titulo": "El cuarto poder",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 18,
-          "titulo": "Aguas turbulentas",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 19,
-          "titulo": "Fuego por los cuatro costados",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 20,
-          "titulo": "Un secreto desesperado",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 21,
-          "titulo": "Ismael vuela alto",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 22,
-          "titulo": "Persecución implacable",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 23,
-          "titulo": "Unas de cal, otras de arena",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 24,
-          "titulo": "Por nuestros muertos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 25,
-          "titulo": "El sacrificio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 26,
-          "titulo": "Sangre con sangre se paga",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 27,
-          "titulo": "Desaparecida",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 28,
-          "titulo": "Caída y mesa limpia",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 29,
-          "titulo": "A la caza de La Felina",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 30,
-          "titulo": "Órdenes son órdenes",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 31,
-          "titulo": "Manzano busca salvar su pellejo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 32,
-          "titulo": "Jugada por un presidenciable",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 33,
-          "titulo": "El segundo Milagrito",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 34,
-          "titulo": "Una alianza entre enemigos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 35,
-          "titulo": "Huele raro",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 36,
-          "titulo": "Todo por Mecha",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 37,
-          "titulo": "La obsesión de Said",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 38,
-          "titulo": "Poderosas estrategias",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 39,
-          "titulo": "Con Dios y con el diablo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 40,
-          "titulo": "Al descubierto",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 41,
-          "titulo": "Una propuesta inesperada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 42,
-          "titulo": "Comparten el mismo hombre",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 43,
-          "titulo": "Said pierde la cabeza",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 44,
-          "titulo": "Al borde del suicidio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 45,
-          "titulo": "Belén traza una línea",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 46,
-          "titulo": "Llegó tu hora",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 47,
-          "titulo": "Entre la vida y la muerte",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 48,
-          "titulo": "Este demonio es tu padre",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 49,
-          "titulo": "Un amor prohibido",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 50,
-          "titulo": "El beso más amargo",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 51,
-          "titulo": "Presa de sus acciones",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 52,
-          "titulo": "Belén se lleva la peor parte",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 53,
-          "titulo": "Cobardía y sacrificios",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 54,
-          "titulo": "Almenar negocia por su hija",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 55,
-          "titulo": "Con el Diablo no se juega",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 56,
-          "titulo": "La suerte está echada",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 57,
-          "titulo": "Moneda de cambio",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 58,
-          "titulo": "El cuarto poder se desinfla",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 59,
-          "titulo": "Ojos en todos lados",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 60,
-          "titulo": "La primera dama",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 61,
-          "titulo": "Música para sus oídos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 62,
-          "titulo": "Hijo o rival",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 63,
-          "titulo": "El matasanos",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 64,
-          "titulo": "Episodio 64",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 65,
-          "titulo": "Episodio 65",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 66,
-          "titulo": "Episodio 66",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 67,
-          "titulo": "Episodio 67",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 68,
-          "titulo": "Episodio 68",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 69,
-          "titulo": "Episodio 69",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 70,
-          "titulo": "Episodio 70",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 71,
-          "titulo": "Episodio 71",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 72,
-          "titulo": "Episodio 72",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 73,
-          "titulo": "Episodio 73",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 74,
-          "titulo": "Episodio 74",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 75,
-          "titulo": "Episodio 75",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 76,
-          "titulo": "Episodio 76",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 77,
-          "titulo": "Episodio 77",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 78,
-          "titulo": "Episodio 78",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 79,
-          "titulo": "Episodio 79",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 80,
-          "titulo": "Episodio 80",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 81,
-          "titulo": "Episodio 81",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 82,
-          "titulo": "Episodio 82",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 83,
-          "titulo": "Episodio 83",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 84,
-          "titulo": "Episodio 84",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 85,
-          "titulo": "Episodio 85",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 86,
-          "titulo": "Episodio 86",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 87,
-          "titulo": "Episodio 87",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 88,
-          "titulo": "Episodio 88",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 89,
-          "titulo": "Episodio 89",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 90,
-          "titulo": "Episodio 90",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 91,
-          "titulo": "Episodio 91",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 92,
-          "titulo": "Episodio 92",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 93,
-          "titulo": "Episodio 93",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 94,
-          "titulo": "Episodio 94",
-          "url": "",
-          "servidores": []
-        }
-      ]
-    },
     "temp_10": {
       "numero": 10,
-      "titulo": "Temporada 10",
-      "fecha_extraccion": "2026-09-24T21:01:50.933Z",
-      "total_capitulos": 58,
+      "titulo": "El Senor De Los Cielos 10",
+      "fecha_extraccion": "2026-09-24T21:10:00.196Z",
+      "total_capitulos": 56,
+      "url": "https://ww2.ojearnovelas.com/tunovela/el-senor-de-los-cielos-10/",
       "capitulos": [
         {
           "numero": 1,
-          "titulo": "Episodio 1",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 1 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-1/",
+          "servidores": [
+            "https://luluvdo.com/e/od55n60khnm6",
+            "https://dooodster.com/e/5cj9ae4o5s9y",
+            "https://iplayerhls.com/e/3y155509qo4i"
+          ]
         },
         {
           "numero": 2,
-          "titulo": "Episodio 2",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 2 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-2/",
+          "servidores": [
+            "https://luluvdo.com/e/x9b955zdlhw3",
+            "https://dooodster.com/e/lq583yb6m98r",
+            "https://iplayerhls.com/e/k6j2gpevzfs8"
+          ]
         },
         {
           "numero": 3,
-          "titulo": "Episodio 3",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 3 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-3/",
+          "servidores": [
+            "https://iplayerhls.com/e/jm0cva73ip1a",
+            "https://dooodster.com/e/41jvn1vfcc1f",
+            "https://luluvdo.com/e/0rnwv281r5vq"
+          ]
         },
         {
           "numero": 4,
-          "titulo": "Episodio 4",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 4 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-4/",
+          "servidores": [
+            "https://iplayerhls.com/e/lhvfdf14pu5r",
+            "https://dooodster.com/e/5z0zd8q0igwa",
+            "https://luluvdo.com/e/0425u09r9485"
+          ]
         },
         {
           "numero": 5,
-          "titulo": "Episodio 5",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 5 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-5/",
+          "servidores": [
+            "https://iplayerhls.com/e/erwofmnbrb0m",
+            "https://dooodster.com/e/p07sgg0oapsl",
+            "https://luluvdo.com/e/g5lobwc1cj8r"
+          ]
         },
         {
           "numero": 6,
-          "titulo": "Episodio 6",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 6 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-6/",
+          "servidores": [
+            "https://iplayerhls.com/e/ep2ar8vu3bhs",
+            "https://dooodster.com/e/xexnbfsl4puw",
+            "https://luluvdo.com/e/71rb1231yoj0"
+          ]
         },
         {
           "numero": 7,
-          "titulo": "Episodio 7",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 7 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-7/",
+          "servidores": [
+            "https://dooodster.com/e/lefd1mxp1xym",
+            "https://iplayerhls.com/e/6ri7pum791zm",
+            "https://luluvdo.com/e/t4a58kk6smto"
+          ]
         },
         {
           "numero": 8,
-          "titulo": "Episodio 8",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 8 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-8/",
+          "servidores": [
+            "https://iplayerhls.com/e/2v8vs0h62c04",
+            "https://dooodster.com/e/ks7av8unpewx",
+            "https://luluvdo.com/e/8trkbtmt1d1q"
+          ]
         },
         {
           "numero": 9,
-          "titulo": "Episodio 9",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 9 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-9/",
+          "servidores": [
+            "https://iplayerhls.com/e/ljkz06guusln",
+            "https://dooodster.com/e/0n5cydc2geji",
+            "https://luluvdo.com/e/1e61ondadbw1"
+          ]
         },
         {
           "numero": 10,
-          "titulo": "Episodio 10",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 10 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-10/",
+          "servidores": [
+            "https://luluvdo.com/e/4e2dbbxe3947",
+            "https://dooodster.com/e/wvgbkd6jua74",
+            "https://iplayerhls.com/e/jly0f8fv9f9t"
+          ]
         },
         {
           "numero": 11,
-          "titulo": "Episodio 11",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 11 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-11/",
+          "servidores": [
+            "https://iplayerhls.com/e/udmtwuls6te9",
+            "https://dooodster.com/e/pkwck4ehp2m4",
+            "https://luluvdo.com/e/qw15zs1mxzva"
+          ]
         },
         {
           "numero": 12,
-          "titulo": "Episodio 12",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 12 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-12/",
+          "servidores": [
+            "https://iplayerhls.com/e/yn7o9gqmo2cx",
+            "https://dooodster.com/e/q8f5mftw36ax",
+            "https://luluvdo.com/e/62hwapy8wri1"
+          ]
         },
         {
           "numero": 13,
-          "titulo": "Episodio 13",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 13 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-13/",
+          "servidores": [
+            "https://iplayerhls.com/e/dq0zs5aazmjj",
+            "https://dooodster.com/e/su0kw9rkxkyc",
+            "https://luluvdo.com/e/0jnr9uko5bfh"
+          ]
         },
         {
           "numero": 14,
-          "titulo": "Episodio 14",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 14 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-14/",
+          "servidores": [
+            "https://iplayerhls.com/e/olx0y3ze4ahp",
+            "https://dooodster.com/e/n1925fai0boj",
+            "https://luluvdo.com/e/fq520xz4048q"
+          ]
         },
         {
           "numero": 15,
-          "titulo": "Episodio 15",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 15 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-15/",
+          "servidores": [
+            "https://luluvdo.com/e/ov75etcnbh48",
+            "https://dooodster.com/e/c5qanakkk237",
+            "https://iplayerhls.com/e/wix61iy9piss"
+          ]
         },
         {
           "numero": 16,
-          "titulo": "Episodio 16",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 16 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-16/",
+          "servidores": [
+            "https://iplayerhls.com/e/wvwgdc1c7083",
+            "https://dooodster.com/e/gv9ic06uircd",
+            "https://luluvdo.com/e/yvs9jt8vc483"
+          ]
         },
         {
           "numero": 17,
-          "titulo": "Episodio 17",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 17 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-17/",
+          "servidores": [
+            "https://iplayerhls.com/e/e1909xiva0of",
+            "https://dooodster.com/e/w6o5q54bexa2",
+            "https://luluvdo.com/e/txhg28v595f2"
+          ]
         },
         {
           "numero": 18,
-          "titulo": "Episodio 18",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 18 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-18/",
+          "servidores": [
+            "https://iplayerhls.com/e/lfyzj74p5fvg",
+            "https://dooodster.com/e/eg56hx3hs6lb",
+            "https://luluvdo.com/e/7r4ehjxq2ca1"
+          ]
         },
         {
           "numero": 19,
-          "titulo": "Episodio 19",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 19 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-19/",
+          "servidores": [
+            "https://iplayerhls.com/e/xc3a79mqdg4u",
+            "https://luluvdo.com/e/6svegydtjqpc"
+          ]
         },
         {
           "numero": 20,
-          "titulo": "Episodio 20",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 20 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-20/",
+          "servidores": [
+            "https://iplayerhls.com/e/9f6ojjtwb563",
+            "https://luluvdo.com/e/j5p9lv7bwciq"
+          ]
         },
         {
           "numero": 21,
-          "titulo": "Episodio 21",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 21 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-21/",
+          "servidores": [
+            "https://iplayerhls.com/e/wyg48nf6ccgc",
+            "https://dooodster.com/e/uwvudgb1y1ee",
+            "https://luluvdo.com/e/u56bfnxg5dz2"
+          ]
         },
         {
           "numero": 22,
-          "titulo": "Episodio 22",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 22 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-22/",
+          "servidores": [
+            "https://iplayerhls.com/e/98qnh2uw3p33",
+            "https://dooodster.com/e/f1ye8v6bp4zs",
+            "https://luluvdo.com/e/z6ul6if1ofmb"
+          ]
         },
         {
           "numero": 23,
-          "titulo": "Episodio 23",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 23 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-23/",
+          "servidores": [
+            "https://iplayerhls.com/e/swmbjapo58vd",
+            "https://dooodster.com/e/kbyn5xqx09b8",
+            "https://luluvdo.com/e/4q26vdn0clpw"
+          ]
         },
         {
           "numero": 24,
-          "titulo": "Episodio 24",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 24 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-24/",
+          "servidores": [
+            "https://luluvdo.com/e/dm34i2azw4dw",
+            "https://iplayerhls.com/e/2oi8sdsch5jp",
+            "https://dooodster.com/e/q2cl2dgy6jbs"
+          ]
         },
         {
           "numero": 25,
-          "titulo": "Episodio 25",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 25 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-25/",
+          "servidores": [
+            "https://iplayerhls.com/e/9m57do11gl2w",
+            "https://dooodster.com/e/yl8o14xzqcb2",
+            "https://luluvdo.com/e/l1y2tusai95h"
+          ]
         },
         {
           "numero": 26,
-          "titulo": "Episodio 26",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 26 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-26/",
+          "servidores": [
+            "https://iplayerhls.com/e/1n17tn4hzh6o",
+            "https://dooodster.com/e/vugsook806o3",
+            "https://luluvdo.com/e/9xsgmgvex0x4"
+          ]
         },
         {
           "numero": 27,
-          "titulo": "Episodio 27",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 27 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-27/",
+          "servidores": [
+            "https://iplayerhls.com/e/1xplxukgm9px",
+            "https://dooodster.com/e/khuq2mznxis6",
+            "https://luluvdo.com/e/t2tdzyxr39m5"
+          ]
         },
         {
           "numero": 28,
-          "titulo": "Episodio 28",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 28 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-28/",
+          "servidores": [
+            "https://iplayerhls.com/e/contuxvzguou",
+            "https://dooodster.com/e/i0sp9jhk45fh",
+            "https://luluvdo.com/e/yzwykwulgat4"
+          ]
         },
         {
           "numero": 29,
-          "titulo": "Episodio 29",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 29 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-29/",
+          "servidores": [
+            "https://iplayerhls.com/e/ssyu5mijs5on",
+            "https://dooodster.com/e/5t47jalwql7e",
+            "https://luluvdo.com/e/0qi4s9eaizd1"
+          ]
         },
         {
           "numero": 30,
-          "titulo": "Episodio 30",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 30 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-30/",
+          "servidores": [
+            "https://iplayerhls.com/e/rtg4nfb65bk9",
+            "https://luluvdo.com/e/kklk20dazli8"
+          ]
         },
         {
           "numero": 31,
-          "titulo": "Episodio 31",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 31 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-31/",
+          "servidores": [
+            "https://luluvdo.com/e/vsweat07emb7",
+            "https://iplayerhls.com/e/eraw2bz9sdjj"
+          ]
         },
         {
           "numero": 32,
-          "titulo": "Episodio 32",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 32 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-32/",
+          "servidores": [
+            "https://iplayerhls.com/e/myl988651wd5",
+            "https://dooodster.com/e/ln87w8vwy129",
+            "https://luluvdo.com/e/ahj83mumzs2l"
+          ]
         },
         {
           "numero": 33,
-          "titulo": "Episodio 33",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 33 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-33/",
+          "servidores": [
+            "https://iplayerhls.com/e/1e8akj4l37ip",
+            "https://dooodster.com/e/vwlmcbz54z9c",
+            "https://luluvdo.com/e/fpvxtkk95lew"
+          ]
         },
         {
           "numero": 34,
-          "titulo": "Episodio 34",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 34 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-34/",
+          "servidores": [
+            "https://iplayerhls.com/e/3jgjikagcpbx",
+            "https://dooodster.com/e/92rnhxv1ychf",
+            "https://luluvdo.com/e/llc2gww9ijjg"
+          ]
         },
         {
           "numero": 35,
-          "titulo": "Episodio 35",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 35 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-35/",
+          "servidores": [
+            "https://iplayerhls.com/e/r3gzp5qepa9p",
+            "https://luluvdo.com/e/o689rmq582jq"
+          ]
         },
         {
           "numero": 36,
-          "titulo": "Episodio 36",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 36 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-36/",
+          "servidores": [
+            "https://iplayerhls.com/e/x0rn8nt4yfrs",
+            "https://dooodster.com/e/uaks2pxh7jfj",
+            "https://luluvdo.com/e/jw86sla3g8ii"
+          ]
         },
         {
           "numero": 37,
-          "titulo": "Episodio 37",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 37 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-37/",
+          "servidores": [
+            "https://dooodster.com/e/34rd91d6j02n",
+            "https://luluvdo.com/e/9k9f6vgnnxg4"
+          ]
         },
         {
           "numero": 38,
-          "titulo": "Episodio 38",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 38 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-38/",
+          "servidores": [
+            "https://iplayerhls.com/e/zez3e98yvhba",
+            "https://dooodster.com/e/6bepqiy4n21j",
+            "https://luluvdo.com/e/eycapbgth4fn"
+          ]
         },
         {
           "numero": 39,
-          "titulo": "Episodio 39",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 39 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-39/",
+          "servidores": [
+            "https://iplayerhls.com/e/nd714rdu07pk",
+            "https://dooodster.com/e/o86zgfxgdjsc",
+            "https://luluvdo.com/e/3ggaq74d0mnf"
+          ]
         },
         {
           "numero": 40,
-          "titulo": "Episodio 40",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 40 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-40/",
+          "servidores": [
+            "https://iplayerhls.com/e/5po332vx5zqd",
+            "https://dooodster.com/e/cm3l0sptjyjx",
+            "https://luluvdo.com/e/nlzxbhxuz5kg"
+          ]
         },
         {
           "numero": 41,
-          "titulo": "Episodio 41",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 41 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-41/",
+          "servidores": [
+            "https://iplayerhls.com/e/v5vbxgit787e",
+            "https://dooodster.com/e/woui20456wvd",
+            "https://luluvdo.com/e/oebt7gp0e1a1"
+          ]
         },
         {
           "numero": 42,
-          "titulo": "Episodio 42",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 42 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-42/",
+          "servidores": [
+            "https://iplayerhls.com/e/fnukegzbqp1u",
+            "https://dooodster.com/e/btcssb72p22l",
+            "https://luluvdo.com/e/9j3bxk4j9arg"
+          ]
         },
         {
           "numero": 43,
-          "titulo": "Tiempo de Venganza",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 43 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-43/",
+          "servidores": [
+            "https://iplayerhls.com/e/yrtx7jzvzeir",
+            "https://dooodster.com/e/i99bwwg7d4vn",
+            "https://luluvdo.com/e/5y2ye5n7dlr9"
+          ]
         },
         {
           "numero": 44,
-          "titulo": "Episodio 44",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 44 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-44/",
+          "servidores": [
+            "https://iplayerhls.com/e/w041eyc7slqf",
+            "https://dooodster.com/e/z29xsnll1un5",
+            "https://luluvdo.com/e/d89dvkhhya24"
+          ]
         },
         {
           "numero": 45,
-          "titulo": "Episodio 45",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 45 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-45/",
+          "servidores": [
+            "https://iplayerhls.com/e/v5naqyi37khk",
+            "https://dooodster.com/e/40cyxlp2ff1o",
+            "https://luluvdo.com/e/y479fo3cn5wc"
+          ]
         },
         {
           "numero": 46,
-          "titulo": "Episodio 46",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 46 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-46/",
+          "servidores": [
+            "https://iplayerhls.com/e/pz6nnh9bn6vv",
+            "https://dooodster.com/e/i4u4syucxuia",
+            "https://luluvdo.com/e/fxwg5ife3it1"
+          ]
         },
         {
           "numero": 47,
-          "titulo": "Episodio 47",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 47 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-47/",
+          "servidores": [
+            "https://iplayerhls.com/e/rlt3ppt347zb",
+            "https://dooodster.com/e/tcrkflorhz4p",
+            "https://luluvdo.com/e/ecvo1p90gdr6"
+          ]
         },
         {
           "numero": 48,
-          "titulo": "El Tablero Cambia",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 48 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-48/",
+          "servidores": [
+            "https://iplayerhls.com/e/f5vgy3xpdl2x",
+            "https://luluvdo.com/e/u2deaqje055h"
+          ]
         },
         {
           "numero": 49,
-          "titulo": "Episodio 49",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 49 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-49/",
+          "servidores": [
+            "https://iplayerhls.com/e/7v4487doojs8",
+            "https://dooodster.com/e/1b3lfzk876h8",
+            "https://luluvdo.com/e/q9eflbimswn0"
+          ]
         },
         {
           "numero": 50,
-          "titulo": "Episodio 50",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 50 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-50/",
+          "servidores": [
+            "https://iplayerhls.com/e/f1o0k36lc0ze",
+            "https://dooodster.com/e/0sdzayjvy60u",
+            "https://luluvdo.com/e/44usd2wsqoln"
+          ]
         },
         {
           "numero": 51,
-          "titulo": "Episodio 51",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 51 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-51/",
+          "servidores": [
+            "https://iplayerhls.com/e/q88y8ydjxlf9",
+            "https://dooodster.com/e/g8x8zhlbgtl1",
+            "https://luluvdo.com/e/g8poc6jf4gt9"
+          ]
         },
         {
           "numero": 52,
-          "titulo": "Episodio 52",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 52 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-52/",
+          "servidores": [
+            "https://iplayerhls.com/e/tlw3z879deqm",
+            "https://dooodster.com/e/xanbx4r5vshq",
+            "https://luluvdo.com/e/q7bt8l9zdpts"
+          ]
         },
         {
           "numero": 53,
-          "titulo": "Episodio 53",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 53 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-53/",
+          "servidores": [
+            "https://iplayerhls.com/e/xe4057npwsrg",
+            "https://dooodster.com/e/4ooy1x7dxizo",
+            "https://luluvdo.com/e/2zy9wq9apdzd"
+          ]
         },
         {
           "numero": 54,
-          "titulo": "Episodio 54",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 54 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-54/",
+          "servidores": [
+            "https://dooodster.com/e/svds8zuwp6b2",
+            "https://luluvdo.com/e/oe17yfxoordf"
+          ]
         },
         {
           "numero": 55,
-          "titulo": "Episodio 55",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 55 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-55/",
+          "servidores": [
+            "https://iplayerhls.com/e/llly05o4lrqc",
+            "https://dooodster.com/e/blb6wyspbht8",
+            "https://luluvdo.com/e/insuvhs8gnkx"
+          ]
         },
         {
           "numero": 56,
-          "titulo": "Episodio 56",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 57,
-          "titulo": "Episodio 57",
-          "url": "",
-          "servidores": []
-        },
-        {
-          "numero": 58,
-          "titulo": "Episodio 58",
-          "url": "",
-          "servidores": []
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 56 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-56/",
+          "servidores": [
+            "https://iplayerhls.com/e/klagmhtpabz2",
+            "https://dooodster.com/e/auvd8q44xm9b",
+            "https://luluvdo.com/e/hqazb791sj3b"
+          ]
         }
       ]
     }
   },
-  "total_temporadas": 10,
-  "total_capitulos": 851,
-  "fecha_creacion": "2026-09-24T21:01:51.133Z",
-  "fecha_actualizacion": "2026-09-24T21:01:51.133Z"
+  "total_temporadas": 1,
+  "total_capitulos": 56
 }
