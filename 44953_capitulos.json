@@ -1,4 +1,5 @@
 {
+  "fecha_actualizacion": "2026-09-27T20:42:20.572Z",
   "novela": "El Senor De Los Cielos",
   "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
   "temporadas": {
@@ -540,7 +541,7 @@
           "servidores": [
             "https://iplayerhls.com/e/llly05o4lrqc",
             "https://dooodster.com/e/blb6wyspbht8",
-            "https://luluvdo.com/e/insuvhs8gnkx"
+            "https://playmogo.com/e/mvi2ehjyb5wk"
           ],
           "titulo": "El Señor De Los Cielos 10 | Capítulo 55 | Ver Completo",
           "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-55/"
@@ -585,6 +586,5 @@
   },
   "tmdb_id": 44953,
   "total_capitulos": 58,
-  "total_temporadas": 1,
-  "fecha_actualizacion": "2026-09-27T20:40:25.463Z"
+  "total_temporadas": 1
 }
