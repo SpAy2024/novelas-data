@@ -32,8 +32,8 @@
     "temp_1": {
       "numero": 1,
       "titulo": "El Secreto",
-      "fecha_extraccion": "2026-09-22T15:13:30.588Z",
-      "total_capitulos": 4,
+      "fecha_extraccion": "2026-09-29T18:25:44.843Z",
+      "total_capitulos": 5,
       "url": "https://ww2.ojearnovelas.com/tunovela/el-secreto/",
       "capitulos": [
         {
@@ -73,11 +73,21 @@
             "https://dooodster.com/e/uhpxhtmsbxj9",
             "https://luluvdo.com/e/yxsmzpvrtsr2"
           ]
+        },
+        {
+          "numero": 5,
+          "titulo": "El Secreto | Capítulo 5 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-secreto-capitulo-5/",
+          "servidores": [
+            "https://iplayerhls.com/e/qobbg6r8hzxl",
+            "https://dooodster.com/e/dg5x47wq7jc8",
+            "https://luluvdo.com/e/9dxc5y3w8x14"
+          ]
         }
       ]
     }
   },
   "tmdb_id": 300388,
-  "total_capitulos": 6,
+  "total_capitulos": 7,
   "total_temporadas": 2
 }
