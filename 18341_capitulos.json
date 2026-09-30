@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-30T20:55:35.098Z",
+  "fecha_actualizacion": "2026-09-30T20:56:41.525Z",
   "fecha_creacion": "2026-09-30T16:43:47.606Z",
   "novela": "Sortilegio",
   "poster": "https://image.tmdb.org/t/p/w500/ZbasUYGZxdjJ4LuiDOTHDrmFEo.jpg",
@@ -71,17 +71,21 @@
         },
         {
           "numero": 8,
-          "titulo": "Episodio 8",
-          "url": "",
           "servidores": [
             "https://playmogo.com/e/u78frpkpg7zk",
             "https://vidmoly.me/v/co0e2vhpq86m"
-          ]
+          ],
+          "titulo": "Episodio 8",
+          "url": ""
         },
         {
           "numero": 9,
           "titulo": "Episodio 9",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://playmogo.com/e/7b4ej0iugjpx",
+            "https://vidmoly.me/v/6nq02odqvf1t"
+          ]
         },
         {
           "numero": 10,
