@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-30T20:48:05.025Z",
+  "fecha_actualizacion": "2026-09-30T20:51:10.692Z",
   "fecha_creacion": "2026-09-30T16:43:47.606Z",
   "novela": "Sortilegio",
   "poster": "https://image.tmdb.org/t/p/w500/ZbasUYGZxdjJ4LuiDOTHDrmFEo.jpg",
@@ -35,17 +35,21 @@
         },
         {
           "numero": 4,
-          "titulo": "Episodio 4",
-          "url": "",
           "servidores": [
             "https://playmogo.com/d/7z0elxmq5mck",
             "https://vidmoly.me/v/va50vb1iu49r"
-          ]
+          ],
+          "titulo": "Episodio 4",
+          "url": ""
         },
         {
           "numero": 5,
           "titulo": "Episodio 5",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://playmogo.com/e/p1us9kaab20p",
+            "https://vidmoly.me/v/mtp81ecdcbxo"
+          ]
         },
         {
           "numero": 6,
