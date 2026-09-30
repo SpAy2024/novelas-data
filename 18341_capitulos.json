@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-30T16:51:20.416Z",
+  "fecha_actualizacion": "2026-09-30T16:53:45.279Z",
   "fecha_creacion": "2026-09-30T16:43:47.606Z",
   "novela": "Sortilegio",
   "poster": "https://image.tmdb.org/t/p/w500/ZbasUYGZxdjJ4LuiDOTHDrmFEo.jpg",
@@ -18,7 +18,8 @@
         {
           "numero": 2,
           "servidores": [
-            "https://playmogo.com/e/m5mrgldrgb00"
+            "https://playmogo.com/e/m5mrgldrgb00",
+            "https://vidmoly.me/v/cy65yyd0j1wx"
           ],
           "titulo": "Episodio 2",
           "url": ""
