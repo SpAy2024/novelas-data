@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-09-30T16:28:38.787Z",
+  "fecha_actualizacion": "2026-09-30T16:40:29.970Z",
   "novela": "Sortilegio",
   "poster": "https://image.tmdb.org/t/p/w500/ZbasUYGZxdjJ4LuiDOTHDrmFEo.jpg",
   "temporadas": {
@@ -465,11 +465,11 @@
         },
         {
           "numero": 2,
-          "titulo": "Sortilegio | Capítulo 90 | Ver Completo",
-          "url": "https://ww2.ojearnovelas.com/ojea/sortilegio-capitulo-90/",
           "servidores": [
             "https://playmogo.com/e/pr1p7zw3tk13"
-          ]
+          ],
+          "titulo": "Sortilegio | Capítulo 90 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/sortilegio-capitulo-90/"
         }
       ],
       "fecha_extraccion": "2026-09-30T16:23:47.574Z",
