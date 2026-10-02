@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-10-02T22:25:30.084Z",
+  "fecha_actualizacion": "2026-10-02T22:26:36.068Z",
   "fecha_creacion": "2026-10-02T22:16:05.307Z",
   "novela": "Por amarte así",
   "poster": "https://image.tmdb.org/t/p/w500/2RFtNWGBRqGHcy6mxO2MKj4ePA5.jpg",
@@ -16,16 +16,19 @@
         },
         {
           "numero": 2,
-          "titulo": "Episodio 2",
-          "url": "",
           "servidores": [
             "https://vidmoly.me/v/1q018p9gtz4m"
-          ]
+          ],
+          "titulo": "Episodio 2",
+          "url": ""
         },
         {
           "numero": 3,
           "titulo": "Episodio 3",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://vidmoly.me/v/mraj1eafy93k"
+          ]
         },
         {
           "numero": 4,
