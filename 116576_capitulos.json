@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-10-02T22:41:34.749Z",
+  "fecha_actualizacion": "2026-10-02T22:42:20.596Z",
   "fecha_creacion": "2026-10-02T22:16:05.307Z",
   "novela": "Por amarte así",
   "poster": "https://image.tmdb.org/t/p/w500/2RFtNWGBRqGHcy6mxO2MKj4ePA5.jpg",
@@ -27,7 +27,8 @@
         {
           "numero": 3,
           "servidores": [
-            "https://vidmoly.me/v/mraj1eafy93k"
+            "https://vidmoly.me/v/mraj1eafy93k",
+            "https://playmogo.com/e/ojiymrbwjnhn"
           ],
           "titulo": "Episodio 3",
           "url": ""
