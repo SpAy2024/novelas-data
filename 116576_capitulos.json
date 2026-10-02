@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-10-02T22:46:56.858Z",
+  "fecha_actualizacion": "2026-10-02T22:48:03.374Z",
   "fecha_creacion": "2026-10-02T22:16:05.307Z",
   "novela": "Por amarte así",
   "poster": "https://image.tmdb.org/t/p/w500/2RFtNWGBRqGHcy6mxO2MKj4ePA5.jpg",
@@ -62,17 +62,21 @@
         },
         {
           "numero": 7,
-          "titulo": "Episodio 7",
-          "url": "",
           "servidores": [
             "https://vidmoly.me/v/6cq2ji3v5iqx",
             "https://playmogo.com/e/qlzp8n0x9wr3"
-          ]
+          ],
+          "titulo": "Episodio 7",
+          "url": ""
         },
         {
           "numero": 8,
           "titulo": "Episodio 8",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://vidmoly.me/v/us8kcgr7kxcf",
+            "https://playmogo.com/e/khcigelvp64s"
+          ]
         },
         {
           "numero": 9,
