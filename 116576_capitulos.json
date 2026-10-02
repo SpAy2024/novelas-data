@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-10-02T22:43:10.894Z",
+  "fecha_actualizacion": "2026-10-02T22:44:11.844Z",
   "fecha_creacion": "2026-10-02T22:16:05.307Z",
   "novela": "Por amarte así",
   "poster": "https://image.tmdb.org/t/p/w500/2RFtNWGBRqGHcy6mxO2MKj4ePA5.jpg",
@@ -45,7 +45,11 @@
         {
           "numero": 5,
           "titulo": "Episodio 5",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://vidmoly.me/v/nikqb1g42w0h",
+            "https://playmogo.com/e/xm103s7rzyr0"
+          ]
         },
         {
           "numero": 6,
