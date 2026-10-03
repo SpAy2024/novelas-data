@@ -1,13 +1,12 @@
 {
   "novela": "Arafta Atados Por El Destino",
-  "tmdb_id": 306118,
   "poster": "https://image.tmdb.org/t/p/w500/4yYZoYgeNshoS2aODwUvCXIa8yn.jpg",
   "temporadas": {
     "temp_2": {
       "numero": 2,
       "titulo": "Arafta Atados Por El Destino 2",
-      "fecha_extraccion": "2026-10-02T19:01:48.486Z",
-      "total_capitulos": 18,
+      "fecha_extraccion": "2026-10-03T15:15:54.679Z",
+      "total_capitulos": 19,
       "url": "https://ww2.ojearnovelas.com/tunovela/arafta-atados-por-el-destino-2/",
       "capitulos": [
         {
@@ -188,10 +187,21 @@
             "https://dooodster.com/e/5lwsicdb6f24",
             "https://luluvdo.com/e/9y6bnlzp6eln"
           ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Arafta (Atados por el Destino) 2 | Capítulo 19 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/arafta-atados-por-el-destino-2-capitulo-19/",
+          "servidores": [
+            "https://iplayerhls.com/e/cvoblcik20z6",
+            "https://dooodster.com/e/mfuyqqyh4jaq",
+            "https://luluvdo.com/e/fnqcn7fxsvy6"
+          ]
         }
       ]
     }
   },
-  "total_temporadas": 1,
-  "total_capitulos": 18
+  "tmdb_id": 306118,
+  "total_capitulos": 19,
+  "total_temporadas": 1
 }
