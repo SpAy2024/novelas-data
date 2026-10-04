@@ -615,8 +615,8 @@
     "temp_1": {
       "numero": 1,
       "titulo": "El Renacer De Luna",
-      "fecha_extraccion": "2026-10-03T17:44:27.717Z",
-      "total_capitulos": 72,
+      "fecha_extraccion": "2026-10-04T18:06:03.886Z",
+      "total_capitulos": 75,
       "url": "https://ww2.ojearnovelas.com/tunovela/el-renacer-de-luna/",
       "capitulos": [
         {
@@ -1329,11 +1329,40 @@
             "https://dooodster.com/e/o4w2kd204b24",
             "https://luluvdo.com/e/rjon69gv3smx"
           ]
+        },
+        {
+          "numero": 73,
+          "titulo": "El renacer de luna | Capítulo 73 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-renacer-de-luna-capitulo-73/",
+          "servidores": [
+            "https://dooodster.com/e/dv1tmwh1dqlu",
+            "https://luluvdo.com/e/n466zh22go7m"
+          ]
+        },
+        {
+          "numero": 74,
+          "titulo": "El renacer de luna | Capítulo 74 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-renacer-de-luna-capitulo-74/",
+          "servidores": [
+            "https://iplayerhls.com/e/a4vah6f6icr2",
+            "https://dooodster.com/e/ay38exfarsbz",
+            "https://luluvdo.com/e/jiutjolabko3"
+          ]
+        },
+        {
+          "numero": 75,
+          "titulo": "El renacer de luna | Capítulo 75 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-renacer-de-luna-capitulo-75/",
+          "servidores": [
+            "https://iplayerhls.com/e/nxuc4z80kg7g",
+            "https://dooodster.com/e/rbsvxq580gvm",
+            "https://luluvdo.com/e/cewyiyfnz9tx"
+          ]
         }
       ]
     }
   },
   "tmdb_id": 320089,
-  "total_capitulos": 133,
+  "total_capitulos": 136,
   "total_temporadas": 2
 }
