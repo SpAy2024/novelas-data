@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-10-07T19:47:59.366Z",
+  "fecha_actualizacion": "2026-10-07T19:48:53.650Z",
   "fecha_creacion": "2026-10-07T19:45:31.332Z",
   "novela": "Mi hermano es un clon",
   "poster": "https://image.tmdb.org/t/p/w500/qcdyRZGLJoWH2Gaxd91RoCvulWG.jpg",
@@ -18,7 +18,11 @@
         {
           "numero": 2,
           "titulo": "Episodio 2",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://playmogo.com/e/27lt2f2pn0v1",
+            "https://vidmoly.me/v/3n9jkii9hmjq"
+          ]
         },
         {
           "numero": 3,
