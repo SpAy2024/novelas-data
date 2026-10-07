@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-10-07T19:55:25.445Z",
+  "fecha_actualizacion": "2026-10-07T19:56:28.432Z",
   "fecha_creacion": "2026-10-07T19:45:31.332Z",
   "novela": "Mi hermano es un clon",
   "poster": "https://image.tmdb.org/t/p/w500/qcdyRZGLJoWH2Gaxd91RoCvulWG.jpg",
@@ -71,17 +71,21 @@
         },
         {
           "numero": 8,
-          "titulo": "Episodio 8",
-          "url": "",
           "servidores": [
             "https://playmogo.com/e/6i9l0cz8b9ne",
             "https://vidmoly.me/v/skmh296hdeak"
-          ]
+          ],
+          "titulo": "Episodio 8",
+          "url": ""
         },
         {
           "numero": 9,
           "titulo": "Episodio 9",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://playmogo.com/e/911mov3id242",
+            "https://vidmoly.me/v/k8mjxu7uwq9s"
+          ]
         },
         {
           "numero": 10,
