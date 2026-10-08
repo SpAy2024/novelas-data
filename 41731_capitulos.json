@@ -1,0 +1,774 @@
+{
+  "novela": "El Rey Del Ganado",
+  "tmdb_id": 41731,
+  "poster": "https://image.tmdb.org/t/p/w500/gnRalif7ym8ovyDMr3glYVEq1tk.jpg",
+  "temporadas": {
+    "temp_1": {
+      "numero": 1,
+      "titulo": "El Rey Del Ganado",
+      "fecha_extraccion": "2026-10-08T15:33:15.921Z",
+      "total_capitulos": 76,
+      "url": "https://ww2.ojearnovelas.com/tunovela/el-rey-del-ganado/",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "El rey del ganado | Capítulo 1 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-1/",
+          "servidores": [
+            "https://iplayerhls.com/e/ammlm5erbxgk",
+            "https://dooodster.com/e/gud2lww1j6j1",
+            "https://luluvdo.com/e/h61ue7p6uao2"
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "El rey del ganado | Capítulo 2 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-2/",
+          "servidores": [
+            "https://iplayerhls.com/e/emrikjviohr4",
+            "https://dooodster.com/e/15698c4e6aep",
+            "https://luluvdo.com/e/zlx1rkp0cdlm"
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "El rey del ganado | Capítulo 3 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-3/",
+          "servidores": [
+            "https://iplayerhls.com/e/kldbrsbsojn6",
+            "https://dooodster.com/e/8bjjtfnd16fv",
+            "https://luluvdo.com/e/8olnre38fzek"
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "El rey del ganado | Capítulo 4 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-4/",
+          "servidores": [
+            "https://iplayerhls.com/e/uln5q2na0g6e",
+            "https://dooodster.com/e/5uys354nb65r",
+            "https://luluvdo.com/e/mfro1pj5ujlf"
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "El rey del ganado | Capítulo 5 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-5/",
+          "servidores": [
+            "https://iplayerhls.com/e/trt2sinnda78",
+            "https://dooodster.com/e/mcyytz57qgn0",
+            "https://luluvdo.com/e/j4zjphprkxl9"
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "El rey del ganado | Capítulo 6 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-6/",
+          "servidores": [
+            "https://iplayerhls.com/e/zgucoayc8a32",
+            "https://dooodster.com/e/2id793f4g9lx",
+            "https://luluvdo.com/e/3mwrws9e6mfs"
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "El rey del ganado | Capítulo 7 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-7/",
+          "servidores": [
+            "https://iplayerhls.com/e/9bbtlhz7845e",
+            "https://dooodster.com/e/f3n7nto57owm",
+            "https://luluvdo.com/e/eue67blq2z0j"
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "El rey del ganado | Capítulo 8 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-8/",
+          "servidores": [
+            "https://iplayerhls.com/e/vxhz3o0i6yk9",
+            "https://dooodster.com/e/q0yrb8igv45h",
+            "https://luluvdo.com/e/4w5a0zr843xp"
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "El rey del ganado | Capítulo 9 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-9/",
+          "servidores": [
+            "https://iplayerhls.com/e/ap1cab40tz6p",
+            "https://dooodster.com/e/pzujdz1ae456",
+            "https://luluvdo.com/e/phkzcj7jrdey"
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "El rey del ganado | Capítulo 10 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-10/",
+          "servidores": [
+            "https://iplayerhls.com/e/s9onvfwatk7o",
+            "https://dooodster.com/e/xjgn5ujcpqud",
+            "https://luluvdo.com/e/3nzpyng36tnm"
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "El rey del ganado | Capítulo 11 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-11/",
+          "servidores": [
+            "https://iplayerhls.com/e/q39iwmzovw50",
+            "https://dooodster.com/e/wmszq7wkjc7e",
+            "https://luluvdo.com/e/s9403bzid5wa"
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "El rey del ganado | Capítulo 12 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-12/",
+          "servidores": [
+            "https://iplayerhls.com/e/1zt0j4oc7ha2",
+            "https://dooodster.com/e/3ci63ze1xck5",
+            "https://luluvdo.com/e/9v51ew3vs4e5"
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "El rey del ganado | Capítulo 13 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-13/",
+          "servidores": [
+            "https://iplayerhls.com/e/s30tnz59u9hh",
+            "https://dooodster.com/e/fvisgi6f370s",
+            "https://luluvdo.com/e/9flhp6iw1r76"
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "El rey del ganado | Capítulo 14 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-14/",
+          "servidores": [
+            "https://iplayerhls.com/e/ee8w9cuyjima",
+            "https://dooodster.com/e/8i6hvj2xhvi3",
+            "https://luluvdo.com/e/heiv1j85p1t4"
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "El rey del ganado | Capítulo 15 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-15/",
+          "servidores": [
+            "https://iplayerhls.com/e/6zuxionapaa8",
+            "https://dooodster.com/e/jf5u2kd9id5t",
+            "https://luluvdo.com/e/ud02roajh2z2"
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "El rey del ganado | Capítulo 16 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-16/",
+          "servidores": [
+            "https://iplayerhls.com/e/veg026d7ga4s",
+            "https://dooodster.com/e/euehpy98q13k",
+            "https://luluvdo.com/e/9xbnz8go7wwk"
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "El rey del ganado | Capítulo 17 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-17/",
+          "servidores": [
+            "https://iplayerhls.com/e/tmli79i89h1l",
+            "https://dooodster.com/e/zbcsbyzr615e",
+            "https://luluvdo.com/e/3oakckfg5h5x"
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "El rey del ganado | Capítulo 18 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-18/",
+          "servidores": [
+            "https://iplayerhls.com/e/0siidg94cbo5",
+            "https://dooodster.com/e/eyqo9l0dwgdo",
+            "https://luluvdo.com/e/tudkxgu85sas"
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "El rey del ganado | Capítulo 19 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-19/",
+          "servidores": [
+            "https://iplayerhls.com/e/g3aoce9igkb6",
+            "https://dooodster.com/e/3vlcjlqob45r",
+            "https://luluvdo.com/e/f49igie70vey"
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "El rey del ganado | Capítulo 20 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-20/",
+          "servidores": [
+            "https://iplayerhls.com/e/5730i5nd8ex2",
+            "https://dooodster.com/e/uxojxj6k5ixz",
+            "https://luluvdo.com/e/p1r9k67nfo47"
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "El rey del ganado | Capítulo 21 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-21/",
+          "servidores": [
+            "https://iplayerhls.com/e/ecb98vjkplbi",
+            "https://dooodster.com/e/9bcsr6y1h4mn",
+            "https://luluvdo.com/e/0hub0shahabh"
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "El rey del ganado | Capítulo 22 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-22/",
+          "servidores": [
+            "https://iplayerhls.com/e/vnc4rtmnuoxs",
+            "https://dooodster.com/e/86wrq19c1rqj",
+            "https://luluvdo.com/e/2d8tiqbmhhbq"
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "El rey del ganado | Capítulo 23 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-23/",
+          "servidores": [
+            "https://iplayerhls.com/e/iz1rer0umsin",
+            "https://dooodster.com/e/pwoz64k9av3u",
+            "https://luluvdo.com/e/1ooku5n4gwlu"
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "El rey del ganado | Capítulo 24 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-24/",
+          "servidores": [
+            "https://iplayerhls.com/e/91kikuwyc59t",
+            "https://dooodster.com/e/omeywtv5ob4k",
+            "https://luluvdo.com/e/pkwnkc8e92g9"
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "El rey del ganado | Capítulo 25 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-25/",
+          "servidores": [
+            "https://iplayerhls.com/e/nyetkqv7ir4w",
+            "https://dooodster.com/e/c3iq001qv6vw",
+            "https://luluvdo.com/e/qxv627pvnnih"
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "El rey del ganado | Capítulo 26 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-26/",
+          "servidores": [
+            "https://iplayerhls.com/e/kb21926i8b5j",
+            "https://dooodster.com/e/0iclxjftjg4o",
+            "https://luluvdo.com/e/h3udav2tfyl7"
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "El rey del ganado | Capítulo 27 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-27/",
+          "servidores": [
+            "https://iplayerhls.com/e/lu0t6exai6kf",
+            "https://dooodster.com/e/hootl5a0ew49",
+            "https://luluvdo.com/e/9pxvw2x4g6bd"
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "El rey del ganado | Capítulo 28 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-28/",
+          "servidores": [
+            "https://iplayerhls.com/e/z23l7sjhjvw9",
+            "https://dooodster.com/e/ec4018u50jtl",
+            "https://luluvdo.com/e/95vau2ybyk94"
+          ]
+        },
+        {
+          "numero": 29,
+          "titulo": "El rey del ganado | Capítulo 29 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-29/",
+          "servidores": [
+            "https://iplayerhls.com/e/xj4zn2wr9erv",
+            "https://dooodster.com/e/jbtdjcs0wk5n",
+            "https://luluvdo.com/e/sjxn80sofivi"
+          ]
+        },
+        {
+          "numero": 30,
+          "titulo": "El rey del ganado | Capítulo 30 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-30/",
+          "servidores": [
+            "https://iplayerhls.com/e/9vkgtweeu2tg",
+            "https://dooodster.com/e/ph2a91aknjr7",
+            "https://luluvdo.com/e/n40qc5d2gh85"
+          ]
+        },
+        {
+          "numero": 31,
+          "titulo": "El rey del ganado | Capítulo 31 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-31/",
+          "servidores": [
+            "https://iplayerhls.com/e/naeyhcssezh1",
+            "https://dooodster.com/e/1ts7wm682ej9",
+            "https://luluvdo.com/e/dzgobrq5ev9t"
+          ]
+        },
+        {
+          "numero": 32,
+          "titulo": "El rey del ganado | Capítulo 32 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-32/",
+          "servidores": [
+            "https://iplayerhls.com/e/n46zskhpg86v",
+            "https://dooodster.com/e/v4nafsvhd6q2",
+            "https://luluvdo.com/e/v2cmorcb4hb9"
+          ]
+        },
+        {
+          "numero": 33,
+          "titulo": "El rey del ganado | Capítulo 33 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-33/",
+          "servidores": [
+            "https://iplayerhls.com/e/h7xsqsh8a1su",
+            "https://dooodster.com/e/zezolb4an4uc",
+            "https://luluvdo.com/e/jkm1biqodmyb"
+          ]
+        },
+        {
+          "numero": 34,
+          "titulo": "El rey del ganado | Capítulo 34 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-34/",
+          "servidores": [
+            "https://iplayerhls.com/e/qoshvfh84itu",
+            "https://dooodster.com/e/jqo40e5s4ibv",
+            "https://luluvdo.com/e/m774bbyx4kfe"
+          ]
+        },
+        {
+          "numero": 35,
+          "titulo": "El rey del ganado | Capítulo 35 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-35/",
+          "servidores": [
+            "https://iplayerhls.com/e/qudjur4dn5ei",
+            "https://dooodster.com/e/46ivgj6jpz97",
+            "https://luluvdo.com/e/8xv4vo4reu8n"
+          ]
+        },
+        {
+          "numero": 36,
+          "titulo": "El rey del ganado | Capítulo 36 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-36/",
+          "servidores": [
+            "https://iplayerhls.com/e/dmpekj37l978",
+            "https://dooodster.com/e/f0evjcoztxd8",
+            "https://luluvdo.com/e/k7c34137swyo"
+          ]
+        },
+        {
+          "numero": 37,
+          "titulo": "El rey del ganado | Capítulo 37 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-37/",
+          "servidores": [
+            "https://iplayerhls.com/e/cben4z7hp0qa",
+            "https://dooodster.com/e/aylvf0bq3fg2",
+            "https://luluvdo.com/e/wi88bwm5imac"
+          ]
+        },
+        {
+          "numero": 38,
+          "titulo": "El rey del ganado | Capítulo 38 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-38/",
+          "servidores": [
+            "https://iplayerhls.com/e/pvd7cwl0uk0b",
+            "https://dooodster.com/e/e341c0stnh82",
+            "https://luluvdo.com/e/jqqaued6bvrr"
+          ]
+        },
+        {
+          "numero": 39,
+          "titulo": "El rey del ganado | Capítulo 39 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-39/",
+          "servidores": [
+            "https://iplayerhls.com/e/mrue64ccv1at",
+            "https://dooodster.com/e/5yaxagb72yth",
+            "https://luluvdo.com/e/t66xgqs89hch"
+          ]
+        },
+        {
+          "numero": 40,
+          "titulo": "El rey del ganado | Capítulo 40 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-40/",
+          "servidores": [
+            "https://iplayerhls.com/e/pzt5eybhidko",
+            "https://dooodster.com/e/7zcq8a9l2s3v",
+            "https://luluvdo.com/e/6scp4y6qxwgf"
+          ]
+        },
+        {
+          "numero": 41,
+          "titulo": "El rey del ganado | Capítulo 41 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-41/",
+          "servidores": [
+            "https://iplayerhls.com/e/ndrfllt0hp0f",
+            "https://dooodster.com/e/sbsy1mjm9q2l",
+            "https://luluvdo.com/e/crcwabphet99"
+          ]
+        },
+        {
+          "numero": 42,
+          "titulo": "El rey del ganado | Capítulo 42 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-42/",
+          "servidores": [
+            "https://iplayerhls.com/e/6ut5yev274i4",
+            "https://dooodster.com/e/k47k5j8whsbp",
+            "https://luluvdo.com/e/jbl81f4ito52"
+          ]
+        },
+        {
+          "numero": 43,
+          "titulo": "El rey del ganado | Capítulo 43 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-43/",
+          "servidores": [
+            "https://iplayerhls.com/e/191piht5upeo",
+            "https://dooodster.com/e/na796ztl6dnv",
+            "https://luluvdo.com/e/35zebhazy5he"
+          ]
+        },
+        {
+          "numero": 44,
+          "titulo": "El rey del ganado | Capítulo 44 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-44/",
+          "servidores": [
+            "https://iplayerhls.com/e/vnomllqr4geh",
+            "https://dooodster.com/e/fhz7w9ctb070",
+            "https://luluvdo.com/e/xii2ydo24m8g"
+          ]
+        },
+        {
+          "numero": 45,
+          "titulo": "El rey del ganado | Capítulo 45 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-45/",
+          "servidores": [
+            "https://iplayerhls.com/e/wycr7vhxvw0u",
+            "https://dooodster.com/e/q9d6m2djfeyc",
+            "https://luluvdo.com/e/25ixq6d4tt4f"
+          ]
+        },
+        {
+          "numero": 46,
+          "titulo": "El rey del ganado | Capítulo 46 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-46/",
+          "servidores": [
+            "https://iplayerhls.com/e/45yrcu1czf0l",
+            "https://dooodster.com/e/mewcwykks9fn",
+            "https://luluvdo.com/e/x1fcscslcxy2"
+          ]
+        },
+        {
+          "numero": 47,
+          "titulo": "El rey del ganado | Capítulo 47 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-47/",
+          "servidores": [
+            "https://iplayerhls.com/e/ogfbfzep6iy4",
+            "https://dooodster.com/e/2a2n7d5p1t0k",
+            "https://luluvdo.com/e/0hth5hz2i4de"
+          ]
+        },
+        {
+          "numero": 48,
+          "titulo": "El rey del ganado | Capítulo 48 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-48/",
+          "servidores": [
+            "https://iplayerhls.com/e/wl0cfsdvuwx2",
+            "https://dooodster.com/e/werl3vau3qor"
+          ]
+        },
+        {
+          "numero": 49,
+          "titulo": "El rey del ganado | Capítulo 49 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-49/",
+          "servidores": [
+            "https://iplayerhls.com/e/kdps9z4fguff",
+            "https://dooodster.com/e/efc5rxslz3wx",
+            "https://luluvdo.com/e/zc5z69y6h5l5"
+          ]
+        },
+        {
+          "numero": 50,
+          "titulo": "El rey del ganado | Capítulo 50 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-50/",
+          "servidores": [
+            "https://iplayerhls.com/e/iu3zto48dq9b",
+            "https://dooodster.com/e/0ah8zoy289an",
+            "https://luluvdo.com/e/h2x762z8pswm"
+          ]
+        },
+        {
+          "numero": 51,
+          "titulo": "El rey del ganado | Capítulo 51 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-51/",
+          "servidores": [
+            "https://iplayerhls.com/e/bb03ac6n6k6c",
+            "https://dooodster.com/e/aw1x990dknwh",
+            "https://luluvdo.com/e/crodq79slqd8"
+          ]
+        },
+        {
+          "numero": 52,
+          "titulo": "El rey del ganado | Capítulo 52 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-52/",
+          "servidores": [
+            "https://iplayerhls.com/e/0rkpvr0um978",
+            "https://dooodster.com/e/rg4znjkymmwh",
+            "https://luluvdo.com/e/qdpstfzn6dkp"
+          ]
+        },
+        {
+          "numero": 53,
+          "titulo": "El rey del ganado | Capítulo 53 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-53/",
+          "servidores": [
+            "https://iplayerhls.com/e/gucrbt1pcesh",
+            "https://luluvdo.com/e/631pddwd3e41"
+          ]
+        },
+        {
+          "numero": 54,
+          "titulo": "El rey del ganado | Capítulo 54 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-54/",
+          "servidores": [
+            "https://iplayerhls.com/e/ohjhmzz28vby",
+            "https://dooodster.com/e/th9djtrngug6",
+            "https://luluvdo.com/e/ousi599frv5p"
+          ]
+        },
+        {
+          "numero": 55,
+          "titulo": "El rey del ganado | Capítulo 55 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-55/",
+          "servidores": [
+            "https://iplayerhls.com/e/azjur76fhql1",
+            "https://dooodster.com/e/ffz86kkuba8q"
+          ]
+        },
+        {
+          "numero": 56,
+          "titulo": "El rey del ganado | Capítulo 56 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-56/",
+          "servidores": [
+            "https://iplayerhls.com/e/oqzul9qwbeg1",
+            "https://dooodster.com/e/1t8b9xy54ebp",
+            "https://luluvdo.com/e/8ntcbl9mq63j"
+          ]
+        },
+        {
+          "numero": 57,
+          "titulo": "El rey del ganado | Capítulo 57 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-57/",
+          "servidores": [
+            "https://iplayerhls.com/e/1v20qe66beot",
+            "https://dooodster.com/e/bagl72rtdc2p",
+            "https://luluvdo.com/e/lcv0t00k28lg"
+          ]
+        },
+        {
+          "numero": 58,
+          "titulo": "El rey del ganado | Capítulo 58 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-58/",
+          "servidores": [
+            "https://iplayerhls.com/e/po7ym4wewxs5",
+            "https://dooodster.com/e/ulgavg7urcb1",
+            "https://luluvdo.com/e/p50ku32gld95"
+          ]
+        },
+        {
+          "numero": 59,
+          "titulo": "El rey del ganado | Capítulo 59 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-59/",
+          "servidores": [
+            "https://iplayerhls.com/e/27lrxp0e3g7c",
+            "https://luluvdo.com/e/wsvz7byicsf4"
+          ]
+        },
+        {
+          "numero": 60,
+          "titulo": "El rey del ganado | Capítulo 60 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-60/",
+          "servidores": [
+            "https://iplayerhls.com/e/oe6jnhsppyii",
+            "https://dooodster.com/e/yt5lon4fpufp",
+            "https://luluvdo.com/e/qoktdeu8fzqw"
+          ]
+        },
+        {
+          "numero": 61,
+          "titulo": "El rey del ganado | Capítulo 61 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-61/",
+          "servidores": [
+            "https://iplayerhls.com/e/8hlypueph3ix",
+            "https://dooodster.com/e/ibme4n8i8s26",
+            "https://luluvdo.com/e/jpepo18ycc7j"
+          ]
+        },
+        {
+          "numero": 62,
+          "titulo": "El rey del ganado | Capítulo 62 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-62/",
+          "servidores": [
+            "https://iplayerhls.com/e/6pakvyfbf2ss",
+            "https://dooodster.com/e/k9rnyo3q72jv",
+            "https://luluvdo.com/e/7er7i0luir54"
+          ]
+        },
+        {
+          "numero": 63,
+          "titulo": "El rey del ganado | Capítulo 63 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-63/",
+          "servidores": [
+            "https://iplayerhls.com/e/fdw3fe3q58x2",
+            "https://dooodster.com/e/88u8xi2ixrjy",
+            "https://luluvdo.com/e/ayqgdu92l8fe"
+          ]
+        },
+        {
+          "numero": 64,
+          "titulo": "El rey del ganado | Capítulo 64 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-64/",
+          "servidores": [
+            "https://iplayerhls.com/e/3l66vonp3q4f",
+            "https://dooodster.com/e/9nc8b3tv1uje",
+            "https://luluvdo.com/e/oxf4l6awreq6"
+          ]
+        },
+        {
+          "numero": 65,
+          "titulo": "El rey del ganado | Capítulo 65 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-65/",
+          "servidores": [
+            "https://iplayerhls.com/e/fgtlac4xhqgy",
+            "https://dooodster.com/e/hbamtaczpjbq",
+            "https://luluvdo.com/e/vsnnx7ewv1q9"
+          ]
+        },
+        {
+          "numero": 66,
+          "titulo": "El rey del ganado | Capítulo 66 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-66/",
+          "servidores": [
+            "https://iplayerhls.com/e/vu9vgpv8f7co",
+            "https://dooodster.com/e/df8ol72t29mo",
+            "https://luluvdo.com/e/8t0vuri7aehm"
+          ]
+        },
+        {
+          "numero": 67,
+          "titulo": "El rey del ganado | Capítulo 67 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-67/",
+          "servidores": [
+            "https://iplayerhls.com/e/397axdj3cli8",
+            "https://dooodster.com/e/zz3q529x2wj1",
+            "https://luluvdo.com/e/plk1aeq69p33"
+          ]
+        },
+        {
+          "numero": 68,
+          "titulo": "El rey del ganado | Capítulo 68 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-68/",
+          "servidores": [
+            "https://iplayerhls.com/e/vkwybvau46v9",
+            "https://dooodster.com/e/a1ed99w3f0k7",
+            "https://luluvdo.com/e/zeehkmmijcxx"
+          ]
+        },
+        {
+          "numero": 69,
+          "titulo": "El rey del ganado | Capítulo 69 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-69/",
+          "servidores": [
+            "https://iplayerhls.com/e/qu64fwl9hlt8",
+            "https://dooodster.com/e/61wvgrds641j",
+            "https://luluvdo.com/e/w0jtfi4zg83t"
+          ]
+        },
+        {
+          "numero": 70,
+          "titulo": "El rey del ganado | Capítulo 70 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-70/",
+          "servidores": [
+            "https://iplayerhls.com/e/taonb3qffg2a",
+            "https://dooodster.com/e/9n7sw68n5rmn",
+            "https://luluvdo.com/e/t8v6cgt6k296"
+          ]
+        },
+        {
+          "numero": 71,
+          "titulo": "El rey del ganado | Capítulo 71 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-71/",
+          "servidores": [
+            "https://iplayerhls.com/e/leclttgifpnd",
+            "https://dooodster.com/e/9dom7jqjkew3",
+            "https://luluvdo.com/e/494py3cmttb4"
+          ]
+        },
+        {
+          "numero": 72,
+          "titulo": "El rey del ganado | Capítulo 72 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-72/",
+          "servidores": [
+            "https://iplayerhls.com/e/b5qnztdfhtuv",
+            "https://dooodster.com/e/e9whpndfcsdg",
+            "https://luluvdo.com/e/9ecz0qm00kaj"
+          ]
+        },
+        {
+          "numero": 73,
+          "titulo": "El rey del ganado | Capítulo 73 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-73/",
+          "servidores": [
+            "https://iplayerhls.com/e/omre1woj1o12",
+            "https://dooodster.com/e/dtsl0937ym9h",
+            "https://luluvdo.com/e/xqoixjp102lh"
+          ]
+        },
+        {
+          "numero": 74,
+          "titulo": "El rey del ganado | Capítulo 74 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-74/",
+          "servidores": [
+            "https://iplayerhls.com/e/fxcjjj7wm6h0",
+            "https://dooodster.com/e/bfr9mblaxq3x",
+            "https://luluvdo.com/e/55cuh3w1ai67"
+          ]
+        },
+        {
+          "numero": 75,
+          "titulo": "El rey del ganado | Capítulo 75 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-75/",
+          "servidores": [
+            "https://iplayerhls.com/e/kmd7vuu33ooi",
+            "https://dooodster.com/e/h3kqxu3vu2kl",
+            "https://luluvdo.com/e/x8uyv19sxmg0"
+          ]
+        },
+        {
+          "numero": 76,
+          "titulo": "El rey del ganado | Capítulo 76 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-rey-del-ganado-capitulo-76/",
+          "servidores": [
+            "https://iplayerhls.com/e/q5z2ns6sbh5x",
+            "https://dooodster.com/e/fcz8n34hs26h",
+            "https://luluvdo.com/e/a647r1flacdu"
+          ]
+        }
+      ]
+    }
+  },
+  "total_temporadas": 1,
+  "total_capitulos": 76
+}
