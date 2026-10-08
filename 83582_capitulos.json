@@ -1,0 +1,1427 @@
+{
+  "novela": "Vino El Amor",
+  "tmdb_id": 83582,
+  "poster": "https://image.tmdb.org/t/p/w500/tM40jWRR0HXdk5xkAaHS2VIcqFA.jpg",
+  "temporadas": {
+    "temp_1": {
+      "numero": 1,
+      "titulo": "Vino El Amor",
+      "fecha_extraccion": "2026-10-08T16:31:25.794Z",
+      "total_capitulos": 141,
+      "url": "https://ww2.ojearnovelas.com/tunovela/vino-el-amor/",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Vino el Amor | Capítulo 1 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-1/",
+          "servidores": [
+            "https://luluvdo.com/e/bc6eupw4u7bt",
+            "https://iplayerhls.com/e/k16frfbcf0gy",
+            "https://dooodster.com/e/5wqk6zpcbdx8"
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Vino el Amor | Capítulo 2 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-2/",
+          "servidores": [
+            "https://luluvdo.com/e/gkzcs3r9uqkt",
+            "https://iplayerhls.com/e/ngfwzeja1f10",
+            "https://dooodster.com/e/17ejmat1lnyw"
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Vino el Amor | Capítulo 3 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-3/",
+          "servidores": [
+            "https://luluvdo.com/e/pbhjbkt1zzxu",
+            "https://iplayerhls.com/e/dq0u77kkkqaz",
+            "https://dooodster.com/e/mk0w5ji1zv5r"
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Vino el Amor | Capítulo 4 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-4/",
+          "servidores": [
+            "https://luluvdo.com/e/c6dc0xvtgb2c",
+            "https://iplayerhls.com/e/l09r127xwike",
+            "https://dooodster.com/e/iuh0rx618upc"
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Vino el Amor | Capítulo 5 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-5/",
+          "servidores": [
+            "https://luluvdo.com/e/klt8y25pmvku",
+            "https://iplayerhls.com/e/f0eeo50d8xbv",
+            "https://dooodster.com/e/l0leqgtmsm0d"
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Vino el Amor | Capítulo 6 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-6/",
+          "servidores": [
+            "https://luluvdo.com/e/gv5caucbpg0v",
+            "https://iplayerhls.com/e/c7ilwpe7i0d4",
+            "https://dooodster.com/e/8vhkjhv9xpyl"
+          ]
+        },
+        {
+          "numero": 7,
+          "titulo": "Vino el Amor | Capítulo 7 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-7/",
+          "servidores": [
+            "https://luluvdo.com/e/3m2ijk70hi37",
+            "https://iplayerhls.com/e/cqeghz931m73",
+            "https://dooodster.com/e/3f76kkloaizi"
+          ]
+        },
+        {
+          "numero": 8,
+          "titulo": "Vino el Amor | Capítulo 8 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-8/",
+          "servidores": [
+            "https://luluvdo.com/e/v9ww6j8d443k",
+            "https://iplayerhls.com/e/91gri0p0eb9w",
+            "https://dooodster.com/e/0a938rwy7yp3"
+          ]
+        },
+        {
+          "numero": 9,
+          "titulo": "Vino el Amor | Capítulo 9 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-9/",
+          "servidores": [
+            "https://luluvdo.com/e/65d7x5zycuyo",
+            "https://iplayerhls.com/e/b8lut5cuh7hs",
+            "https://dooodster.com/e/yfupwmjt7oa0"
+          ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Vino el Amor | Capítulo 10 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-10/",
+          "servidores": [
+            "https://luluvdo.com/e/y7xuzfzy4890",
+            "https://iplayerhls.com/e/w2lyv5b09x3l",
+            "https://dooodster.com/e/o9juraoeze9m"
+          ]
+        },
+        {
+          "numero": 11,
+          "titulo": "Vino el Amor | Capítulo 11 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-11/",
+          "servidores": [
+            "https://luluvdo.com/e/u7f21qs3g2id",
+            "https://iplayerhls.com/e/bbtedp6je5ks",
+            "https://dooodster.com/e/dtysraniwkkp"
+          ]
+        },
+        {
+          "numero": 12,
+          "titulo": "Vino el Amor | Capítulo 12 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-12/",
+          "servidores": [
+            "https://luluvdo.com/e/kvixm5toojc7",
+            "https://iplayerhls.com/e/jyqylzjfn6lp",
+            "https://dooodster.com/e/lb2vpoahr7ny"
+          ]
+        },
+        {
+          "numero": 13,
+          "titulo": "Vino el Amor | Capítulo 13 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-13/",
+          "servidores": [
+            "https://luluvdo.com/e/k3lx05za7hxc",
+            "https://iplayerhls.com/e/umzzgg9wn2zc",
+            "https://dooodster.com/e/y1g4jfm1e3mz"
+          ]
+        },
+        {
+          "numero": 14,
+          "titulo": "Vino el Amor | Capítulo 14 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-14/",
+          "servidores": [
+            "https://luluvdo.com/e/zkdlprd8ta88",
+            "https://iplayerhls.com/e/6r9gmo4ubric",
+            "https://dooodster.com/e/qgkh0ewlt826"
+          ]
+        },
+        {
+          "numero": 15,
+          "titulo": "Vino el Amor | Capítulo 15 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-15/",
+          "servidores": [
+            "https://luluvdo.com/e/1xw9h9lzrndl",
+            "https://iplayerhls.com/e/7unl2ggxl9zf",
+            "https://dooodster.com/e/gjds9e5ay89h"
+          ]
+        },
+        {
+          "numero": 16,
+          "titulo": "Vino el Amor | Capítulo 16 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-16/",
+          "servidores": [
+            "https://luluvdo.com/e/554fxcymatcw",
+            "https://iplayerhls.com/e/6381jjfg1968",
+            "https://dooodster.com/e/jvvstvkdy4q5"
+          ]
+        },
+        {
+          "numero": 17,
+          "titulo": "Vino el Amor | Capítulo 17 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-17/",
+          "servidores": [
+            "https://luluvdo.com/e/5jb9f9lzg3jy",
+            "https://iplayerhls.com/e/q4xtw5silqsh",
+            "https://dooodster.com/e/y5p9wz6hdqtt"
+          ]
+        },
+        {
+          "numero": 18,
+          "titulo": "Vino el Amor | Capítulo 18 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-18/",
+          "servidores": [
+            "https://luluvdo.com/e/blflxhbywyvh",
+            "https://iplayerhls.com/e/65cx4itbia7b",
+            "https://dooodster.com/e/hmeq903q6yxs"
+          ]
+        },
+        {
+          "numero": 19,
+          "titulo": "Vino el Amor | Capítulo 19 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-19/",
+          "servidores": [
+            "https://luluvdo.com/e/wa3r10sr143a",
+            "https://iplayerhls.com/e/r3ldehn7xje9",
+            "https://dooodster.com/e/56osketostp8"
+          ]
+        },
+        {
+          "numero": 20,
+          "titulo": "Vino el Amor | Capítulo 20 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-20/",
+          "servidores": [
+            "https://luluvdo.com/e/hhxuci1v3xod",
+            "https://iplayerhls.com/e/e35tgg0vxqcy",
+            "https://dooodster.com/e/pps7rxb7rnjw"
+          ]
+        },
+        {
+          "numero": 21,
+          "titulo": "Vino el Amor | Capítulo 21 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-21/",
+          "servidores": [
+            "https://luluvdo.com/e/bbp7u8t1piaz",
+            "https://iplayerhls.com/e/qmaqpr675dme",
+            "https://dooodster.com/e/869qlnarh1nt"
+          ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Vino el Amor | Capítulo 22 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-22/",
+          "servidores": [
+            "https://luluvdo.com/e/wktj5peqx4gk",
+            "https://iplayerhls.com/e/lmh03334exch",
+            "https://dooodster.com/e/ly6qvxzu0i9i"
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Vino el Amor | Capítulo 23 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-23/",
+          "servidores": [
+            "https://luluvdo.com/e/bi57tp7g00eg",
+            "https://iplayerhls.com/e/arqy8wg8r5oa",
+            "https://dooodster.com/e/261kzsj9702f"
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Vino el Amor | Capítulo 24 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-24/",
+          "servidores": [
+            "https://luluvdo.com/e/yqtj1wbgk0wt",
+            "https://iplayerhls.com/e/t6d4bcoooued",
+            "https://dooodster.com/e/yzfa299hmqbw"
+          ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Vino el Amor | Capítulo 25 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-25/",
+          "servidores": [
+            "https://luluvdo.com/e/l9ng98ffv0tr",
+            "https://iplayerhls.com/e/e8ra5i0l7ha5",
+            "https://dooodster.com/e/qiixby7m7n3u"
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Vino el Amor | Capítulo 26 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-26/",
+          "servidores": [
+            "https://luluvdo.com/e/ef2a54sazd6e",
+            "https://iplayerhls.com/e/11d1yjhtyetm",
+            "https://dooodster.com/e/uxlfufxfr30v"
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Vino el Amor | Capítulo 27 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-27/",
+          "servidores": [
+            "https://luluvdo.com/e/jpwtlbsxkxr8",
+            "https://iplayerhls.com/e/tplnfrwmvkt2",
+            "https://dooodster.com/e/u8w5xh93tzpl"
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Vino el Amor | Capítulo 28 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-28/",
+          "servidores": [
+            "https://luluvdo.com/e/xw6mafa27aku",
+            "https://iplayerhls.com/e/28prkmsd73dw",
+            "https://dooodster.com/e/59aszagzkk82"
+          ]
+        },
+        {
+          "numero": 29,
+          "titulo": "Vino el Amor | Capítulo 29 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-29/",
+          "servidores": [
+            "https://luluvdo.com/e/vglud9af4o93",
+            "https://iplayerhls.com/e/r3gvcfyrwkna",
+            "https://dooodster.com/e/jbhj6gm2m7vy"
+          ]
+        },
+        {
+          "numero": 30,
+          "titulo": "Vino el Amor | Capítulo 30 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-30/",
+          "servidores": [
+            "https://luluvdo.com/e/918jte2zg3z4",
+            "https://iplayerhls.com/e/uo0339nbmb5e",
+            "https://dooodster.com/e/g7x293eehsk3"
+          ]
+        },
+        {
+          "numero": 31,
+          "titulo": "Vino el Amor | Capítulo 31 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-31/",
+          "servidores": [
+            "https://luluvdo.com/e/15brsa7gnzoq",
+            "https://iplayerhls.com/e/h9dunr5jvq2j",
+            "https://dooodster.com/e/ap8w9ud2frm9"
+          ]
+        },
+        {
+          "numero": 32,
+          "titulo": "Vino el Amor | Capítulo 32 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-32/",
+          "servidores": [
+            "https://luluvdo.com/e/680iiz55hcz0",
+            "https://iplayerhls.com/e/ahmi560mwxm9",
+            "https://dooodster.com/e/4dv5jltelmzm"
+          ]
+        },
+        {
+          "numero": 33,
+          "titulo": "Vino el Amor | Capítulo 33 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-33/",
+          "servidores": [
+            "https://luluvdo.com/e/4kf9v6kswkgw",
+            "https://iplayerhls.com/e/17n58eefbm7f",
+            "https://dooodster.com/e/m6beb9tfkld2"
+          ]
+        },
+        {
+          "numero": 34,
+          "titulo": "Vino el Amor | Capítulo 34 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-34/",
+          "servidores": [
+            "https://luluvdo.com/e/7og9vbno3pms",
+            "https://iplayerhls.com/e/u91f3t8ddovp",
+            "https://dooodster.com/e/gefksryol7b1"
+          ]
+        },
+        {
+          "numero": 35,
+          "titulo": "Vino el Amor | Capítulo 35 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-35/",
+          "servidores": [
+            "https://luluvdo.com/e/hxq8mwmu86ri",
+            "https://iplayerhls.com/e/15jnb9erl3zs",
+            "https://dooodster.com/e/9nbsf1fvgypx"
+          ]
+        },
+        {
+          "numero": 36,
+          "titulo": "Vino el Amor | Capítulo 36 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-36/",
+          "servidores": [
+            "https://luluvdo.com/e/lk260hcz5d8v",
+            "https://iplayerhls.com/e/twlkm5xu93sq",
+            "https://dooodster.com/e/dk58fo3fugvr"
+          ]
+        },
+        {
+          "numero": 37,
+          "titulo": "Vino el Amor | Capítulo 37 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-37/",
+          "servidores": [
+            "https://luluvdo.com/e/50wzwrfz5dey",
+            "https://iplayerhls.com/e/5py99qjmsioh",
+            "https://dooodster.com/e/942xwom7l9my"
+          ]
+        },
+        {
+          "numero": 38,
+          "titulo": "Vino el Amor | Capítulo 38 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-38/",
+          "servidores": [
+            "https://luluvdo.com/e/uwi8fgyb99vq",
+            "https://iplayerhls.com/e/6cu9y5v6xcwn",
+            "https://dooodster.com/e/f93yn2htcx3i"
+          ]
+        },
+        {
+          "numero": 39,
+          "titulo": "Vino el Amor | Capítulo 39 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-39/",
+          "servidores": [
+            "https://luluvdo.com/e/zjv62zfqrl7p",
+            "https://iplayerhls.com/e/zjutqkgidrgp",
+            "https://dooodster.com/e/5rd38kf2op2n"
+          ]
+        },
+        {
+          "numero": 40,
+          "titulo": "Vino el Amor | Capítulo 40 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-40/",
+          "servidores": [
+            "https://luluvdo.com/e/wstm1uu7azm6",
+            "https://iplayerhls.com/e/7uwm1yxe15qa",
+            "https://dooodster.com/e/w1ugyse2f8a3"
+          ]
+        },
+        {
+          "numero": 41,
+          "titulo": "Vino el Amor | Capítulo 41 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-41/",
+          "servidores": [
+            "https://luluvdo.com/e/2o4i88pl5c6a",
+            "https://iplayerhls.com/e/kjhfdansm4qz",
+            "https://dooodster.com/e/1rs6h3o0b944"
+          ]
+        },
+        {
+          "numero": 42,
+          "titulo": "Vino el Amor | Capítulo 42 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-42/",
+          "servidores": [
+            "https://luluvdo.com/e/jwpqri1dmulj",
+            "https://iplayerhls.com/e/66v23hgdwp8a",
+            "https://dooodster.com/e/0udesm4pn6s8"
+          ]
+        },
+        {
+          "numero": 43,
+          "titulo": "Vino el Amor | Capítulo 43 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-43/",
+          "servidores": [
+            "https://luluvdo.com/e/32q22o985gwy",
+            "https://iplayerhls.com/e/8tvoy22dqa5i",
+            "https://dooodster.com/e/0czvj75556k2"
+          ]
+        },
+        {
+          "numero": 44,
+          "titulo": "Vino el Amor | Capítulo 44 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-44/",
+          "servidores": [
+            "https://luluvdo.com/e/gyqocz0y40on",
+            "https://iplayerhls.com/e/qo1me5z2bo30",
+            "https://dooodster.com/e/n17m06g62nbo"
+          ]
+        },
+        {
+          "numero": 45,
+          "titulo": "Vino el Amor | Capítulo 45 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-45/",
+          "servidores": [
+            "https://luluvdo.com/e/v63sj7m9dfk7",
+            "https://iplayerhls.com/e/dgi1hu8i8e8o",
+            "https://dooodster.com/e/wi3biczpw502"
+          ]
+        },
+        {
+          "numero": 46,
+          "titulo": "Vino el Amor | Capítulo 46 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-46/",
+          "servidores": [
+            "https://luluvdo.com/e/jdp7350q933d",
+            "https://iplayerhls.com/e/rvcp4wgmn4mn",
+            "https://dooodster.com/e/6yivx5b0d2s0"
+          ]
+        },
+        {
+          "numero": 47,
+          "titulo": "Vino el Amor | Capítulo 47 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-47/",
+          "servidores": [
+            "https://luluvdo.com/e/40szt8idxfl4",
+            "https://iplayerhls.com/e/g10r3fbe37qa",
+            "https://dooodster.com/e/lnsaz4sscnl3"
+          ]
+        },
+        {
+          "numero": 48,
+          "titulo": "Vino el Amor | Capítulo 48 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-48/",
+          "servidores": [
+            "https://luluvdo.com/e/2ti53x1n1s7z",
+            "https://iplayerhls.com/e/mh9f9yb2uy6u",
+            "https://dooodster.com/e/np1su1lb81hg"
+          ]
+        },
+        {
+          "numero": 49,
+          "titulo": "Vino el Amor | Capítulo 49 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-49/",
+          "servidores": [
+            "https://luluvdo.com/e/ror8tjap2mdz",
+            "https://iplayerhls.com/e/x165cb5hazpf",
+            "https://dooodster.com/e/zmc0xu6d9aax"
+          ]
+        },
+        {
+          "numero": 50,
+          "titulo": "Vino el Amor | Capítulo 50 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-50/",
+          "servidores": [
+            "https://luluvdo.com/e/hohmnd274tl5",
+            "https://iplayerhls.com/e/5bt06qlmlahr",
+            "https://dooodster.com/e/r7cxiv9patss"
+          ]
+        },
+        {
+          "numero": 51,
+          "titulo": "Vino el Amor | Capítulo 51 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-51/",
+          "servidores": [
+            "https://luluvdo.com/e/9bw2uk7bdo1b",
+            "https://dooodster.com/e/5xi9b9596q78",
+            "https://iplayerhls.com/e/sc9sow2vb68z"
+          ]
+        },
+        {
+          "numero": 52,
+          "titulo": "Vino el Amor | Capítulo 52 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-52/",
+          "servidores": [
+            "https://dooodster.com/e/a26en3v75r8n",
+            "https://iplayerhls.com/e/c4exugem3r0x",
+            "https://luluvdo.com/e/1jx1c6n7nuxh"
+          ]
+        },
+        {
+          "numero": 53,
+          "titulo": "Vino el Amor | Capítulo 53 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-53/",
+          "servidores": [
+            "https://dooodster.com/e/q30245orj7y7",
+            "https://luluvdo.com/e/dkqbah4hef6e",
+            "https://iplayerhls.com/e/hpj2pjxeowq6"
+          ]
+        },
+        {
+          "numero": 54,
+          "titulo": "Vino el Amor | Capítulo 54 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-54/",
+          "servidores": [
+            "https://luluvdo.com/e/151mbaih7ud1",
+            "https://dooodster.com/e/1xn64wgog5mx",
+            "https://iplayerhls.com/e/672hqvr0v8fz"
+          ]
+        },
+        {
+          "numero": 55,
+          "titulo": "Vino el Amor | Capítulo 55 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-55/",
+          "servidores": [
+            "https://luluvdo.com/e/wbwttuekfdga",
+            "https://dooodster.com/e/ots20yte4vnu",
+            "https://iplayerhls.com/e/emdmcblb7ym0"
+          ]
+        },
+        {
+          "numero": 56,
+          "titulo": "Vino el Amor | Capítulo 56 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-56/",
+          "servidores": [
+            "https://luluvdo.com/e/3prgshlf8x0r",
+            "https://dooodster.com/e/0r1mjrq1mrd2",
+            "https://iplayerhls.com/e/hdorvf2bi9ps"
+          ]
+        },
+        {
+          "numero": 57,
+          "titulo": "Vino el Amor | Capítulo 57 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-57/",
+          "servidores": [
+            "https://dooodster.com/e/1espptlg8og8",
+            "https://iplayerhls.com/e/2jlgemsyyic3",
+            "https://luluvdo.com/e/m34kn8lcrz6v"
+          ]
+        },
+        {
+          "numero": 58,
+          "titulo": "Vino el Amor | Capítulo 58 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-58/",
+          "servidores": [
+            "https://dooodster.com/e/0fjjvx39afpk",
+            "https://luluvdo.com/e/njp0jmqzcn89",
+            "https://iplayerhls.com/e/oxbjzegrjutr"
+          ]
+        },
+        {
+          "numero": 59,
+          "titulo": "Vino el Amor | Capítulo 59 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-59/",
+          "servidores": [
+            "https://luluvdo.com/e/umhx5l9l6msw",
+            "https://dooodster.com/e/rud2pqxmhpo8",
+            "https://iplayerhls.com/e/w6gtkrufi6pv"
+          ]
+        },
+        {
+          "numero": 60,
+          "titulo": "Vino el Amor | Capítulo 60 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-60/",
+          "servidores": [
+            "https://dooodster.com/e/7qnx6itrvg9l",
+            "https://iplayerhls.com/e/hzfwi1i22yhd",
+            "https://luluvdo.com/e/9rioljn69piu"
+          ]
+        },
+        {
+          "numero": 61,
+          "titulo": "Vino el Amor | Capítulo 61 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-61/",
+          "servidores": [
+            "https://dooodster.com/e/hvfz3d27g2cu",
+            "https://luluvdo.com/e/75kdi967ldkq",
+            "https://iplayerhls.com/e/eggigdbok54w"
+          ]
+        },
+        {
+          "numero": 62,
+          "titulo": "Vino el Amor | Capítulo 62 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-62/",
+          "servidores": [
+            "https://dooodster.com/e/0u0fi1ecpaaw",
+            "https://iplayerhls.com/e/chl4ftgf1gz5",
+            "https://luluvdo.com/e/vwzwageukcpu"
+          ]
+        },
+        {
+          "numero": 63,
+          "titulo": "Vino el Amor | Capítulo 63 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-63/",
+          "servidores": [
+            "https://dooodster.com/e/dmgawy7i3e60",
+            "https://luluvdo.com/e/wapvivvsipxd",
+            "https://iplayerhls.com/e/fg8zffiwqy4y"
+          ]
+        },
+        {
+          "numero": 64,
+          "titulo": "Vino el Amor | Capítulo 64 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-64/",
+          "servidores": [
+            "https://luluvdo.com/e/qk1g1c3xfvjh",
+            "https://dooodster.com/e/xgbrfzwyvpf9",
+            "https://iplayerhls.com/e/49o1mt59ncpp"
+          ]
+        },
+        {
+          "numero": 65,
+          "titulo": "Vino el Amor | Capítulo 65 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-65/",
+          "servidores": [
+            "https://luluvdo.com/e/tzh9q89t0yc4",
+            "https://dooodster.com/e/syjiidfo5ow5",
+            "https://iplayerhls.com/e/2924ml2q9w40"
+          ]
+        },
+        {
+          "numero": 66,
+          "titulo": "Vino el Amor | Capítulo 66 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-66/",
+          "servidores": [
+            "https://luluvdo.com/e/5orqt5n0wott",
+            "https://dooodster.com/e/v5d5be88dith",
+            "https://iplayerhls.com/e/81kra0klzq2f"
+          ]
+        },
+        {
+          "numero": 67,
+          "titulo": "Vino el Amor | Capítulo 67 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-67/",
+          "servidores": [
+            "https://luluvdo.com/e/fr1dizz9cw2l",
+            "https://dooodster.com/e/irir8ah75qc0",
+            "https://iplayerhls.com/e/ukageuhbusjb"
+          ]
+        },
+        {
+          "numero": 68,
+          "titulo": "Vino el Amor | Capítulo 68 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-68/",
+          "servidores": [
+            "https://luluvdo.com/e/63ztfz6jlt73",
+            "https://dooodster.com/e/7669s58guttn",
+            "https://iplayerhls.com/e/628oqggoziot"
+          ]
+        },
+        {
+          "numero": 69,
+          "titulo": "Vino el Amor | Capítulo 69 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-69/",
+          "servidores": [
+            "https://luluvdo.com/e/4jht96npdgwq",
+            "https://dooodster.com/e/6dzsr97y965q",
+            "https://iplayerhls.com/e/2rqlgyx27ac2"
+          ]
+        },
+        {
+          "numero": 70,
+          "titulo": "Vino el Amor | Capítulo 70 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-70/",
+          "servidores": [
+            "https://luluvdo.com/e/z3s1rszsls6u",
+            "https://dooodster.com/e/2gx6xip3i8ia",
+            "https://iplayerhls.com/e/54eg6cxwzfm4"
+          ]
+        },
+        {
+          "numero": 71,
+          "titulo": "Vino el Amor | Capítulo 71 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-71/",
+          "servidores": [
+            "https://luluvdo.com/e/un5h8gphtqah",
+            "https://dooodster.com/e/p1pprng40mtn",
+            "https://iplayerhls.com/e/fnc5r220byo2"
+          ]
+        },
+        {
+          "numero": 72,
+          "titulo": "Vino el Amor | Capítulo 72 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-72/",
+          "servidores": [
+            "https://luluvdo.com/e/oe257106rk11",
+            "https://dooodster.com/e/bs2lcidhfpzd",
+            "https://iplayerhls.com/e/e2rb2qfmmixq"
+          ]
+        },
+        {
+          "numero": 73,
+          "titulo": "Vino el Amor | Capítulo 73 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-73/",
+          "servidores": [
+            "https://iplayerhls.com/e/rt62zjqhymju",
+            "https://dooodster.com/e/rln7globoua3",
+            "https://luluvdo.com/e/ohsmdcqsbcxx"
+          ]
+        },
+        {
+          "numero": 74,
+          "titulo": "Vino el Amor | Capítulo 74 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-74/",
+          "servidores": [
+            "https://dooodster.com/e/3ib18mnk2k4a",
+            "https://iplayerhls.com/e/rhpw73ss79h5",
+            "https://luluvdo.com/e/0x48uwpvsxma"
+          ]
+        },
+        {
+          "numero": 75,
+          "titulo": "Vino el Amor | Capítulo 75 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-75/",
+          "servidores": [
+            "https://dooodster.com/e/ggrn57zzkgo9",
+            "https://iplayerhls.com/e/4n4xqghf66vm",
+            "https://luluvdo.com/e/nnlvc44hg0q0"
+          ]
+        },
+        {
+          "numero": 76,
+          "titulo": "Vino el Amor | Capítulo 76 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-76/",
+          "servidores": [
+            "https://dooodster.com/e/ky5koqd3lwsv",
+            "https://iplayerhls.com/e/qjepm9p0aw13",
+            "https://luluvdo.com/e/ic1ogq0slmfp"
+          ]
+        },
+        {
+          "numero": 77,
+          "titulo": "Vino el Amor | Capítulo 77 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-77/",
+          "servidores": [
+            "https://dooodster.com/e/6kv1tq4vb2qx",
+            "https://iplayerhls.com/e/ls8e181rpj5b"
+          ]
+        },
+        {
+          "numero": 78,
+          "titulo": "Vino el Amor | Capítulo 78 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-78/",
+          "servidores": [
+            "https://dooodster.com/e/whugkm13t8n5",
+            "https://iplayerhls.com/e/rq36fhi0qlpg",
+            "https://luluvdo.com/e/tosdnpeateol"
+          ]
+        },
+        {
+          "numero": 79,
+          "titulo": "Vino el Amor | Capítulo 79 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-79/",
+          "servidores": [
+            "https://dooodster.com/e/i9qd5kx3ub98",
+            "https://iplayerhls.com/e/tgz7hnhlqd64",
+            "https://luluvdo.com/e/apknln1lpekf"
+          ]
+        },
+        {
+          "numero": 80,
+          "titulo": "Vino el Amor | Capítulo 80 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-80/",
+          "servidores": [
+            "https://dooodster.com/e/hdbsvoy63mgi",
+            "https://iplayerhls.com/e/h97lkoqceex8",
+            "https://luluvdo.com/e/v23gspldlx94"
+          ]
+        },
+        {
+          "numero": 81,
+          "titulo": "Vino el Amor | Capítulo 81 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-81/",
+          "servidores": [
+            "https://dooodster.com/e/0hpa8phldy14",
+            "https://iplayerhls.com/e/5chb2il0z6zd",
+            "https://luluvdo.com/e/jdyu7nbgnxuq"
+          ]
+        },
+        {
+          "numero": 82,
+          "titulo": "Vino el Amor | Capítulo 82 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-82/",
+          "servidores": [
+            "https://dooodster.com/e/1ax5f03ni3pm",
+            "https://iplayerhls.com/e/zrb9tpdiukkb",
+            "https://luluvdo.com/e/i2r2fqygzdt4"
+          ]
+        },
+        {
+          "numero": 83,
+          "titulo": "Vino el Amor | Capítulo 83 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-83/",
+          "servidores": [
+            "https://dooodster.com/e/9d58r35nflex",
+            "https://iplayerhls.com/e/zwunadcx60ql",
+            "https://luluvdo.com/e/9qbs0bhvwx76"
+          ]
+        },
+        {
+          "numero": 84,
+          "titulo": "Vino el Amor | Capítulo 84 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-84/",
+          "servidores": [
+            "https://dooodster.com/e/a2ogete8p05w",
+            "https://iplayerhls.com/e/4yyfoyjjt7tv",
+            "https://luluvdo.com/e/e5jvw4hyub0k"
+          ]
+        },
+        {
+          "numero": 85,
+          "titulo": "Vino el Amor | Capítulo 85 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-85/",
+          "servidores": [
+            "https://dooodster.com/e/q79qxxgf4zdi",
+            "https://iplayerhls.com/e/2h1493pbg3oh",
+            "https://luluvdo.com/e/2tox8zzprstv"
+          ]
+        },
+        {
+          "numero": 86,
+          "titulo": "Vino el Amor | Capítulo 86 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-86/",
+          "servidores": [
+            "https://dooodster.com/e/bk8axqnxas4k",
+            "https://iplayerhls.com/e/6u3lkwyc01c5",
+            "https://luluvdo.com/e/gf7961720uj2"
+          ]
+        },
+        {
+          "numero": 87,
+          "titulo": "Vino el Amor | Capítulo 87 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-87/",
+          "servidores": [
+            "https://dooodster.com/e/ot0yakv82sx4",
+            "https://iplayerhls.com/e/c9ldg2xed596",
+            "https://luluvdo.com/e/xyh6zwsfw0bq"
+          ]
+        },
+        {
+          "numero": 88,
+          "titulo": "Vino el Amor | Capítulo 88 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-88/",
+          "servidores": [
+            "https://dooodster.com/e/ptg7xmam87h5",
+            "https://iplayerhls.com/e/71ge6abezx5x",
+            "https://luluvdo.com/e/ew4025bvsfm2"
+          ]
+        },
+        {
+          "numero": 89,
+          "titulo": "Vino el Amor | Capítulo 89 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-89/",
+          "servidores": [
+            "https://dooodster.com/e/of3jvqbx1dkf",
+            "https://iplayerhls.com/e/v4xjv1q9uzvv",
+            "https://luluvdo.com/e/0i2p7jobghpm"
+          ]
+        },
+        {
+          "numero": 90,
+          "titulo": "Vino el Amor | Capítulo 90 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-90/",
+          "servidores": [
+            "https://dooodster.com/e/gkjgv8qb36kj",
+            "https://iplayerhls.com/e/ozaiteb33we9",
+            "https://luluvdo.com/e/yi0mwlf8te0b"
+          ]
+        },
+        {
+          "numero": 91,
+          "titulo": "Vino el Amor | Capítulo 91 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-91/",
+          "servidores": [
+            "https://dooodster.com/e/4grnngxja72p",
+            "https://iplayerhls.com/e/kspwgjdahpga",
+            "https://luluvdo.com/e/35qbin1eu5gi"
+          ]
+        },
+        {
+          "numero": 92,
+          "titulo": "Vino el Amor | Capítulo 92 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-92/",
+          "servidores": [
+            "https://dooodster.com/e/msfj04d3rrlp",
+            "https://iplayerhls.com/e/zn72skzaohz2",
+            "https://luluvdo.com/e/6hflpktq4wx7"
+          ]
+        },
+        {
+          "numero": 93,
+          "titulo": "Vino el Amor | Capítulo 93 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-93/",
+          "servidores": [
+            "https://dooodster.com/e/0gpua2bvz58b",
+            "https://iplayerhls.com/e/df7sykycx5qd",
+            "https://luluvdo.com/e/rjlstjypzajd"
+          ]
+        },
+        {
+          "numero": 94,
+          "titulo": "Vino el Amor | Capítulo 94 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-94/",
+          "servidores": [
+            "https://dooodster.com/e/8mqp6g5oxesu",
+            "https://iplayerhls.com/e/6ocrivwc12a5",
+            "https://luluvdo.com/e/38rtnqjms4kv"
+          ]
+        },
+        {
+          "numero": 95,
+          "titulo": "Vino el Amor | Capítulo 95 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-95/",
+          "servidores": [
+            "https://dooodster.com/e/5vp564nqp0mg",
+            "https://iplayerhls.com/e/iepshthi1hru",
+            "https://luluvdo.com/e/2tz90xz5rblz"
+          ]
+        },
+        {
+          "numero": 96,
+          "titulo": "Vino el Amor | Capítulo 96 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-96/",
+          "servidores": [
+            "https://dooodster.com/e/8s972fjk0au1",
+            "https://iplayerhls.com/e/ikcsvz0jgniw",
+            "https://luluvdo.com/e/j6l44yie7k5m"
+          ]
+        },
+        {
+          "numero": 97,
+          "titulo": "Vino el Amor | Capítulo 97 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-97/",
+          "servidores": [
+            "https://dooodster.com/e/xul7owpd8coz",
+            "https://iplayerhls.com/e/oe3oo6szp8s8",
+            "https://luluvdo.com/e/qoeuw0mik8e2"
+          ]
+        },
+        {
+          "numero": 98,
+          "titulo": "Vino el Amor | Capítulo 98 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-98/",
+          "servidores": [
+            "https://dooodster.com/e/djj5wnq285z2",
+            "https://iplayerhls.com/e/8beslwxdq4yt",
+            "https://luluvdo.com/e/vjjxckc0zlua"
+          ]
+        },
+        {
+          "numero": 99,
+          "titulo": "Vino el Amor | Capítulo 99 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-99/",
+          "servidores": [
+            "https://dooodster.com/e/d2tl07r4ua0k",
+            "https://iplayerhls.com/e/mcm9uia0r1up",
+            "https://luluvdo.com/e/jocnyygfc7x9"
+          ]
+        },
+        {
+          "numero": 100,
+          "titulo": "Vino el Amor | Capítulo 100 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-100/",
+          "servidores": [
+            "https://dooodster.com/e/nwsmzxybqxv8",
+            "https://iplayerhls.com/e/ryahek10kfju",
+            "https://luluvdo.com/e/7mhc6yeuao8u"
+          ]
+        },
+        {
+          "numero": 101,
+          "titulo": "Vino el Amor | Capítulo 101 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-101/",
+          "servidores": [
+            "https://dooodster.com/e/jo3v4nzmzqqd",
+            "https://iplayerhls.com/e/v3gnhv2ulv2o",
+            "https://luluvdo.com/e/fd92ghf934hz"
+          ]
+        },
+        {
+          "numero": 102,
+          "titulo": "Vino el Amor | Capítulo 102 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-102/",
+          "servidores": [
+            "https://dooodster.com/e/uv1xyep43hxx",
+            "https://iplayerhls.com/e/l88e0i7i7lm9",
+            "https://luluvdo.com/e/r7z4k5c68zm6"
+          ]
+        },
+        {
+          "numero": 103,
+          "titulo": "Vino el Amor | Capítulo 103 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-103/",
+          "servidores": [
+            "https://dooodster.com/e/8ven5gkusxtc",
+            "https://iplayerhls.com/e/ssbi8furecez",
+            "https://luluvdo.com/e/zyq5iatjtk1h"
+          ]
+        },
+        {
+          "numero": 104,
+          "titulo": "Vino el Amor | Capítulo 104 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-104/",
+          "servidores": [
+            "https://dooodster.com/e/bxggltngfgg6",
+            "https://iplayerhls.com/e/fluruytqfayz",
+            "https://luluvdo.com/e/jal72j36ephr"
+          ]
+        },
+        {
+          "numero": 105,
+          "titulo": "Vino el Amor | Capítulo 105 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-105/",
+          "servidores": [
+            "https://dooodster.com/e/p9blema0swng",
+            "https://iplayerhls.com/e/b0lkr0nhmaa7",
+            "https://luluvdo.com/e/j9bg4ei3h9ri"
+          ]
+        },
+        {
+          "numero": 106,
+          "titulo": "Vino el Amor | Capítulo 106 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-106/",
+          "servidores": [
+            "https://dooodster.com/e/gd5n6wbmi1om",
+            "https://iplayerhls.com/e/73ue9n0r3wr1",
+            "https://luluvdo.com/e/tgosry1n9bk5"
+          ]
+        },
+        {
+          "numero": 107,
+          "titulo": "Vino el Amor | Capítulo 107 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-107/",
+          "servidores": [
+            "https://dooodster.com/e/abdfyz7n4jtq",
+            "https://iplayerhls.com/e/ramgodlgfkmg",
+            "https://luluvdo.com/e/rbokq9bjrcsg"
+          ]
+        },
+        {
+          "numero": 108,
+          "titulo": "Vino el Amor | Capítulo 108 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-108/",
+          "servidores": [
+            "https://dooodster.com/e/vqsazu40nflo",
+            "https://iplayerhls.com/e/6io7r00rdgsa",
+            "https://luluvdo.com/e/2h0tik7cshvm"
+          ]
+        },
+        {
+          "numero": 109,
+          "titulo": "Vino el Amor | Capítulo 109 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-109/",
+          "servidores": [
+            "https://dooodster.com/e/ovnj2rjk2k67",
+            "https://iplayerhls.com/e/kgn0p83fxtvm",
+            "https://luluvdo.com/e/xzyobkvzs337"
+          ]
+        },
+        {
+          "numero": 110,
+          "titulo": "Vino el Amor | Capítulo 110 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-110/",
+          "servidores": [
+            "https://dooodster.com/e/qpc3ho608o7r",
+            "https://iplayerhls.com/e/rjl91gvdhyyc",
+            "https://luluvdo.com/e/u9p5wmwy8srz"
+          ]
+        },
+        {
+          "numero": 111,
+          "titulo": "Vino el Amor | Capítulo 111 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-111/",
+          "servidores": [
+            "https://dooodster.com/e/fny7uyhsgzto",
+            "https://iplayerhls.com/e/xtvyokuv3rt8",
+            "https://luluvdo.com/e/dqsmlvaiukq1"
+          ]
+        },
+        {
+          "numero": 112,
+          "titulo": "Vino el Amor | Capítulo 112 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-112/",
+          "servidores": [
+            "https://dooodster.com/e/syy20crqhvei",
+            "https://iplayerhls.com/e/7iu9t3xy46pk",
+            "https://luluvdo.com/e/9k5shtl3emqe"
+          ]
+        },
+        {
+          "numero": 113,
+          "titulo": "Vino el Amor | Capítulo 113 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-113/",
+          "servidores": [
+            "https://dooodster.com/e/bzo60xgu6z3r",
+            "https://iplayerhls.com/e/ms7vc914mbo2",
+            "https://luluvdo.com/e/n5n7ridvl8mw"
+          ]
+        },
+        {
+          "numero": 114,
+          "titulo": "Vino el Amor | Capítulo 114 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-114/",
+          "servidores": [
+            "https://dooodster.com/e/v7hj2flsb96o",
+            "https://iplayerhls.com/e/u9s8vqq3rgtx",
+            "https://luluvdo.com/e/d21wsnwhvuqt"
+          ]
+        },
+        {
+          "numero": 115,
+          "titulo": "Vino el Amor | Capítulo 115 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-115/",
+          "servidores": [
+            "https://dooodster.com/e/rntmbm80nq4y",
+            "https://iplayerhls.com/e/1lodf7va3qut",
+            "https://luluvdo.com/e/wc518p6mz5ys"
+          ]
+        },
+        {
+          "numero": 116,
+          "titulo": "Vino el Amor | Capítulo 116 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-116/",
+          "servidores": [
+            "https://dooodster.com/e/fdw6k0ed1sbm",
+            "https://iplayerhls.com/e/g863285yxyj3",
+            "https://luluvdo.com/e/uq1ccy5n61bj"
+          ]
+        },
+        {
+          "numero": 117,
+          "titulo": "Vino el Amor | Capítulo 117 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-117/",
+          "servidores": [
+            "https://dooodster.com/e/oezdh1p2kwj8",
+            "https://iplayerhls.com/e/fre9pldmtyws",
+            "https://luluvdo.com/e/b7l1cu0cqj29"
+          ]
+        },
+        {
+          "numero": 118,
+          "titulo": "Vino el Amor | Capítulo 118 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-118/",
+          "servidores": [
+            "https://dooodster.com/e/l2zwcqv9o9dg",
+            "https://iplayerhls.com/e/tj9qc36hth4w",
+            "https://luluvdo.com/e/o1lzcynh2kpz"
+          ]
+        },
+        {
+          "numero": 119,
+          "titulo": "Vino el Amor | Capítulo 119 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-119/",
+          "servidores": [
+            "https://dooodster.com/e/b0wfdv0fa1jy",
+            "https://iplayerhls.com/e/cci7pxosvbes",
+            "https://luluvdo.com/e/itfs4ad0o9ey"
+          ]
+        },
+        {
+          "numero": 120,
+          "titulo": "Vino el Amor | Capítulo 120 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-120/",
+          "servidores": [
+            "https://dooodster.com/e/v4r6tay9i73h",
+            "https://iplayerhls.com/e/teljy1eg19hp",
+            "https://luluvdo.com/e/1qrvoqvzgtmh"
+          ]
+        },
+        {
+          "numero": 121,
+          "titulo": "Vino el Amor | Capítulo 121 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-121/",
+          "servidores": [
+            "https://dooodster.com/e/8qvfzye46i0w",
+            "https://iplayerhls.com/e/4nzkfc5c3sz6",
+            "https://luluvdo.com/e/eyxqv6fvbz6h"
+          ]
+        },
+        {
+          "numero": 122,
+          "titulo": "Vino el Amor | Capítulo 122 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-122/",
+          "servidores": [
+            "https://dooodster.com/e/5qkxu14lh81n",
+            "https://iplayerhls.com/e/1pgwtk2tdxkm",
+            "https://luluvdo.com/e/3khmb567wq54"
+          ]
+        },
+        {
+          "numero": 123,
+          "titulo": "Vino el Amor | Capítulo 123 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-123/",
+          "servidores": [
+            "https://dooodster.com/e/9wwk6ltg8430",
+            "https://iplayerhls.com/e/jo5enowmm4fs",
+            "https://luluvdo.com/e/8przx40yvhqv"
+          ]
+        },
+        {
+          "numero": 124,
+          "titulo": "Vino el Amor | Capítulo 124 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-124/",
+          "servidores": [
+            "https://dooodster.com/e/r1iyunjm4s4c",
+            "https://iplayerhls.com/e/i71i5l2oekr3",
+            "https://luluvdo.com/e/yhcy9osm2o7t"
+          ]
+        },
+        {
+          "numero": 125,
+          "titulo": "Vino el Amor | Capítulo 125 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-125/",
+          "servidores": [
+            "https://dooodster.com/e/xxfx63okuf9k",
+            "https://iplayerhls.com/e/tumzdi3bzyt4",
+            "https://luluvdo.com/e/ehxsu4qpmubk"
+          ]
+        },
+        {
+          "numero": 126,
+          "titulo": "Vino el Amor | Capítulo 126 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-126/",
+          "servidores": [
+            "https://dooodster.com/e/fpdv86gd561t",
+            "https://iplayerhls.com/e/idpy4755irur",
+            "https://luluvdo.com/e/v0ngldf92zbq"
+          ]
+        },
+        {
+          "numero": 127,
+          "titulo": "Vino el Amor | Capítulo 127 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-127/",
+          "servidores": [
+            "https://dooodster.com/e/fjnlsrqherrw",
+            "https://iplayerhls.com/e/y5ij7jl27nbi",
+            "https://luluvdo.com/e/g1y1zue8w9jk"
+          ]
+        },
+        {
+          "numero": 128,
+          "titulo": "Vino el Amor | Capítulo 128 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-128/",
+          "servidores": [
+            "https://dooodster.com/e/hwcjrw68veks",
+            "https://iplayerhls.com/e/8n4yvj7ruixf",
+            "https://luluvdo.com/e/i9uwhtgmld6m"
+          ]
+        },
+        {
+          "numero": 129,
+          "titulo": "Vino el Amor | Capítulo 129 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-129/",
+          "servidores": [
+            "https://dooodster.com/e/1jgkn2u3aufe",
+            "https://iplayerhls.com/e/lj33szqjpfj5",
+            "https://luluvdo.com/e/3of8e0tu80pw"
+          ]
+        },
+        {
+          "numero": 130,
+          "titulo": "Vino el Amor | Capítulo 130 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-130/",
+          "servidores": [
+            "https://dooodster.com/e/2ded9979ul1c",
+            "https://iplayerhls.com/e/fmp6oa1onryi",
+            "https://luluvdo.com/e/ox5k6z8cxie6"
+          ]
+        },
+        {
+          "numero": 131,
+          "titulo": "Vino el Amor | Capítulo 131 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-131/",
+          "servidores": [
+            "https://dooodster.com/e/crhisxhs54qq",
+            "https://iplayerhls.com/e/7jnulhnb56km",
+            "https://luluvdo.com/e/o2jrieosrltb"
+          ]
+        },
+        {
+          "numero": 132,
+          "titulo": "Vino el Amor | Capítulo 132 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-132/",
+          "servidores": [
+            "https://dooodster.com/e/gvqwi7ex27i6",
+            "https://iplayerhls.com/e/i3her8wunwel",
+            "https://luluvdo.com/e/pdecv7jsuyi7"
+          ]
+        },
+        {
+          "numero": 133,
+          "titulo": "Vino el Amor | Capítulo 133 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-133/",
+          "servidores": [
+            "https://dooodster.com/e/dscfi01j19oz",
+            "https://iplayerhls.com/e/xyxdyyf1lx8n",
+            "https://luluvdo.com/e/cj8gni342mkc"
+          ]
+        },
+        {
+          "numero": 134,
+          "titulo": "Vino el Amor | Capítulo 134 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-134/",
+          "servidores": [
+            "https://dooodster.com/e/07fwepsgbjs0",
+            "https://iplayerhls.com/e/olsjrvko0lxp",
+            "https://luluvdo.com/e/qwb6qfdrf7ca"
+          ]
+        },
+        {
+          "numero": 135,
+          "titulo": "Vino el Amor | Capítulo 135 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-135/",
+          "servidores": [
+            "https://dooodster.com/e/rgy12m3e8ydu",
+            "https://iplayerhls.com/e/r5la7zla02wc",
+            "https://luluvdo.com/e/rz23vo2scx2o"
+          ]
+        },
+        {
+          "numero": 136,
+          "titulo": "Vino el Amor | Capítulo 136 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-136/",
+          "servidores": [
+            "https://dooodster.com/e/t4g844ikeig6",
+            "https://iplayerhls.com/e/mqrmurams5qp",
+            "https://luluvdo.com/e/afprgroc9113"
+          ]
+        },
+        {
+          "numero": 137,
+          "titulo": "Vino el Amor | Capítulo 137 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-137/",
+          "servidores": [
+            "https://dooodster.com/e/mktr7yjfh0hs",
+            "https://iplayerhls.com/e/jv9d2w8k1c6o",
+            "https://luluvdo.com/e/d02gics2ygwl"
+          ]
+        },
+        {
+          "numero": 138,
+          "titulo": "Vino el Amor | Capítulo 138 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-138/",
+          "servidores": [
+            "https://dooodster.com/e/fxzgsvmh6dsm",
+            "https://iplayerhls.com/e/s8sgx0zcm7zd",
+            "https://luluvdo.com/e/gnl21jb9l2th"
+          ]
+        },
+        {
+          "numero": 139,
+          "titulo": "Vino el Amor | Capítulo 139 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-139/",
+          "servidores": [
+            "https://dooodster.com/e/zpaszihz7lo2",
+            "https://iplayerhls.com/e/23vdsk4h3ix6",
+            "https://luluvdo.com/e/j8qt47st76uo"
+          ]
+        },
+        {
+          "numero": 140,
+          "titulo": "Vino el Amor | Capítulo 140 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-140/",
+          "servidores": [
+            "https://dooodster.com/e/9h5r8bnscq9k",
+            "https://iplayerhls.com/e/hpckyku42azh",
+            "https://luluvdo.com/e/x47a3yafcjam"
+          ]
+        },
+        {
+          "numero": 141,
+          "titulo": "Vino el Amor | Capítulo 141 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/vino-el-amor-capitulo-141/",
+          "servidores": [
+            "https://dooodster.com/e/pw11j965oi0e",
+            "https://iplayerhls.com/e/sq9gmyhss1zb",
+            "https://luluvdo.com/e/c23loy03mndw"
+          ]
+        }
+      ]
+    }
+  },
+  "total_temporadas": 1,
+  "total_capitulos": 141
+}
