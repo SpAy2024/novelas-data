@@ -1,13 +1,12 @@
 {
   "novela": "Duena De Mi",
-  "tmdb_id": 283245,
-  "poster": "https://image.tmdb.org/t/p/w500/1iBQHzNhuW03u79xhkREKkLRf94.jpg",
+  "poster": "https://image.tmdb.org/t/p/w500/v5dpuOe4R5SnH4bAgpKtZUKVTnF.jpg",
   "temporadas": {
     "temp_1": {
       "numero": 1,
       "titulo": "Duena De Mi",
-      "fecha_extraccion": "2026-10-02T14:17:59.584Z",
-      "total_capitulos": 122,
+      "fecha_extraccion": "2026-10-09T13:54:41.279Z",
+      "total_capitulos": 123,
       "url": "https://ww2.ojearnovelas.com/tunovela/duena-de-mi/",
       "capitulos": [
         {
@@ -1221,10 +1220,20 @@
             "https://dooodster.com/e/qocnlou959v7",
             "https://luluvdo.com/e/20wcbsbbh82r"
           ]
+        },
+        {
+          "numero": 123,
+          "titulo": "Dueña de Mí | Capítulo 123 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/duena-de-mi-capitulo-123/",
+          "servidores": [
+            "https://dooodster.com/e/8mq2t8vipdcx",
+            "https://luluvdo.com/e/fk9tn3w9uwf6"
+          ]
         }
       ]
     }
   },
-  "total_temporadas": 1,
-  "total_capitulos": 122
+  "tmdb_id": 283245,
+  "total_capitulos": 123,
+  "total_temporadas": 1
 }
