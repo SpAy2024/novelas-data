@@ -6,8 +6,8 @@
     "temp_10": {
       "numero": 10,
       "titulo": "El Senor De Los Cielos 10",
-      "fecha_extraccion": "2026-10-09T13:48:55.528Z",
-      "total_capitulos": 67,
+      "fecha_extraccion": "2026-10-10T15:57:02.781Z",
+      "total_capitulos": 68,
       "url": "https://ww2.ojearnovelas.com/tunovela/el-senor-de-los-cielos-10/",
       "capitulos": [
         {
@@ -670,11 +670,21 @@
             "https://dooodster.com/e/v7zvow6rdw0p",
             "https://luluvdo.com/e/fy2vbd4d2fys"
           ]
+        },
+        {
+          "numero": 68,
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 68 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/el-senor-de-los-cielos-10-capitulo-68/",
+          "servidores": [
+            "https://iplayerhls.com/e/ehhelgaz5en7",
+            "https://dooodster.com/e/nocyoig18s87",
+            "https://luluvdo.com/e/bwspmzamgz97"
+          ]
         }
       ]
     }
   },
   "tmdb_id": 44953,
-  "total_capitulos": 67,
+  "total_capitulos": 68,
   "total_temporadas": 1
 }
