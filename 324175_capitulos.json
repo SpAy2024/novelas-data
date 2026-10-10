@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-10-10T14:02:58.689Z",
+  "fecha_actualizacion": "2026-10-10T14:03:52.941Z",
   "fecha_creacion": "2026-10-10T13:59:14.042Z",
   "novela": "El precio de la fama",
   "poster": "https://image.tmdb.org/t/p/w500/53igoDkKhiBFTC89qNUXccwf5H.jpg",
@@ -26,17 +26,21 @@
         },
         {
           "numero": 3,
-          "titulo": "Episodio 3",
-          "url": "",
           "servidores": [
             "https://playmogo.com/e/9goq14qwfcto",
             "https://vidmoly.me/v/ibvh0cpri62o"
-          ]
+          ],
+          "titulo": "Episodio 3",
+          "url": ""
         },
         {
           "numero": 4,
           "titulo": "Episodio 4",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://playmogo.com/e/zoj8y91ttm9t",
+            "https://vidmoly.me/v/sm8i4u2m245q"
+          ]
         },
         {
           "numero": 5,
