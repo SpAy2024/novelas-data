@@ -1,0 +1,68 @@
+{
+  "novela": "El precio de la fama",
+  "tmdb_id": 324175,
+  "poster": "https://image.tmdb.org/t/p/w500/53igoDkKhiBFTC89qNUXccwf5H.jpg",
+  "url": null,
+  "temporadas": {
+    "temp_1": {
+      "numero": 1,
+      "titulo": "Temporada 1",
+      "fecha_extraccion": "2026-10-10T13:59:13.841Z",
+      "total_capitulos": 8,
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Episodio 1",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Episodio 2",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Episodio 3",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 4,
+          "titulo": "Episodio 4",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Episodio 5",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 6,
+          "titulo": "Episodio 6",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 7,
+          "titulo": "Episodio 7",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 8,
+          "titulo": "Episodio 8",
+          "url": "",
+          "servidores": []
+        }
+      ]
+    }
+  },
+  "total_temporadas": 1,
+  "total_capitulos": 8,
+  "fecha_creacion": "2026-10-10T13:59:14.042Z",
+  "fecha_actualizacion": "2026-10-10T13:59:14.042Z"
+}
