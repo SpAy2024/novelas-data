@@ -1,0 +1,28 @@
+{
+  "novela": "Infinito Amor",
+  "tmdb_id": 335306,
+  "poster": "https://image.tmdb.org/t/p/w500/q0RXwwyHQN6Co8Mc7YSrMrm7ujT.jpg",
+  "temporadas": {
+    "temp_1": {
+      "numero": 1,
+      "titulo": "Infinito Amor",
+      "fecha_extraccion": "2026-10-17T17:50:47.280Z",
+      "total_capitulos": 1,
+      "url": "https://ww2.ojearnovelas.com/tunovela/infinito-amor/",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Infinito Amor | Capítulo 1 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/infinito-amor-capitulo-1/",
+          "servidores": [
+            "https://iplayerhls.com/e/2mn12zf616oq",
+            "https://dooodster.com/e/w2r0409x1ohr",
+            "https://luluvdo.com/e/z6p9r3mbv0fr"
+          ]
+        }
+      ]
+    }
+  },
+  "total_temporadas": 1,
+  "total_capitulos": 1
+}
