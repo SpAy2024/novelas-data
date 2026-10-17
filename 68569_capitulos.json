@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-10-17T22:21:02.708Z",
+  "fecha_actualizacion": "2026-10-17T22:22:20.395Z",
   "fecha_creacion": "2026-10-17T21:57:52.936Z",
   "novela": "Madre",
   "poster": "https://image.tmdb.org/t/p/w500/4P4XUlTySQPm6d5AvaTak3r5oxk.jpg",
@@ -35,12 +35,12 @@
         },
         {
           "numero": 4,
-          "titulo": "Episodio 4",
-          "url": "",
           "servidores": [
             "https://playmogo.com/e/8cnn8bryd89c",
             "https://vidmoly.me/v/kkczn87liyy2"
-          ]
+          ],
+          "titulo": "Episodio 4",
+          "url": ""
         },
         {
           "numero": 5,
