@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-10-18T00:07:25.952Z",
+  "fecha_actualizacion": "2026-10-18T00:08:54.561Z",
   "fecha_creacion": "2026-10-17T21:57:52.936Z",
   "novela": "Madre",
   "poster": "https://image.tmdb.org/t/p/w500/4P4XUlTySQPm6d5AvaTak3r5oxk.jpg",
@@ -62,17 +62,21 @@
         },
         {
           "numero": 7,
-          "titulo": "Episodio 7",
-          "url": "",
           "servidores": [
             "https://playmogo.com/e/3q07nhmi16wi",
             "https://vidmoly.me/v/326odv1u58nc"
-          ]
+          ],
+          "titulo": "Episodio 7",
+          "url": ""
         },
         {
           "numero": 8,
           "titulo": "Episodio 8",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://playmogo.com/e/jkkqgoj1li17",
+            "https://playmogo.com/e/jkkqgoj1li17"
+          ]
         },
         {
           "numero": 9,
