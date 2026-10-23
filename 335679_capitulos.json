@@ -5,8 +5,8 @@
     "temp_1": {
       "numero": 1,
       "titulo": "Sabor A Ti",
-      "fecha_extraccion": "2026-10-20T13:56:57.859Z",
-      "total_capitulos": 21,
+      "fecha_extraccion": "2026-10-23T23:21:58.151Z",
+      "total_capitulos": 24,
       "url": "https://ww2.ojearnovelas.com/tunovela/sabor-a-ti/",
       "capitulos": [
         {
@@ -216,11 +216,38 @@
             "https://dooodster.com/e/4yso9uqhw7yh",
             "https://luluvdo.com/e/fwa6ka0ugndk"
           ]
+        },
+        {
+          "numero": 22,
+          "titulo": "Sabor a ti | Capítulo 22 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/sabor-a-ti-capitulo-22/",
+          "servidores": [
+            "https://iplayerhls.com/e/hqymqmrhie1w",
+            "https://dooodster.com/e/3xxcyy5fo44c",
+            "https://luluvdo.com/e/koetybg7kly4"
+          ]
+        },
+        {
+          "numero": 23,
+          "titulo": "Sabor a ti | Capítulo 23 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/sabor-a-ti-capitulo-23/",
+          "servidores": [
+            "https://luluvdo.com/e/1gfgshpbayo6"
+          ]
+        },
+        {
+          "numero": 24,
+          "titulo": "Sabor a ti | Capítulo 24 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/sabor-a-ti-capitulo-24/",
+          "servidores": [
+            "https://dooodster.com/e/s06ym4lq01ua",
+            "https://luluvdo.com/e/nfdf6eeyxwdk"
+          ]
         }
       ]
     }
   },
   "tmdb_id": 335679,
-  "total_capitulos": 21,
+  "total_capitulos": 24,
   "total_temporadas": 1
 }
