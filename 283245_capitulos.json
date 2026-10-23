@@ -5,8 +5,8 @@
     "temp_1": {
       "numero": 1,
       "titulo": "Duena De Mi",
-      "fecha_extraccion": "2026-10-17T18:04:43.889Z",
-      "total_capitulos": 133,
+      "fecha_extraccion": "2026-10-23T23:20:00.354Z",
+      "total_capitulos": 135,
       "url": "https://ww2.ojearnovelas.com/tunovela/duena-de-mi/",
       "capitulos": [
         {
@@ -1328,11 +1328,30 @@
             "https://dooodster.com/e/mudc7n8c6jt1",
             "https://luluvdo.com/e/qas74skhcg9t"
           ]
+        },
+        {
+          "numero": 134,
+          "titulo": "Dueña de Mí | Capítulo 134 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/duena-de-mi-capitulo-134/",
+          "servidores": [
+            "https://luluvdo.com/e/eojrhlc5iadw",
+            "https://iplayerhls.com/e/6hg9hylmrx2r",
+            "https://dooodster.com/e/bkvrq98s17p6"
+          ]
+        },
+        {
+          "numero": 135,
+          "titulo": "Dueña de Mí | Capítulo 135 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/duena-de-mi-capitulo-135/",
+          "servidores": [
+            "https://dooodster.com/e/6m43iniuru8a",
+            "https://luluvdo.com/e/6mffsspimp8n"
+          ]
         }
       ]
     }
   },
   "tmdb_id": 283245,
-  "total_capitulos": 133,
+  "total_capitulos": 135,
   "total_temporadas": 1
 }
