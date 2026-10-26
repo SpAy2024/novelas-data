@@ -5,8 +5,8 @@
     "temp_1": {
       "numero": 1,
       "titulo": "Infinito Amor",
-      "fecha_extraccion": "2026-10-23T23:20:39.109Z",
-      "total_capitulos": 9,
+      "fecha_extraccion": "2026-10-26T19:23:33.892Z",
+      "total_capitulos": 10,
       "url": "https://ww2.ojearnovelas.com/tunovela/infinito-amor/",
       "capitulos": [
         {
@@ -96,11 +96,20 @@
             "https://dooodster.com/e/pr96gntptqm9",
             "https://luluvdo.com/e/6efdm616tdge"
           ]
+        },
+        {
+          "numero": 10,
+          "titulo": "Infinito Amor | Capítulo 10 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/infinito-amor-capitulo-10/",
+          "servidores": [
+            "https://luluvdo.com/e/opmair6kea73",
+            "https://dooodster.com/e/1icoswb1c0h5"
+          ]
         }
       ]
     }
   },
   "tmdb_id": 335306,
-  "total_capitulos": 9,
+  "total_capitulos": 10,
   "total_temporadas": 1
 }
