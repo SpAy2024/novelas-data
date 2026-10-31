@@ -1,0 +1,176 @@
+{
+  "novela": "Rubí",
+  "tmdb_id": 98387,
+  "poster": "https://image.tmdb.org/t/p/w500/5dL8vO8gGwRNcjEwXl3AX7I3sqT.jpg",
+  "url": null,
+  "temporadas": {
+    "temp_1": {
+      "numero": 1,
+      "titulo": "Temporada 1",
+      "fecha_extraccion": "2026-10-31T12:26:31.379Z",
+      "total_capitulos": 26,
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "El primer encuentro",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Noticia inesperada",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Hombre equivocado",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 4,
+          "titulo": "El hombre rico",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 5,
+          "titulo": "El peor amigo",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 6,
+          "titulo": "Celos incontrolables",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 7,
+          "titulo": "Amante descarado",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 8,
+          "titulo": "Esposo peligroso",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 9,
+          "titulo": "Nuevo comienzo",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 10,
+          "titulo": "Falsas disculpas",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 11,
+          "titulo": "Ataque inesperado",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 12,
+          "titulo": "La trampa perfecta",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 13,
+          "titulo": "Traición peligrosa",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 14,
+          "titulo": "Desaparecida",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 15,
+          "titulo": "La peor mujer",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 16,
+          "titulo": "Paternidad",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 17,
+          "titulo": "Nueva familia",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 18,
+          "titulo": "Noticia impactante",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 19,
+          "titulo": "Video prohibido",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 20,
+          "titulo": "Triste adiós",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 21,
+          "titulo": "La nueva viuda",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 22,
+          "titulo": "Sin herencia",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 23,
+          "titulo": "Rechazada",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 24,
+          "titulo": "Amor inesperado",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 25,
+          "titulo": "Atrapados",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 26,
+          "titulo": "Viejos amigos",
+          "url": "",
+          "servidores": []
+        }
+      ]
+    }
+  },
+  "total_temporadas": 1,
+  "total_capitulos": 26,
+  "fecha_creacion": "2026-10-31T12:26:31.580Z",
+  "fecha_actualizacion": "2026-10-31T12:26:31.580Z"
+}
