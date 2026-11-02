@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-11-02T20:53:01.871Z",
+  "fecha_actualizacion": "2026-11-02T20:54:47.674Z",
   "novela": "El Senor De Los Cielos",
   "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
   "temporadas": {
@@ -785,12 +785,12 @@
         },
         {
           "numero": 80,
-          "titulo": "Capítulo 80",
-          "url": "",
           "servidores": [
-            "https://playmogo.com/e/rcumpvd3ph5y",
-            "https://vidmoly.me/v/dbt45rydt333"
-          ]
+            "https://playmogo.com/e/4u9wwzje7hr8",
+            "https://vidmoly.me/v/lztsyfq7dun2"
+          ],
+          "titulo": "Capítulo 80",
+          "url": ""
         }
       ],
       "fecha_extraccion": "2026-10-27T14:30:26.794Z",
