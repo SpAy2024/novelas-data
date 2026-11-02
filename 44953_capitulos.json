@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-11-02T20:49:19.325Z",
+  "fecha_actualizacion": "2026-11-02T20:53:01.871Z",
   "novela": "El Senor De Los Cielos",
   "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
   "temporadas": {
@@ -776,22 +776,31 @@
         },
         {
           "numero": 79,
-          "titulo": "Capítulo 79",
-          "url": "",
           "servidores": [
             "https://playmogo.com/e/vljhxpa0cfbw",
             "https://vidmoly.me/v/kvjeuvnwlug5"
+          ],
+          "titulo": "Capítulo 79",
+          "url": ""
+        },
+        {
+          "numero": 80,
+          "titulo": "Capítulo 80",
+          "url": "",
+          "servidores": [
+            "https://playmogo.com/e/rcumpvd3ph5y",
+            "https://vidmoly.me/v/dbt45rydt333"
           ]
         }
       ],
       "fecha_extraccion": "2026-10-27T14:30:26.794Z",
       "numero": 10,
       "titulo": "El Senor De Los Cielos 10",
-      "total_capitulos": 79,
+      "total_capitulos": 80,
       "url": "https://ww2.ojearnovelas.com/tunovela/el-senor-de-los-cielos-10/"
     }
   },
   "tmdb_id": 44953,
-  "total_capitulos": 79,
+  "total_capitulos": 80,
   "total_temporadas": 1
 }
