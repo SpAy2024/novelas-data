@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-11-03T16:17:26.927Z",
+  "fecha_actualizacion": "2026-11-03T16:18:01.444Z",
   "fecha_creacion": "2026-10-31T12:26:31.580Z",
   "novela": "Rubí",
   "poster": "https://image.tmdb.org/t/p/w500/5dL8vO8gGwRNcjEwXl3AX7I3sqT.jpg",
@@ -40,16 +40,19 @@
         },
         {
           "numero": 5,
-          "titulo": "El peor amigo",
-          "url": "",
           "servidores": [
             "https://playmogo.com/e/fhveibvl98rp"
-          ]
+          ],
+          "titulo": "El peor amigo",
+          "url": ""
         },
         {
           "numero": 6,
           "titulo": "Celos incontrolables",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://playmogo.com/e/5jaxy74e180k"
+          ]
         },
         {
           "numero": 7,
