@@ -5,8 +5,8 @@
     "temp_1": {
       "numero": 1,
       "titulo": "Sabor A Ti",
-      "fecha_extraccion": "2026-10-23T23:21:58.151Z",
-      "total_capitulos": 24,
+      "fecha_extraccion": "2026-11-03T15:33:40.858Z",
+      "total_capitulos": 31,
       "url": "https://ww2.ojearnovelas.com/tunovela/sabor-a-ti/",
       "capitulos": [
         {
@@ -243,11 +243,74 @@
             "https://dooodster.com/e/s06ym4lq01ua",
             "https://luluvdo.com/e/nfdf6eeyxwdk"
           ]
+        },
+        {
+          "numero": 25,
+          "titulo": "Sabor a ti | Capítulo 25 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/sabor-a-ti-capitulo-25/",
+          "servidores": [
+            "https://iplayerhls.com/e/gucu9fu7er3k",
+            "https://luluvdo.com/e/aexukm892rel"
+          ]
+        },
+        {
+          "numero": 26,
+          "titulo": "Sabor a ti | Capítulo 26 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/sabor-a-ti-capitulo-26/",
+          "servidores": [
+            "https://iplayerhls.com/e/87maquizj0zj",
+            "https://dooodster.com/e/papkcgx0nujj",
+            "https://luluvdo.com/e/ak0p7gj5pfl8"
+          ]
+        },
+        {
+          "numero": 27,
+          "titulo": "Sabor a ti | Capítulo 27 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/sabor-a-ti-capitulo-27/",
+          "servidores": [
+            "https://dooodster.com/e/qhl9k2sknjyk"
+          ]
+        },
+        {
+          "numero": 28,
+          "titulo": "Sabor a ti | Capítulo 28 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/sabor-a-ti-capitulo-28/",
+          "servidores": [
+            "https://dooodster.com/e/y9wl8acouox6",
+            "https://luluvdo.com/e/6l02g39xovln"
+          ]
+        },
+        {
+          "numero": 29,
+          "titulo": "Sabor a ti | Capítulo 29 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/sabor-a-ti-capitulo-29/",
+          "servidores": [
+            "https://dooodster.com/e/k3f5az0rw1oj",
+            "https://luluvdo.com/e/munh37ylbe6r"
+          ]
+        },
+        {
+          "numero": 30,
+          "titulo": "Sabor a ti | Capítulo 30 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/sabor-a-ti-capitulo-30/",
+          "servidores": [
+            "https://dooodster.com/e/ynrp3hq1tqp9",
+            "https://luluvdo.com/e/uqa7q8oe7nvo"
+          ]
+        },
+        {
+          "numero": 31,
+          "titulo": "Sabor a ti | Capítulo 31 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/sabor-a-ti-capitulo-31/",
+          "servidores": [
+            "https://dooodster.com/e/b0jtbqwx08je",
+            "https://luluvdo.com/e/n15txm6tlsfo"
+          ]
         }
       ]
     }
   },
   "tmdb_id": 335679,
-  "total_capitulos": 24,
+  "total_capitulos": 31,
   "total_temporadas": 1
 }
