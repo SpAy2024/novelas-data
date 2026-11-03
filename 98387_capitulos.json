@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-11-03T16:15:02.657Z",
+  "fecha_actualizacion": "2026-11-03T16:15:31.439Z",
   "fecha_creacion": "2026-10-31T12:26:31.580Z",
   "novela": "Rubí",
   "poster": "https://image.tmdb.org/t/p/w500/5dL8vO8gGwRNcjEwXl3AX7I3sqT.jpg",
@@ -24,16 +24,19 @@
         },
         {
           "numero": 3,
-          "titulo": "Hombre equivocado",
-          "url": "",
           "servidores": [
             "https://playmogo.com/e/3k0x5nzhe774"
-          ]
+          ],
+          "titulo": "Hombre equivocado",
+          "url": ""
         },
         {
           "numero": 4,
           "titulo": "El hombre rico",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://playmogo.com/e/lmbkmjv5tqh2"
+          ]
         },
         {
           "numero": 5,
