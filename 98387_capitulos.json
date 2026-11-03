@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-11-03T16:13:25.708Z",
+  "fecha_actualizacion": "2026-11-03T16:14:08.985Z",
   "fecha_creacion": "2026-10-31T12:26:31.580Z",
   "novela": "Rubí",
   "poster": "https://image.tmdb.org/t/p/w500/5dL8vO8gGwRNcjEwXl3AX7I3sqT.jpg",
@@ -8,16 +8,19 @@
       "capitulos": [
         {
           "numero": 1,
-          "titulo": "El primer encuentro",
-          "url": "",
           "servidores": [
             "https://playmogo.com/e/8oy76rgssbo2"
-          ]
+          ],
+          "titulo": "El primer encuentro",
+          "url": ""
         },
         {
           "numero": 2,
           "titulo": "Noticia inesperada",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://playmogo.com/e/4hsglc56pq9e"
+          ]
         },
         {
           "numero": 3,
