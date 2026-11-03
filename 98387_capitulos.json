@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-11-03T16:18:38.499Z",
+  "fecha_actualizacion": "2026-11-03T16:19:10.970Z",
   "fecha_creacion": "2026-10-31T12:26:31.580Z",
   "novela": "Rubí",
   "poster": "https://image.tmdb.org/t/p/w500/5dL8vO8gGwRNcjEwXl3AX7I3sqT.jpg",
@@ -56,16 +56,19 @@
         },
         {
           "numero": 7,
-          "titulo": "Amante descarado",
-          "url": "",
           "servidores": [
             "https://playmogo.com/e/43l9nkv1ezul"
-          ]
+          ],
+          "titulo": "Amante descarado",
+          "url": ""
         },
         {
           "numero": 8,
           "titulo": "Esposo peligroso",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://playmogo.com/e/syileafxlisl"
+          ]
         },
         {
           "numero": 9,
