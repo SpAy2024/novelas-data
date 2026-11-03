@@ -1,176 +1,152 @@
 {
+  "fecha_actualizacion": "2026-11-03T16:13:25.708Z",
+  "fecha_creacion": "2026-10-31T12:26:31.580Z",
   "novela": "Rubí",
-  "tmdb_id": 98387,
   "poster": "https://image.tmdb.org/t/p/w500/5dL8vO8gGwRNcjEwXl3AX7I3sqT.jpg",
-  "url": null,
   "temporadas": {
     "temp_1": {
-      "numero": 1,
-      "titulo": "Temporada 1",
-      "fecha_extraccion": "2026-10-31T12:26:31.379Z",
-      "total_capitulos": 26,
       "capitulos": [
         {
           "numero": 1,
           "titulo": "El primer encuentro",
           "url": "",
-          "servidores": []
+          "servidores": [
+            "https://playmogo.com/e/8oy76rgssbo2"
+          ]
         },
         {
           "numero": 2,
           "titulo": "Noticia inesperada",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 3,
           "titulo": "Hombre equivocado",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 4,
           "titulo": "El hombre rico",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 5,
           "titulo": "El peor amigo",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 6,
           "titulo": "Celos incontrolables",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 7,
           "titulo": "Amante descarado",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 8,
           "titulo": "Esposo peligroso",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 9,
           "titulo": "Nuevo comienzo",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 10,
           "titulo": "Falsas disculpas",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 11,
           "titulo": "Ataque inesperado",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 12,
           "titulo": "La trampa perfecta",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 13,
           "titulo": "Traición peligrosa",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 14,
           "titulo": "Desaparecida",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 15,
           "titulo": "La peor mujer",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 16,
           "titulo": "Paternidad",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 17,
           "titulo": "Nueva familia",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 18,
           "titulo": "Noticia impactante",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 19,
           "titulo": "Video prohibido",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 20,
           "titulo": "Triste adiós",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 21,
           "titulo": "La nueva viuda",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 22,
           "titulo": "Sin herencia",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 23,
           "titulo": "Rechazada",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 24,
           "titulo": "Amor inesperado",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 25,
           "titulo": "Atrapados",
-          "url": "",
-          "servidores": []
+          "url": ""
         },
         {
           "numero": 26,
           "titulo": "Viejos amigos",
-          "url": "",
-          "servidores": []
+          "url": ""
         }
-      ]
+      ],
+      "fecha_extraccion": "2026-10-31T12:26:31.379Z",
+      "numero": 1,
+      "titulo": "Temporada 1",
+      "total_capitulos": 26
     }
   },
-  "total_temporadas": 1,
+  "tmdb_id": 98387,
   "total_capitulos": 26,
-  "fecha_creacion": "2026-10-31T12:26:31.580Z",
-  "fecha_actualizacion": "2026-10-31T12:26:31.580Z"
+  "total_temporadas": 1
 }
