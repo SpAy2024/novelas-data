@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-11-03T16:19:42.272Z",
+  "fecha_actualizacion": "2026-11-03T16:20:18.895Z",
   "fecha_creacion": "2026-10-31T12:26:31.580Z",
   "novela": "Rubí",
   "poster": "https://image.tmdb.org/t/p/w500/5dL8vO8gGwRNcjEwXl3AX7I3sqT.jpg",
@@ -72,16 +72,19 @@
         },
         {
           "numero": 9,
-          "titulo": "Nuevo comienzo",
-          "url": "",
           "servidores": [
             "https://playmogo.com/e/nq7v9kkrtr9o"
-          ]
+          ],
+          "titulo": "Nuevo comienzo",
+          "url": ""
         },
         {
           "numero": 10,
           "titulo": "Falsas disculpas",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://playmogo.com/e/1khg3ixw7rur"
+          ]
         },
         {
           "numero": 11,
