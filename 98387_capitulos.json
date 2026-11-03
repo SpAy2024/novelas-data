@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-11-03T16:19:10.970Z",
+  "fecha_actualizacion": "2026-11-03T16:19:42.272Z",
   "fecha_creacion": "2026-10-31T12:26:31.580Z",
   "novela": "Rubí",
   "poster": "https://image.tmdb.org/t/p/w500/5dL8vO8gGwRNcjEwXl3AX7I3sqT.jpg",
@@ -64,16 +64,19 @@
         },
         {
           "numero": 8,
-          "titulo": "Esposo peligroso",
-          "url": "",
           "servidores": [
             "https://playmogo.com/e/syileafxlisl"
-          ]
+          ],
+          "titulo": "Esposo peligroso",
+          "url": ""
         },
         {
           "numero": 9,
           "titulo": "Nuevo comienzo",
-          "url": ""
+          "url": "",
+          "servidores": [
+            "https://playmogo.com/e/nq7v9kkrtr9o"
+          ]
         },
         {
           "numero": 10,
