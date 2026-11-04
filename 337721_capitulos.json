@@ -1,0 +1,27 @@
+{
+  "novela": "Prohibida Obsesion",
+  "tmdb_id": 337721,
+  "poster": "https://image.tmdb.org/t/p/w500/wCZtNtSDUj9oH92nXRX3Km2LC6P.jpg",
+  "temporadas": {
+    "temp_1": {
+      "numero": 1,
+      "titulo": "Prohibida Obsesion",
+      "fecha_extraccion": "2026-11-04T15:25:57.906Z",
+      "total_capitulos": 1,
+      "url": "https://ww2.ojearnovelas.com/tunovela/prohibida-obsesion/",
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Prohibida Obsesión | Capítulo 1 | Ver Completo",
+          "url": "https://ww2.ojearnovelas.com/ojea/prohibida-obsesion-capitulo-1/",
+          "servidores": [
+            "https://dooodster.com/e/281mcngmg61j",
+            "https://luluvdo.com/e/a323fprt5ede"
+          ]
+        }
+      ]
+    }
+  },
+  "total_temporadas": 1,
+  "total_capitulos": 1
+}
