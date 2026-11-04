@@ -7,7 +7,7 @@
     "temp_1": {
       "numero": 1,
       "titulo": "Temporada 1",
-      "fecha_extraccion": "2026-11-04T20:59:59.588Z",
+      "fecha_extraccion": "2026-11-04T21:01:25.447Z",
       "total_capitulos": 10,
       "capitulos": [
         {
@@ -75,6 +75,6 @@
   },
   "total_temporadas": 1,
   "total_capitulos": 10,
-  "fecha_creacion": "2026-11-04T20:59:59.790Z",
-  "fecha_actualizacion": "2026-11-04T20:59:59.790Z"
+  "fecha_creacion": "2026-11-04T21:01:25.647Z",
+  "fecha_actualizacion": "2026-11-04T21:01:25.647Z"
 }
