@@ -1,0 +1,180 @@
+{
+  "novela": "Mujeres Asesinas",
+  "tmdb_id": 213834,
+  "poster": "https://image.tmdb.org/t/p/w500/oSILC7PmGuvYxok7Pd6FvnI7EuX.jpg",
+  "url": null,
+  "temporadas": {
+    "temp_1": {
+      "numero": 1,
+      "titulo": "Temporada 1",
+      "fecha_extraccion": "2026-11-06T12:14:39.693Z",
+      "total_capitulos": 8,
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Las golondrinas",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 2,
+          "titulo": "La niña ladrona",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 3,
+          "titulo": "La insomne",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 4,
+          "titulo": "Llámame Paula",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Las bodas de plata",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 6,
+          "titulo": "Como hermanas",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 7,
+          "titulo": "La chef",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 8,
+          "titulo": "La condena",
+          "url": "",
+          "servidores": []
+        }
+      ]
+    },
+    "temp_2": {
+      "numero": 2,
+      "titulo": "Temporada 2",
+      "fecha_extraccion": "2026-11-06T12:14:39.990Z",
+      "total_capitulos": 8,
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Rosario",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Esmeralda",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Virginia",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 4,
+          "titulo": "Hortensia",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Lorenza",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 6,
+          "titulo": "Aurora",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 7,
+          "titulo": "Magdalena",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 8,
+          "titulo": "Nancy",
+          "url": "",
+          "servidores": []
+        }
+      ]
+    },
+    "temp_3": {
+      "numero": 3,
+      "titulo": "Temporada 3",
+      "fecha_extraccion": "2026-11-06T12:14:40.266Z",
+      "total_capitulos": 8,
+      "capitulos": [
+        {
+          "numero": 1,
+          "titulo": "Adriana",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 2,
+          "titulo": "Raquel",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 3,
+          "titulo": "Fátima",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 4,
+          "titulo": "Pilar",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 5,
+          "titulo": "Kenya",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 6,
+          "titulo": "Nayeli",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 7,
+          "titulo": "Anabel",
+          "url": "",
+          "servidores": []
+        },
+        {
+          "numero": 8,
+          "titulo": "Martha",
+          "url": "",
+          "servidores": []
+        }
+      ]
+    }
+  },
+  "total_temporadas": 3,
+  "total_capitulos": 24,
+  "fecha_creacion": "2026-11-06T12:14:40.467Z",
+  "fecha_actualizacion": "2026-11-06T12:14:40.467Z"
+}
