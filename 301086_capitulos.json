@@ -1,0 +1,17 @@
+{
+  "novela": "Novela",
+  "tmdb_id": 301086,
+  "poster": "https://image.tmdb.org/t/p/w500/w7P7D0Tfm4JohRcGJehC50F6N7x.jpg",
+  "temporadas": {
+    "temp_1": {
+      "numero": 1,
+      "titulo": "Novela",
+      "fecha_extraccion": "2026-11-08T15:55:11.135Z",
+      "total_capitulos": 0,
+      "url": "https://ojeonovelas.com/novela/papas-por-siempre/",
+      "capitulos": []
+    }
+  },
+  "total_temporadas": 1,
+  "total_capitulos": 0
+}
