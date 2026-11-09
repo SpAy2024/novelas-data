@@ -1,5 +1,5 @@
 {
-  "fecha_actualizacion": "2026-11-09T17:19:44.000Z",
+  "fecha_actualizacion": "2026-11-09T20:37:38.653Z",
   "novela": "El Senor De Los Cielos",
   "poster": "https://image.tmdb.org/t/p/w500/Ag7VUdnrRz5Qpq3Yn3E5OCvFnu0.jpg",
   "temporadas": {
@@ -827,11 +827,11 @@
         },
         {
           "numero": 85,
-          "titulo": "El Señor De Los Cielos 10 | Capítulo 85 | Ver Completo",
-          "url": "https://ojeonovelas.com/ver/el-senor-de-los-cielos-10-capitulo-85/",
           "servidores": [
-            "https://playmogo.com/e/q06aqlfaluyn"
-          ]
+            "https://playmogo.com/e/gnn9yilrr4gs"
+          ],
+          "titulo": "El Señor De Los Cielos 10 | Capítulo 85 | Ver Completo",
+          "url": "https://ojeonovelas.com/ver/el-senor-de-los-cielos-10-capitulo-85/"
         }
       ],
       "fecha_extraccion": "2026-10-27T14:30:26.794Z",
